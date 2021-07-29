@@ -1,0 +1,879 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="subscribers" type="long" />
+    </attributes>
+    <nodes>
+      <node id="MiloForPrison" label="MiloForPrison">
+        <attvalues>
+          <attvalue for="0" value="302" />
+        </attvalues>
+      </node>
+      <node id="ElwoodCityTwitter" label="ElwoodCityTwitter">
+        <attvalues>
+          <attvalue for="0" value="873" />
+        </attvalues>
+      </node>
+      <node id="teh_ronald" label="teh_ronald">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="TilapiaGate" label="TilapiaGate">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="enoughtrumpjerk" label="enoughtrumpjerk">
+        <attvalues>
+          <attvalue for="0" value="115" />
+        </attvalues>
+      </node>
+      <node id="conspiratardo" label="conspiratardo">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="Trump4Prison" label="Trump4Prison">
+        <attvalues>
+          <attvalue for="0" value="123" />
+        </attvalues>
+      </node>
+      <node id="calexit" label="calexit">
+        <attvalues>
+          <attvalue for="0" value="1860" />
+        </attvalues>
+      </node>
+      <node id="PenceGettingPounded" label="PenceGettingPounded">
+        <attvalues>
+          <attvalue for="0" value="22" />
+        </attvalues>
+      </node>
+      <node id="The_Donald_In_Action" label="The_Donald_In_Action">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="science" label="science">
+        <attvalues>
+          <attvalue for="0" value="14770125" />
+        </attvalues>
+      </node>
+      <node id="the_dolan" label="the_dolan">
+        <attvalues>
+          <attvalue for="0" value="40" />
+        </attvalues>
+      </node>
+      <node id="PostAmericanHistory" label="PostAmericanHistory">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="RyanPLS" label="RyanPLS">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="StonerCringe" label="StonerCringe">
+        <attvalues>
+          <attvalue for="0" value="3556" />
+        </attvalues>
+      </node>
+      <node id="fakenews" label="fakenews">
+        <attvalues>
+          <attvalue for="0" value="1718" />
+        </attvalues>
+      </node>
+      <node id="Fuckthealtright" label="Fuckthealtright">
+        <attvalues>
+          <attvalue for="0" value="2407" />
+        </attvalues>
+      </node>
+      <node id="moderator4all" label="moderator4all">
+        <attvalues>
+          <attvalue for="0" value="26" />
+        </attvalues>
+      </node>
+      <node id="DorkEnlightInAction" label="DorkEnlightInAction">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="TIWF" label="TIWF">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="HistoricalInternet" label="HistoricalInternet">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="Enough_Sanders_Spam" label="Enough_Sanders_Spam">
+        <attvalues>
+          <attvalue for="0" value="3206" />
+        </attvalues>
+      </node>
+      <node id="EnoughEnoughSpam" label="EnoughEnoughSpam">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="Alt_Right" label="Alt_Right">
+        <attvalues>
+          <attvalue for="0" value="15" />
+        </attvalues>
+      </node>
+      <node id="dungeonboss" label="dungeonboss">
+        <attvalues>
+          <attvalue for="0" value="1131" />
+        </attvalues>
+      </node>
+      <node id="EnoughRightSpam" label="EnoughRightSpam">
+        <attvalues>
+          <attvalue for="0" value="135" />
+        </attvalues>
+      </node>
+      <node id="StormClouds" label="StormClouds">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="JoshDonaldson" label="JoshDonaldson">
+        <attvalues>
+          <attvalue for="0" value="89" />
+        </attvalues>
+      </node>
+      <node id="MEMERAP" label="MEMERAP">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="BestOfSandersCulture" label="BestOfSandersCulture">
+        <attvalues>
+          <attvalue for="0" value="117" />
+        </attvalues>
+      </node>
+      <node id="DailyShowTV" label="DailyShowTV">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="JustShillThings" label="JustShillThings">
+        <attvalues>
+          <attvalue for="0" value="538" />
+        </attvalues>
+      </node>
+      <node id="the_meltdown" label="the_meltdown">
+        <attvalues>
+          <attvalue for="0" value="20275" />
+        </attvalues>
+      </node>
+      <node id="The_Duped" label="The_Duped">
+        <attvalues>
+          <attvalue for="0" value="1475" />
+        </attvalues>
+      </node>
+      <node id="berniebrosgonewild" label="berniebrosgonewild">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="The_Yeezus" label="The_Yeezus">
+        <attvalues>
+          <attvalue for="0" value="29" />
+        </attvalues>
+      </node>
+      <node id="MonkeysDoingStuff" label="MonkeysDoingStuff">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="WarInDarfur" label="WarInDarfur">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="ComeyForPrison" label="ComeyForPrison">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="Maureen" label="Maureen">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="EnoughSpezHate" label="EnoughSpezHate">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="stcroix" label="stcroix">
+        <attvalues>
+          <attvalue for="0" value="61" />
+        </attvalues>
+      </node>
+      <node id="RedditCarpool" label="RedditCarpool">
+        <attvalues>
+          <attvalue for="0" value="157" />
+        </attvalues>
+      </node>
+      <node id="sarcasm" label="sarcasm">
+        <attvalues>
+          <attvalue for="0" value="1742" />
+        </attvalues>
+      </node>
+      <node id="ImaginaryConspiracy" label="ImaginaryConspiracy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="PlacetoStay" label="PlacetoStay">
+        <attvalues>
+          <attvalue for="0" value="174" />
+        </attvalues>
+      </node>
+      <node id="The_Tammy" label="The_Tammy">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="nomic" label="nomic">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="MechanicalComputing" label="MechanicalComputing">
+        <attvalues>
+          <attvalue for="0" value="39" />
+        </attvalues>
+      </node>
+      <node id="AskTrumpStumpers" label="AskTrumpStumpers">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="EnoughAltRightSpam" label="EnoughAltRightSpam">
+        <attvalues>
+          <attvalue for="0" value="27" />
+        </attvalues>
+      </node>
+      <node id="Kossacks_for_Cherney" label="Kossacks_for_Cherney">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="2018Midterms" label="2018Midterms">
+        <attvalues>
+          <attvalue for="0" value="424" />
+        </attvalues>
+      </node>
+      <node id="Booker4President" label="Booker4President">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="islamforamerica" label="islamforamerica">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </node>
+      <node id="52WeeksOfPizza" label="52WeeksOfPizza">
+        <attvalues>
+          <attvalue for="0" value="96" />
+        </attvalues>
+      </node>
+      <node id="BlueMidterm2018" label="BlueMidterm2018">
+        <attvalues>
+          <attvalue for="0" value="3996" />
+        </attvalues>
+      </node>
+      <node id="discuss_politics" label="discuss_politics">
+        <attvalues>
+          <attvalue for="0" value="47" />
+        </attvalues>
+      </node>
+      <node id="HateSubredditOfTheDay" label="HateSubredditOfTheDay">
+        <attvalues>
+          <attvalue for="0" value="1994" />
+        </attvalues>
+      </node>
+      <node id="badmedicine" label="badmedicine">
+        <attvalues>
+          <attvalue for="0" value="338" />
+        </attvalues>
+      </node>
+      <node id="piet" label="piet">
+        <attvalues>
+          <attvalue for="0" value="30" />
+        </attvalues>
+      </node>
+      <node id="JayZForPresident" label="JayZForPresident">
+        <attvalues>
+          <attvalue for="0" value="16" />
+        </attvalues>
+      </node>
+      <node id="WTFAmerica" label="WTFAmerica">
+        <attvalues>
+          <attvalue for="0" value="14" />
+        </attvalues>
+      </node>
+      <node id="EnoughTrumpSpam" label="EnoughTrumpSpam">
+        <attvalues>
+          <attvalue for="0" value="63646" />
+        </attvalues>
+      </node>
+      <node id="redditisfunmasterrace" label="redditisfunmasterrace">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="ImaginaryYachtClub" label="ImaginaryYachtClub">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="the_cheeto" label="the_cheeto">
+        <attvalues>
+          <attvalue for="0" value="226" />
+        </attvalues>
+      </node>
+      <node id="T3stingposts" label="T3stingposts">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="TrumpPolicy" label="TrumpPolicy">
+        <attvalues>
+          <attvalue for="0" value="50" />
+        </attvalues>
+      </node>
+      <node id="ShitThe_DonaldSays" label="ShitThe_DonaldSays">
+        <attvalues>
+          <attvalue for="0" value="414" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="MiloForPrison" target="2018Midterms" weight="1" />
+      <edge id="1" source="MiloForPrison" target="HistoricalInternet" weight="1" />
+      <edge id="2" source="MiloForPrison" target="teh_ronald" weight="1" />
+      <edge id="3" source="MiloForPrison" target="JustShillThings" weight="1" />
+      <edge id="4" source="MiloForPrison" target="enoughtrumpjerk" weight="1" />
+      <edge id="5" source="MiloForPrison" target="conspiratardo" weight="1" />
+      <edge id="6" source="MiloForPrison" target="EnoughRightSpam" weight="1" />
+      <edge id="7" source="MiloForPrison" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="8" source="MiloForPrison" target="WTFAmerica" weight="1" />
+      <edge id="9" source="MiloForPrison" target="EnoughTrumpSpam" weight="1" />
+      <edge id="10" source="MiloForPrison" target="discuss_politics" weight="1" />
+      <edge id="11" source="MiloForPrison" target="The_Tammy" weight="1" />
+      <edge id="12" source="MiloForPrison" target="Fuckthealtright" weight="1" />
+      <edge id="13" source="MiloForPrison" target="DorkEnlightInAction" weight="1" />
+      <edge id="14" source="MiloForPrison" target="EnoughAltRightSpam" weight="1" />
+      <edge id="15" source="MiloForPrison" target="The_Duped" weight="1" />
+      <edge id="16" source="MiloForPrison" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="17" source="ElwoodCityTwitter" target="JayZForPresident" weight="1" />
+      <edge id="18" source="ElwoodCityTwitter" target="EnoughTrumpSpam" weight="1" />
+      <edge id="19" source="ElwoodCityTwitter" target="Fuckthealtright" weight="1" />
+      <edge id="20" source="ElwoodCityTwitter" target="JoshDonaldson" weight="1" />
+      <edge id="21" source="ElwoodCityTwitter" target="Booker4President" weight="1" />
+      <edge id="22" source="ElwoodCityTwitter" target="MEMERAP" weight="1" />
+      <edge id="23" source="ElwoodCityTwitter" target="redditisfunmasterrace" weight="1" />
+      <edge id="24" source="ElwoodCityTwitter" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="25" source="teh_ronald" target="Alt_Right" weight="2" />
+      <edge id="26" source="teh_ronald" target="MonkeysDoingStuff" weight="1" />
+      <edge id="27" source="teh_ronald" target="Booker4President" weight="2" />
+      <edge id="28" source="teh_ronald" target="TilapiaGate" weight="1" />
+      <edge id="29" source="teh_ronald" target="AskTrumpStumpers" weight="6" />
+      <edge id="30" source="teh_ronald" target="enoughtrumpjerk" weight="4" />
+      <edge id="31" source="teh_ronald" target="conspiratardo" weight="1" />
+      <edge id="32" source="teh_ronald" target="Trump4Prison" weight="1" />
+      <edge id="33" source="teh_ronald" target="EnoughSpezHate" weight="1" />
+      <edge id="34" source="teh_ronald" target="dungeonboss" weight="1" />
+      <edge id="35" source="teh_ronald" target="EnoughAltRightSpam" weight="3" />
+      <edge id="36" source="teh_ronald" target="ImaginaryConspiracy" weight="1" />
+      <edge id="37" source="teh_ronald" target="the_dolan" weight="1" />
+      <edge id="38" source="teh_ronald" target="The_Tammy" weight="1" />
+      <edge id="39" source="teh_ronald" target="RyanPLS" weight="1" />
+      <edge id="40" source="teh_ronald" target="DorkEnlightInAction" weight="1" />
+      <edge id="41" source="teh_ronald" target="StonerCringe" weight="3" />
+      <edge id="42" source="teh_ronald" target="fakenews" weight="1" />
+      <edge id="43" source="teh_ronald" target="Fuckthealtright" weight="1" />
+      <edge id="44" source="teh_ronald" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="45" source="teh_ronald" target="2018Midterms" weight="4" />
+      <edge id="46" source="teh_ronald" target="sarcasm" weight="2" />
+      <edge id="47" source="teh_ronald" target="TIWF" weight="1" />
+      <edge id="48" source="teh_ronald" target="HistoricalInternet" weight="1" />
+      <edge id="49" source="teh_ronald" target="Enough_Sanders_Spam" weight="2" />
+      <edge id="50" source="teh_ronald" target="EnoughEnoughSpam" weight="2" />
+      <edge id="51" source="teh_ronald" target="WarInDarfur" weight="1" />
+      <edge id="52" source="teh_ronald" target="calexit" weight="1" />
+      <edge id="53" source="teh_ronald" target="discuss_politics" weight="3" />
+      <edge id="54" source="teh_ronald" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="55" source="teh_ronald" target="StormClouds" weight="1" />
+      <edge id="56" source="teh_ronald" target="WTFAmerica" weight="1" />
+      <edge id="57" source="teh_ronald" target="EnoughTrumpSpam" weight="9" />
+      <edge id="58" source="teh_ronald" target="ImaginaryYachtClub" weight="1" />
+      <edge id="59" source="teh_ronald" target="the_cheeto" weight="1" />
+      <edge id="60" source="teh_ronald" target="DailyShowTV" weight="1" />
+      <edge id="61" source="teh_ronald" target="ShitThe_DonaldSays" weight="3" />
+      <edge id="62" source="teh_ronald" target="JustShillThings" weight="3" />
+      <edge id="63" source="teh_ronald" target="the_meltdown" weight="2" />
+      <edge id="64" source="teh_ronald" target="The_Duped" weight="2" />
+      <edge id="65" source="teh_ronald" target="EnoughRightSpam" weight="3" />
+      <edge id="66" source="TilapiaGate" target="sarcasm" weight="1" />
+      <edge id="67" source="TilapiaGate" target="MonkeysDoingStuff" weight="1" />
+      <edge id="68" source="TilapiaGate" target="Enough_Sanders_Spam" weight="1" />
+      <edge id="69" source="TilapiaGate" target="ImaginaryYachtClub" weight="1" />
+      <edge id="70" source="TilapiaGate" target="enoughtrumpjerk" weight="1" />
+      <edge id="71" source="TilapiaGate" target="EnoughSpezHate" weight="1" />
+      <edge id="72" source="TilapiaGate" target="StormClouds" weight="1" />
+      <edge id="73" source="TilapiaGate" target="EnoughTrumpSpam" weight="1" />
+      <edge id="74" source="TilapiaGate" target="ImaginaryConspiracy" weight="1" />
+      <edge id="75" source="TilapiaGate" target="AskTrumpStumpers" weight="1" />
+      <edge id="76" source="TilapiaGate" target="StonerCringe" weight="1" />
+      <edge id="77" source="TilapiaGate" target="the_meltdown" weight="1" />
+      <edge id="78" source="enoughtrumpjerk" target="MonkeysDoingStuff" weight="1" />
+      <edge id="79" source="enoughtrumpjerk" target="conspiratardo" weight="1" />
+      <edge id="80" source="enoughtrumpjerk" target="Trump4Prison" weight="1" />
+      <edge id="81" source="enoughtrumpjerk" target="EnoughSpezHate" weight="1" />
+      <edge id="82" source="enoughtrumpjerk" target="sarcasm" weight="3" />
+      <edge id="83" source="enoughtrumpjerk" target="ImaginaryConspiracy" weight="1" />
+      <edge id="84" source="enoughtrumpjerk" target="the_dolan" weight="1" />
+      <edge id="85" source="enoughtrumpjerk" target="The_Tammy" weight="1" />
+      <edge id="86" source="enoughtrumpjerk" target="DorkEnlightInAction" weight="1" />
+      <edge id="87" source="enoughtrumpjerk" target="EnoughAltRightSpam" weight="3" />
+      <edge id="88" source="enoughtrumpjerk" target="Fuckthealtright" weight="1" />
+      <edge id="89" source="enoughtrumpjerk" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="90" source="enoughtrumpjerk" target="2018Midterms" weight="3" />
+      <edge id="91" source="enoughtrumpjerk" target="AskTrumpStumpers" weight="3" />
+      <edge id="92" source="enoughtrumpjerk" target="TIWF" weight="1" />
+      <edge id="93" source="enoughtrumpjerk" target="HistoricalInternet" weight="1" />
+      <edge id="94" source="enoughtrumpjerk" target="Enough_Sanders_Spam" weight="3" />
+      <edge id="95" source="enoughtrumpjerk" target="EnoughEnoughSpam" weight="1" />
+      <edge id="96" source="enoughtrumpjerk" target="Alt_Right" weight="1" />
+      <edge id="97" source="enoughtrumpjerk" target="discuss_politics" weight="3" />
+      <edge id="98" source="enoughtrumpjerk" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="99" source="enoughtrumpjerk" target="StormClouds" weight="1" />
+      <edge id="100" source="enoughtrumpjerk" target="WTFAmerica" weight="1" />
+      <edge id="101" source="enoughtrumpjerk" target="EnoughTrumpSpam" weight="5" />
+      <edge id="102" source="enoughtrumpjerk" target="ImaginaryYachtClub" weight="1" />
+      <edge id="103" source="enoughtrumpjerk" target="StonerCringe" weight="2" />
+      <edge id="104" source="enoughtrumpjerk" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="105" source="enoughtrumpjerk" target="JustShillThings" weight="1" />
+      <edge id="106" source="enoughtrumpjerk" target="the_meltdown" weight="2" />
+      <edge id="107" source="enoughtrumpjerk" target="The_Duped" weight="1" />
+      <edge id="108" source="enoughtrumpjerk" target="EnoughRightSpam" weight="3" />
+      <edge id="109" source="conspiratardo" target="2018Midterms" weight="1" />
+      <edge id="110" source="conspiratardo" target="HistoricalInternet" weight="1" />
+      <edge id="111" source="conspiratardo" target="JustShillThings" weight="1" />
+      <edge id="112" source="conspiratardo" target="EnoughRightSpam" weight="1" />
+      <edge id="113" source="conspiratardo" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="114" source="conspiratardo" target="WTFAmerica" weight="1" />
+      <edge id="115" source="conspiratardo" target="EnoughTrumpSpam" weight="1" />
+      <edge id="116" source="conspiratardo" target="discuss_politics" weight="1" />
+      <edge id="117" source="conspiratardo" target="The_Tammy" weight="1" />
+      <edge id="118" source="conspiratardo" target="Fuckthealtright" weight="1" />
+      <edge id="119" source="conspiratardo" target="DorkEnlightInAction" weight="1" />
+      <edge id="120" source="conspiratardo" target="EnoughAltRightSpam" weight="1" />
+      <edge id="121" source="conspiratardo" target="The_Duped" weight="1" />
+      <edge id="122" source="conspiratardo" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="123" source="Trump4Prison" target="TIWF" weight="1" />
+      <edge id="124" source="Trump4Prison" target="Enough_Sanders_Spam" weight="1" />
+      <edge id="125" source="Trump4Prison" target="EnoughEnoughSpam" weight="1" />
+      <edge id="126" source="Trump4Prison" target="Alt_Right" weight="1" />
+      <edge id="127" source="Trump4Prison" target="EnoughRightSpam" weight="1" />
+      <edge id="128" source="Trump4Prison" target="EnoughTrumpSpam" weight="1" />
+      <edge id="129" source="Trump4Prison" target="discuss_politics" weight="1" />
+      <edge id="130" source="Trump4Prison" target="the_dolan" weight="1" />
+      <edge id="131" source="Trump4Prison" target="EnoughAltRightSpam" weight="1" />
+      <edge id="132" source="Trump4Prison" target="AskTrumpStumpers" weight="1" />
+      <edge id="133" source="Trump4Prison" target="StonerCringe" weight="1" />
+      <edge id="134" source="Trump4Prison" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="135" source="calexit" target="EnoughTrumpSpam" weight="1" />
+      <edge id="136" source="calexit" target="JustShillThings" weight="1" />
+      <edge id="137" source="calexit" target="AskTrumpStumpers" weight="1" />
+      <edge id="138" source="calexit" target="StonerCringe" weight="1" />
+      <edge id="139" source="calexit" target="dungeonboss" weight="1" />
+      <edge id="140" source="calexit" target="The_Duped" weight="1" />
+      <edge id="141" source="PenceGettingPounded" target="EnoughTrumpSpam" weight="1" />
+      <edge id="142" source="PenceGettingPounded" target="Maureen" weight="1" />
+      <edge id="143" source="PenceGettingPounded" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="144" source="The_Donald_In_Action" target="EnoughTrumpSpam" weight="1" />
+      <edge id="145" source="The_Donald_In_Action" target="HistoricalInternet" weight="1" />
+      <edge id="146" source="The_Donald_In_Action" target="islamforamerica" weight="1" />
+      <edge id="147" source="The_Donald_In_Action" target="ComeyForPrison" weight="1" />
+      <edge id="148" source="The_Donald_In_Action" target="Booker4President" weight="1" />
+      <edge id="149" source="The_Donald_In_Action" target="T3stingposts" weight="1" />
+      <edge id="150" source="The_Donald_In_Action" target="The_Duped" weight="1" />
+      <edge id="151" source="The_Donald_In_Action" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="152" source="science" target="EnoughTrumpSpam" weight="1" />
+      <edge id="153" source="the_dolan" target="TIWF" weight="1" />
+      <edge id="154" source="the_dolan" target="Enough_Sanders_Spam" weight="1" />
+      <edge id="155" source="the_dolan" target="EnoughEnoughSpam" weight="1" />
+      <edge id="156" source="the_dolan" target="Alt_Right" weight="1" />
+      <edge id="157" source="the_dolan" target="discuss_politics" weight="1" />
+      <edge id="158" source="the_dolan" target="EnoughTrumpSpam" weight="1" />
+      <edge id="159" source="the_dolan" target="EnoughRightSpam" weight="1" />
+      <edge id="160" source="the_dolan" target="EnoughAltRightSpam" weight="1" />
+      <edge id="161" source="the_dolan" target="AskTrumpStumpers" weight="1" />
+      <edge id="162" source="the_dolan" target="StonerCringe" weight="1" />
+      <edge id="163" source="the_dolan" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="164" source="PostAmericanHistory" target="nomic" weight="1" />
+      <edge id="165" source="PostAmericanHistory" target="TrumpPolicy" weight="1" />
+      <edge id="166" source="PostAmericanHistory" target="stcroix" weight="1" />
+      <edge id="167" source="PostAmericanHistory" target="piet" weight="1" />
+      <edge id="168" source="PostAmericanHistory" target="BestOfSandersCulture" weight="1" />
+      <edge id="169" source="PostAmericanHistory" target="MechanicalComputing" weight="1" />
+      <edge id="170" source="PostAmericanHistory" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="171" source="PostAmericanHistory" target="52WeeksOfPizza" weight="1" />
+      <edge id="172" source="PostAmericanHistory" target="EnoughTrumpSpam" weight="1" />
+      <edge id="173" source="PostAmericanHistory" target="badmedicine" weight="1" />
+      <edge id="174" source="RyanPLS" target="2018Midterms" weight="1" />
+      <edge id="175" source="RyanPLS" target="EnoughTrumpSpam" weight="1" />
+      <edge id="176" source="RyanPLS" target="WarInDarfur" weight="1" />
+      <edge id="177" source="RyanPLS" target="Alt_Right" weight="1" />
+      <edge id="178" source="RyanPLS" target="fakenews" weight="1" />
+      <edge id="179" source="RyanPLS" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="180" source="StonerCringe" target="MonkeysDoingStuff" weight="1" />
+      <edge id="181" source="StonerCringe" target="EnoughSpezHate" weight="1" />
+      <edge id="182" source="StonerCringe" target="EnoughAltRightSpam" weight="1" />
+      <edge id="183" source="StonerCringe" target="EnoughRightSpam" weight="1" />
+      <edge id="184" source="StonerCringe" target="AskTrumpStumpers" weight="3" />
+      <edge id="185" source="StonerCringe" target="EnoughEnoughSpam" weight="1" />
+      <edge id="186" source="StonerCringe" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="187" source="StonerCringe" target="sarcasm" weight="1" />
+      <edge id="188" source="StonerCringe" target="TIWF" weight="1" />
+      <edge id="189" source="StonerCringe" target="Enough_Sanders_Spam" weight="2" />
+      <edge id="190" source="StonerCringe" target="ImaginaryYachtClub" weight="1" />
+      <edge id="191" source="StonerCringe" target="Alt_Right" weight="1" />
+      <edge id="192" source="StonerCringe" target="dungeonboss" weight="1" />
+      <edge id="193" source="StonerCringe" target="discuss_politics" weight="1" />
+      <edge id="194" source="StonerCringe" target="StormClouds" weight="1" />
+      <edge id="195" source="StonerCringe" target="EnoughTrumpSpam" weight="3" />
+      <edge id="196" source="StonerCringe" target="JustShillThings" weight="1" />
+      <edge id="197" source="StonerCringe" target="the_meltdown" weight="1" />
+      <edge id="198" source="StonerCringe" target="The_Duped" weight="1" />
+      <edge id="199" source="StonerCringe" target="ImaginaryConspiracy" weight="1" />
+      <edge id="200" source="fakenews" target="2018Midterms" weight="1" />
+      <edge id="201" source="fakenews" target="Alt_Right" weight="1" />
+      <edge id="202" source="fakenews" target="EnoughTrumpSpam" weight="1" />
+      <edge id="203" source="fakenews" target="WarInDarfur" weight="1" />
+      <edge id="204" source="fakenews" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="205" source="Fuckthealtright" target="The_Tammy" weight="1" />
+      <edge id="206" source="Fuckthealtright" target="EnoughRightSpam" weight="1" />
+      <edge id="207" source="Fuckthealtright" target="DorkEnlightInAction" weight="1" />
+      <edge id="208" source="Fuckthealtright" target="EnoughAltRightSpam" weight="1" />
+      <edge id="209" source="Fuckthealtright" target="2018Midterms" weight="1" />
+      <edge id="210" source="Fuckthealtright" target="HistoricalInternet" weight="1" />
+      <edge id="211" source="Fuckthealtright" target="Booker4President" weight="1" />
+      <edge id="212" source="Fuckthealtright" target="discuss_politics" weight="1" />
+      <edge id="213" source="Fuckthealtright" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="214" source="Fuckthealtright" target="JayZForPresident" weight="1" />
+      <edge id="215" source="Fuckthealtright" target="WTFAmerica" weight="1" />
+      <edge id="216" source="Fuckthealtright" target="EnoughTrumpSpam" weight="2" />
+      <edge id="217" source="Fuckthealtright" target="The_Duped" weight="1" />
+      <edge id="218" source="Fuckthealtright" target="JoshDonaldson" weight="1" />
+      <edge id="219" source="Fuckthealtright" target="MEMERAP" weight="1" />
+      <edge id="220" source="Fuckthealtright" target="JustShillThings" weight="1" />
+      <edge id="221" source="Fuckthealtright" target="redditisfunmasterrace" weight="1" />
+      <edge id="222" source="Fuckthealtright" target="ShitThe_DonaldSays" weight="2" />
+      <edge id="223" source="moderator4all" target="EnoughTrumpSpam" weight="1" />
+      <edge id="224" source="DorkEnlightInAction" target="2018Midterms" weight="1" />
+      <edge id="225" source="DorkEnlightInAction" target="HistoricalInternet" weight="1" />
+      <edge id="226" source="DorkEnlightInAction" target="JustShillThings" weight="1" />
+      <edge id="227" source="DorkEnlightInAction" target="EnoughRightSpam" weight="1" />
+      <edge id="228" source="DorkEnlightInAction" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="229" source="DorkEnlightInAction" target="WTFAmerica" weight="1" />
+      <edge id="230" source="DorkEnlightInAction" target="EnoughTrumpSpam" weight="1" />
+      <edge id="231" source="DorkEnlightInAction" target="The_Duped" weight="1" />
+      <edge id="232" source="DorkEnlightInAction" target="The_Tammy" weight="1" />
+      <edge id="233" source="DorkEnlightInAction" target="EnoughAltRightSpam" weight="1" />
+      <edge id="234" source="DorkEnlightInAction" target="discuss_politics" weight="1" />
+      <edge id="235" source="DorkEnlightInAction" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="236" source="TIWF" target="Enough_Sanders_Spam" weight="1" />
+      <edge id="237" source="TIWF" target="EnoughAltRightSpam" weight="1" />
+      <edge id="238" source="TIWF" target="Alt_Right" weight="1" />
+      <edge id="239" source="TIWF" target="EnoughRightSpam" weight="1" />
+      <edge id="240" source="TIWF" target="EnoughTrumpSpam" weight="1" />
+      <edge id="241" source="TIWF" target="discuss_politics" weight="1" />
+      <edge id="242" source="TIWF" target="AskTrumpStumpers" weight="1" />
+      <edge id="243" source="TIWF" target="EnoughEnoughSpam" weight="1" />
+      <edge id="244" source="TIWF" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="245" source="HistoricalInternet" target="ComeyForPrison" weight="1" />
+      <edge id="246" source="HistoricalInternet" target="The_Tammy" weight="1" />
+      <edge id="247" source="HistoricalInternet" target="EnoughRightSpam" weight="1" />
+      <edge id="248" source="HistoricalInternet" target="EnoughAltRightSpam" weight="1" />
+      <edge id="249" source="HistoricalInternet" target="2018Midterms" weight="1" />
+      <edge id="250" source="HistoricalInternet" target="Booker4President" weight="1" />
+      <edge id="251" source="HistoricalInternet" target="discuss_politics" weight="1" />
+      <edge id="252" source="HistoricalInternet" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="253" source="HistoricalInternet" target="WTFAmerica" weight="1" />
+      <edge id="254" source="HistoricalInternet" target="EnoughTrumpSpam" weight="2" />
+      <edge id="255" source="HistoricalInternet" target="islamforamerica" weight="1" />
+      <edge id="256" source="HistoricalInternet" target="T3stingposts" weight="1" />
+      <edge id="257" source="HistoricalInternet" target="JustShillThings" weight="1" />
+      <edge id="258" source="HistoricalInternet" target="The_Duped" weight="2" />
+      <edge id="259" source="HistoricalInternet" target="ShitThe_DonaldSays" weight="2" />
+      <edge id="260" source="Enough_Sanders_Spam" target="MonkeysDoingStuff" weight="1" />
+      <edge id="261" source="Enough_Sanders_Spam" target="EnoughSpezHate" weight="1" />
+      <edge id="262" source="Enough_Sanders_Spam" target="EnoughAltRightSpam" weight="1" />
+      <edge id="263" source="Enough_Sanders_Spam" target="EnoughRightSpam" weight="1" />
+      <edge id="264" source="Enough_Sanders_Spam" target="sarcasm" weight="2" />
+      <edge id="265" source="Enough_Sanders_Spam" target="EnoughEnoughSpam" weight="2" />
+      <edge id="266" source="Enough_Sanders_Spam" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="267" source="Enough_Sanders_Spam" target="2018Midterms" weight="2" />
+      <edge id="268" source="Enough_Sanders_Spam" target="AskTrumpStumpers" weight="3" />
+      <edge id="269" source="Enough_Sanders_Spam" target="Alt_Right" weight="1" />
+      <edge id="270" source="Enough_Sanders_Spam" target="discuss_politics" weight="1" />
+      <edge id="271" source="Enough_Sanders_Spam" target="StormClouds" weight="1" />
+      <edge id="272" source="Enough_Sanders_Spam" target="EnoughTrumpSpam" weight="4" />
+      <edge id="273" source="Enough_Sanders_Spam" target="ImaginaryYachtClub" weight="1" />
+      <edge id="274" source="Enough_Sanders_Spam" target="the_meltdown" weight="2" />
+      <edge id="275" source="Enough_Sanders_Spam" target="ImaginaryConspiracy" weight="1" />
+      <edge id="276" source="EnoughEnoughSpam" target="2018Midterms" weight="1" />
+      <edge id="277" source="EnoughEnoughSpam" target="Booker4President" weight="1" />
+      <edge id="278" source="EnoughEnoughSpam" target="Alt_Right" weight="1" />
+      <edge id="279" source="EnoughEnoughSpam" target="EnoughRightSpam" weight="1" />
+      <edge id="280" source="EnoughEnoughSpam" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="281" source="EnoughEnoughSpam" target="EnoughTrumpSpam" weight="3" />
+      <edge id="282" source="EnoughEnoughSpam" target="discuss_politics" weight="1" />
+      <edge id="283" source="EnoughEnoughSpam" target="JustShillThings" weight="1" />
+      <edge id="284" source="EnoughEnoughSpam" target="the_cheeto" weight="1" />
+      <edge id="285" source="EnoughEnoughSpam" target="AskTrumpStumpers" weight="3" />
+      <edge id="286" source="EnoughEnoughSpam" target="EnoughAltRightSpam" weight="1" />
+      <edge id="287" source="EnoughEnoughSpam" target="DailyShowTV" weight="1" />
+      <edge id="288" source="EnoughEnoughSpam" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="289" source="Alt_Right" target="2018Midterms" weight="1" />
+      <edge id="290" source="Alt_Right" target="WarInDarfur" weight="1" />
+      <edge id="291" source="Alt_Right" target="EnoughRightSpam" weight="1" />
+      <edge id="292" source="Alt_Right" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="293" source="Alt_Right" target="EnoughTrumpSpam" weight="2" />
+      <edge id="294" source="Alt_Right" target="discuss_politics" weight="1" />
+      <edge id="295" source="Alt_Right" target="AskTrumpStumpers" weight="1" />
+      <edge id="296" source="Alt_Right" target="EnoughAltRightSpam" weight="1" />
+      <edge id="297" source="Alt_Right" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="298" source="dungeonboss" target="EnoughTrumpSpam" weight="1" />
+      <edge id="299" source="dungeonboss" target="AskTrumpStumpers" weight="1" />
+      <edge id="300" source="dungeonboss" target="JustShillThings" weight="1" />
+      <edge id="301" source="dungeonboss" target="The_Duped" weight="1" />
+      <edge id="302" source="EnoughRightSpam" target="The_Tammy" weight="1" />
+      <edge id="303" source="EnoughRightSpam" target="sarcasm" weight="1" />
+      <edge id="304" source="EnoughRightSpam" target="EnoughAltRightSpam" weight="3" />
+      <edge id="305" source="EnoughRightSpam" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="306" source="EnoughRightSpam" target="2018Midterms" weight="2" />
+      <edge id="307" source="EnoughRightSpam" target="AskTrumpStumpers" weight="2" />
+      <edge id="308" source="EnoughRightSpam" target="discuss_politics" weight="3" />
+      <edge id="309" source="EnoughRightSpam" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="310" source="EnoughRightSpam" target="WTFAmerica" weight="1" />
+      <edge id="311" source="EnoughRightSpam" target="EnoughTrumpSpam" weight="3" />
+      <edge id="312" source="EnoughRightSpam" target="JustShillThings" weight="1" />
+      <edge id="313" source="EnoughRightSpam" target="The_Duped" weight="1" />
+      <edge id="314" source="EnoughRightSpam" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="315" source="StormClouds" target="AskTrumpStumpers" weight="1" />
+      <edge id="316" source="StormClouds" target="MonkeysDoingStuff" weight="1" />
+      <edge id="317" source="StormClouds" target="ImaginaryYachtClub" weight="1" />
+      <edge id="318" source="StormClouds" target="EnoughSpezHate" weight="1" />
+      <edge id="319" source="StormClouds" target="EnoughTrumpSpam" weight="1" />
+      <edge id="320" source="StormClouds" target="ImaginaryConspiracy" weight="1" />
+      <edge id="321" source="StormClouds" target="sarcasm" weight="1" />
+      <edge id="322" source="StormClouds" target="the_meltdown" weight="1" />
+      <edge id="323" source="JoshDonaldson" target="EnoughTrumpSpam" weight="1" />
+      <edge id="324" source="JoshDonaldson" target="Booker4President" weight="1" />
+      <edge id="325" source="JoshDonaldson" target="MEMERAP" weight="1" />
+      <edge id="326" source="JoshDonaldson" target="JayZForPresident" weight="1" />
+      <edge id="327" source="JoshDonaldson" target="redditisfunmasterrace" weight="1" />
+      <edge id="328" source="JoshDonaldson" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="329" source="MEMERAP" target="EnoughTrumpSpam" weight="1" />
+      <edge id="330" source="MEMERAP" target="redditisfunmasterrace" weight="1" />
+      <edge id="331" source="MEMERAP" target="Booker4President" weight="1" />
+      <edge id="332" source="MEMERAP" target="JayZForPresident" weight="1" />
+      <edge id="333" source="MEMERAP" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="334" source="BestOfSandersCulture" target="EnoughTrumpSpam" weight="1" />
+      <edge id="335" source="BestOfSandersCulture" target="stcroix" weight="1" />
+      <edge id="336" source="BestOfSandersCulture" target="piet" weight="1" />
+      <edge id="337" source="BestOfSandersCulture" target="nomic" weight="1" />
+      <edge id="338" source="BestOfSandersCulture" target="MechanicalComputing" weight="1" />
+      <edge id="339" source="BestOfSandersCulture" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="340" source="BestOfSandersCulture" target="52WeeksOfPizza" weight="1" />
+      <edge id="341" source="BestOfSandersCulture" target="TrumpPolicy" weight="1" />
+      <edge id="342" source="BestOfSandersCulture" target="badmedicine" weight="1" />
+      <edge id="343" source="DailyShowTV" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="344" source="DailyShowTV" target="EnoughTrumpSpam" weight="1" />
+      <edge id="345" source="DailyShowTV" target="Booker4President" weight="1" />
+      <edge id="346" source="DailyShowTV" target="the_cheeto" weight="1" />
+      <edge id="347" source="DailyShowTV" target="AskTrumpStumpers" weight="1" />
+      <edge id="348" source="DailyShowTV" target="JustShillThings" weight="1" />
+      <edge id="349" source="JustShillThings" target="EnoughAltRightSpam" weight="1" />
+      <edge id="350" source="JustShillThings" target="discuss_politics" weight="1" />
+      <edge id="351" source="JustShillThings" target="The_Tammy" weight="1" />
+      <edge id="352" source="JustShillThings" target="the_cheeto" weight="1" />
+      <edge id="353" source="JustShillThings" target="2018Midterms" weight="1" />
+      <edge id="354" source="JustShillThings" target="AskTrumpStumpers" weight="2" />
+      <edge id="355" source="JustShillThings" target="Booker4President" weight="1" />
+      <edge id="356" source="JustShillThings" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="357" source="JustShillThings" target="WTFAmerica" weight="1" />
+      <edge id="358" source="JustShillThings" target="EnoughTrumpSpam" weight="3" />
+      <edge id="359" source="JustShillThings" target="The_Duped" weight="2" />
+      <edge id="360" source="JustShillThings" target="ShitThe_DonaldSays" weight="2" />
+      <edge id="361" source="the_meltdown" target="2018Midterms" weight="2" />
+      <edge id="362" source="the_meltdown" target="sarcasm" weight="2" />
+      <edge id="363" source="the_meltdown" target="MonkeysDoingStuff" weight="1" />
+      <edge id="364" source="the_meltdown" target="Booker4President" weight="1" />
+      <edge id="365" source="the_meltdown" target="ImaginaryYachtClub" weight="1" />
+      <edge id="366" source="the_meltdown" target="EnoughSpezHate" weight="1" />
+      <edge id="367" source="the_meltdown" target="EnoughTrumpSpam" weight="3" />
+      <edge id="368" source="the_meltdown" target="ImaginaryConspiracy" weight="1" />
+      <edge id="369" source="the_meltdown" target="AskTrumpStumpers" weight="2" />
+      <edge id="370" source="The_Duped" target="ComeyForPrison" weight="1" />
+      <edge id="371" source="The_Duped" target="discuss_politics" weight="1" />
+      <edge id="372" source="The_Duped" target="The_Tammy" weight="1" />
+      <edge id="373" source="The_Duped" target="Booker4President" weight="1" />
+      <edge id="374" source="The_Duped" target="EnoughAltRightSpam" weight="1" />
+      <edge id="375" source="The_Duped" target="2018Midterms" weight="1" />
+      <edge id="376" source="The_Duped" target="AskTrumpStumpers" weight="1" />
+      <edge id="377" source="The_Duped" target="islamforamerica" weight="1" />
+      <edge id="378" source="The_Duped" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="379" source="The_Duped" target="WTFAmerica" weight="1" />
+      <edge id="380" source="The_Duped" target="EnoughTrumpSpam" weight="3" />
+      <edge id="381" source="The_Duped" target="T3stingposts" weight="1" />
+      <edge id="382" source="The_Duped" target="ShitThe_DonaldSays" weight="2" />
+      <edge id="383" source="berniebrosgonewild" target="EnoughTrumpSpam" weight="1" />
+      <edge id="384" source="The_Yeezus" target="EnoughTrumpSpam" weight="1" />
+      <edge id="385" source="MonkeysDoingStuff" target="AskTrumpStumpers" weight="1" />
+      <edge id="386" source="MonkeysDoingStuff" target="ImaginaryYachtClub" weight="1" />
+      <edge id="387" source="MonkeysDoingStuff" target="EnoughSpezHate" weight="1" />
+      <edge id="388" source="MonkeysDoingStuff" target="EnoughTrumpSpam" weight="1" />
+      <edge id="389" source="MonkeysDoingStuff" target="ImaginaryConspiracy" weight="1" />
+      <edge id="390" source="MonkeysDoingStuff" target="sarcasm" weight="1" />
+      <edge id="391" source="WarInDarfur" target="2018Midterms" weight="1" />
+      <edge id="392" source="WarInDarfur" target="EnoughTrumpSpam" weight="1" />
+      <edge id="393" source="WarInDarfur" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="394" source="ComeyForPrison" target="T3stingposts" weight="1" />
+      <edge id="395" source="ComeyForPrison" target="Booker4President" weight="1" />
+      <edge id="396" source="ComeyForPrison" target="EnoughTrumpSpam" weight="1" />
+      <edge id="397" source="ComeyForPrison" target="islamforamerica" weight="1" />
+      <edge id="398" source="ComeyForPrison" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="399" source="Maureen" target="EnoughTrumpSpam" weight="1" />
+      <edge id="400" source="Maureen" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="401" source="EnoughSpezHate" target="AskTrumpStumpers" weight="1" />
+      <edge id="402" source="EnoughSpezHate" target="ImaginaryYachtClub" weight="1" />
+      <edge id="403" source="EnoughSpezHate" target="EnoughTrumpSpam" weight="1" />
+      <edge id="404" source="EnoughSpezHate" target="ImaginaryConspiracy" weight="1" />
+      <edge id="405" source="EnoughSpezHate" target="sarcasm" weight="1" />
+      <edge id="406" source="stcroix" target="EnoughTrumpSpam" weight="1" />
+      <edge id="407" source="stcroix" target="piet" weight="1" />
+      <edge id="408" source="stcroix" target="nomic" weight="1" />
+      <edge id="409" source="stcroix" target="MechanicalComputing" weight="1" />
+      <edge id="410" source="stcroix" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="411" source="stcroix" target="52WeeksOfPizza" weight="1" />
+      <edge id="412" source="stcroix" target="TrumpPolicy" weight="1" />
+      <edge id="413" source="stcroix" target="badmedicine" weight="1" />
+      <edge id="414" source="RedditCarpool" target="EnoughTrumpSpam" weight="1" />
+      <edge id="415" source="RedditCarpool" target="PlacetoStay" weight="1" />
+      <edge id="416" source="sarcasm" target="2018Midterms" weight="2" />
+      <edge id="417" source="sarcasm" target="EnoughTrumpSpam" weight="3" />
+      <edge id="418" source="sarcasm" target="discuss_politics" weight="1" />
+      <edge id="419" source="sarcasm" target="ImaginaryYachtClub" weight="1" />
+      <edge id="420" source="sarcasm" target="AskTrumpStumpers" weight="2" />
+      <edge id="421" source="sarcasm" target="EnoughAltRightSpam" weight="1" />
+      <edge id="422" source="sarcasm" target="ImaginaryConspiracy" weight="1" />
+      <edge id="423" source="ImaginaryConspiracy" target="AskTrumpStumpers" weight="1" />
+      <edge id="424" source="ImaginaryConspiracy" target="ImaginaryYachtClub" weight="1" />
+      <edge id="425" source="ImaginaryConspiracy" target="EnoughTrumpSpam" weight="1" />
+      <edge id="426" source="PlacetoStay" target="EnoughTrumpSpam" weight="1" />
+      <edge id="427" source="The_Tammy" target="2018Midterms" weight="1" />
+      <edge id="428" source="The_Tammy" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="429" source="The_Tammy" target="WTFAmerica" weight="1" />
+      <edge id="430" source="The_Tammy" target="EnoughTrumpSpam" weight="1" />
+      <edge id="431" source="The_Tammy" target="EnoughAltRightSpam" weight="1" />
+      <edge id="432" source="The_Tammy" target="discuss_politics" weight="1" />
+      <edge id="433" source="The_Tammy" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="434" source="nomic" target="EnoughTrumpSpam" weight="1" />
+      <edge id="435" source="nomic" target="piet" weight="1" />
+      <edge id="436" source="nomic" target="MechanicalComputing" weight="1" />
+      <edge id="437" source="nomic" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="438" source="nomic" target="52WeeksOfPizza" weight="1" />
+      <edge id="439" source="nomic" target="TrumpPolicy" weight="1" />
+      <edge id="440" source="nomic" target="badmedicine" weight="1" />
+      <edge id="441" source="MechanicalComputing" target="piet" weight="1" />
+      <edge id="442" source="MechanicalComputing" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="443" source="MechanicalComputing" target="52WeeksOfPizza" weight="1" />
+      <edge id="444" source="MechanicalComputing" target="EnoughTrumpSpam" weight="1" />
+      <edge id="445" source="MechanicalComputing" target="TrumpPolicy" weight="1" />
+      <edge id="446" source="MechanicalComputing" target="badmedicine" weight="1" />
+      <edge id="447" source="AskTrumpStumpers" target="Booker4President" weight="2" />
+      <edge id="448" source="AskTrumpStumpers" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="449" source="AskTrumpStumpers" target="2018Midterms" weight="3" />
+      <edge id="450" source="AskTrumpStumpers" target="EnoughAltRightSpam" weight="2" />
+      <edge id="451" source="AskTrumpStumpers" target="EnoughTrumpSpam" weight="7" />
+      <edge id="452" source="AskTrumpStumpers" target="ImaginaryYachtClub" weight="1" />
+      <edge id="453" source="AskTrumpStumpers" target="the_cheeto" weight="1" />
+      <edge id="454" source="AskTrumpStumpers" target="discuss_politics" weight="2" />
+      <edge id="455" source="AskTrumpStumpers" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="456" source="EnoughAltRightSpam" target="discuss_politics" weight="3" />
+      <edge id="457" source="EnoughAltRightSpam" target="Kossacks_for_Cherney" weight="1" />
+      <edge id="458" source="EnoughAltRightSpam" target="2018Midterms" weight="2" />
+      <edge id="459" source="EnoughAltRightSpam" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="460" source="EnoughAltRightSpam" target="WTFAmerica" weight="1" />
+      <edge id="461" source="EnoughAltRightSpam" target="EnoughTrumpSpam" weight="3" />
+      <edge id="462" source="EnoughAltRightSpam" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="463" source="Kossacks_for_Cherney" target="EnoughTrumpSpam" weight="1" />
+      <edge id="464" source="Kossacks_for_Cherney" target="discuss_politics" weight="1" />
+      <edge id="465" source="2018Midterms" target="Booker4President" weight="1" />
+      <edge id="466" source="2018Midterms" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="467" source="2018Midterms" target="discuss_politics" weight="2" />
+      <edge id="468" source="2018Midterms" target="WTFAmerica" weight="1" />
+      <edge id="469" source="2018Midterms" target="EnoughTrumpSpam" weight="6" />
+      <edge id="470" source="2018Midterms" target="ShitThe_DonaldSays" weight="2" />
+      <edge id="471" source="Booker4President" target="BlueMidterm2018" weight="1" />
+      <edge id="472" source="Booker4President" target="the_cheeto" weight="1" />
+      <edge id="473" source="Booker4President" target="islamforamerica" weight="1" />
+      <edge id="474" source="Booker4President" target="JayZForPresident" weight="1" />
+      <edge id="475" source="Booker4President" target="EnoughTrumpSpam" weight="5" />
+      <edge id="476" source="Booker4President" target="T3stingposts" weight="1" />
+      <edge id="477" source="Booker4President" target="redditisfunmasterrace" weight="1" />
+      <edge id="478" source="Booker4President" target="ShitThe_DonaldSays" weight="3" />
+      <edge id="479" source="islamforamerica" target="EnoughTrumpSpam" weight="1" />
+      <edge id="480" source="islamforamerica" target="T3stingposts" weight="1" />
+      <edge id="481" source="islamforamerica" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="482" source="52WeeksOfPizza" target="piet" weight="1" />
+      <edge id="483" source="52WeeksOfPizza" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="484" source="52WeeksOfPizza" target="EnoughTrumpSpam" weight="1" />
+      <edge id="485" source="52WeeksOfPizza" target="TrumpPolicy" weight="1" />
+      <edge id="486" source="52WeeksOfPizza" target="badmedicine" weight="1" />
+      <edge id="487" source="BlueMidterm2018" target="EnoughTrumpSpam" weight="1" />
+      <edge id="488" source="discuss_politics" target="HateSubredditOfTheDay" weight="1" />
+      <edge id="489" source="discuss_politics" target="WTFAmerica" weight="1" />
+      <edge id="490" source="discuss_politics" target="EnoughTrumpSpam" weight="3" />
+      <edge id="491" source="discuss_politics" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="492" source="HateSubredditOfTheDay" target="WTFAmerica" weight="1" />
+      <edge id="493" source="HateSubredditOfTheDay" target="EnoughTrumpSpam" weight="1" />
+      <edge id="494" source="HateSubredditOfTheDay" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="495" source="badmedicine" target="EnoughTrumpSpam" weight="1" />
+      <edge id="496" source="badmedicine" target="piet" weight="1" />
+      <edge id="497" source="badmedicine" target="TrumpPolicy" weight="1" />
+      <edge id="498" source="badmedicine" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="499" source="piet" target="EnoughTrumpSpam" weight="1" />
+      <edge id="500" source="piet" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="501" source="piet" target="TrumpPolicy" weight="1" />
+      <edge id="502" source="JayZForPresident" target="EnoughTrumpSpam" weight="1" />
+      <edge id="503" source="JayZForPresident" target="redditisfunmasterrace" weight="1" />
+      <edge id="504" source="JayZForPresident" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="505" source="WTFAmerica" target="EnoughTrumpSpam" weight="1" />
+      <edge id="506" source="WTFAmerica" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="507" source="EnoughTrumpSpam" target="redditisfunmasterrace" weight="1" />
+      <edge id="508" source="EnoughTrumpSpam" target="TrumpPolicy" weight="1" />
+      <edge id="509" source="EnoughTrumpSpam" target="ImaginaryYachtClub" weight="1" />
+      <edge id="510" source="EnoughTrumpSpam" target="the_cheeto" weight="1" />
+      <edge id="511" source="EnoughTrumpSpam" target="T3stingposts" weight="1" />
+      <edge id="512" source="EnoughTrumpSpam" target="ShitThe_DonaldSays" weight="8" />
+      <edge id="513" source="redditisfunmasterrace" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="514" source="the_cheeto" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="515" source="T3stingposts" target="ShitThe_DonaldSays" weight="1" />
+      <edge id="516" source="TrumpPolicy" target="ShitThe_DonaldSays" weight="1" />
+    </edges>
+  </graph>
+</gexf>

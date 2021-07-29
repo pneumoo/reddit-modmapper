@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="subscribers" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Incelwatch" label="Incelwatch">
+        <attvalues>
+          <attvalue for="0" value="222" />
+        </attvalues>
+      </node>
+      <node id="TheIncels" label="TheIncels">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </node>
+      <node id="Incels" label="Incels">
+        <attvalues>
+          <attvalue for="0" value="7680" />
+        </attvalues>
+      </node>
+      <node id="assholeconvention" label="assholeconvention">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </node>
+      <node id="normieheaven" label="normieheaven">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="noshit" label="noshit">
+        <attvalues>
+          <attvalue for="0" value="143" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Incelwatch" target="normieheaven" weight="1" />
+      <edge id="1" source="Incelwatch" target="Incels" weight="1" />
+      <edge id="2" source="TheIncels" target="Incels" weight="1" />
+      <edge id="3" source="Incels" target="assholeconvention" weight="1" />
+      <edge id="4" source="Incels" target="normieheaven" weight="1" />
+      <edge id="5" source="Incels" target="noshit" weight="1" />
+      <edge id="6" source="assholeconvention" target="noshit" weight="1" />
+    </edges>
+  </graph>
+</gexf>

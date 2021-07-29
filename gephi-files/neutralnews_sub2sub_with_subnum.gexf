@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="subscribers" type="long" />
+    </attributes>
+    <nodes>
+      <node id="ninnippus" label="ninnippus">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="NeutralPolitics" label="NeutralPolitics">
+        <attvalues>
+          <attvalue for="0" value="106515" />
+        </attvalues>
+      </node>
+      <node id="drsjsmith" label="drsjsmith">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="mapmaking" label="mapmaking">
+        <attvalues>
+          <attvalue for="0" value="14202" />
+        </attvalues>
+      </node>
+      <node id="DisavowSanders" label="DisavowSanders">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="prisonreform" label="prisonreform">
+        <attvalues>
+          <attvalue for="0" value="1451" />
+        </attvalues>
+      </node>
+      <node id="The_Donald" label="The_Donald">
+        <attvalues>
+          <attvalue for="0" value="326437" />
+        </attvalues>
+      </node>
+      <node id="ideasforcmv" label="ideasforcmv">
+        <attvalues>
+          <attvalue for="0" value="304" />
+        </attvalues>
+      </node>
+      <node id="Trumpland" label="Trumpland">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="miscellaneous" label="miscellaneous">
+        <attvalues>
+          <attvalue for="0" value="62" />
+        </attvalues>
+      </node>
+      <node id="longdistanceminecraft" label="longdistanceminecraft">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </node>
+      <node id="pcgaming" label="pcgaming">
+        <attvalues>
+          <attvalue for="0" value="285845" />
+        </attvalues>
+      </node>
+      <node id="NeutralNetwork" label="NeutralNetwork">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="kojimapro" label="kojimapro">
+        <attvalues>
+          <attvalue for="0" value="1938" />
+        </attvalues>
+      </node>
+      <node id="SimplePlus" label="SimplePlus">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="SovereigntyAscending" label="SovereigntyAscending">
+        <attvalues>
+          <attvalue for="0" value="432" />
+        </attvalues>
+      </node>
+      <node id="OnePercentLifeProTips" label="OnePercentLifeProTips">
+        <attvalues>
+          <attvalue for="0" value="3134" />
+        </attvalues>
+      </node>
+      <node id="52in52" label="52in52">
+        <attvalues>
+          <attvalue for="0" value="5081" />
+        </attvalues>
+      </node>
+      <node id="KarabakhConflict" label="KarabakhConflict">
+        <attvalues>
+          <attvalue for="0" value="264" />
+        </attvalues>
+      </node>
+      <node id="Mafia3" label="Mafia3">
+        <attvalues>
+          <attvalue for="0" value="5259" />
+        </attvalues>
+      </node>
+      <node id="CMVpodcast" label="CMVpodcast">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="syriancivilwar" label="syriancivilwar">
+        <attvalues>
+          <attvalue for="0" value="48925" />
+        </attvalues>
+      </node>
+      <node id="HillaryMeltdown" label="HillaryMeltdown">
+        <attvalues>
+          <attvalue for="0" value="14504" />
+        </attvalues>
+      </node>
+      <node id="turkishcivilwar" label="turkishcivilwar">
+        <attvalues>
+          <attvalue for="0" value="953" />
+        </attvalues>
+      </node>
+      <node id="science" label="science">
+        <attvalues>
+          <attvalue for="0" value="14509708" />
+        </attvalues>
+      </node>
+      <node id="changemyview" label="changemyview">
+        <attvalues>
+          <attvalue for="0" value="265285" />
+        </attvalues>
+      </node>
+      <node id="NeutralTalk" label="NeutralTalk">
+        <attvalues>
+          <attvalue for="0" value="1745" />
+        </attvalues>
+      </node>
+      <node id="FriendlyBooks" label="FriendlyBooks">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="neutralnews" label="neutralnews">
+        <attvalues>
+          <attvalue for="0" value="18731" />
+        </attvalues>
+      </node>
+      <node id="LongDistance" label="LongDistance">
+        <attvalues>
+          <attvalue for="0" value="35400" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="ninnippus" target="science" weight="1" />
+      <edge id="1" source="ninnippus" target="miscellaneous" weight="1" />
+      <edge id="2" source="ninnippus" target="neutralnews" weight="1" />
+      <edge id="3" source="ninnippus" target="OnePercentLifeProTips" weight="1" />
+      <edge id="4" source="ninnippus" target="drsjsmith" weight="1" />
+      <edge id="5" source="NeutralPolitics" target="DisavowSanders" weight="1" />
+      <edge id="6" source="NeutralPolitics" target="ideasforcmv" weight="1" />
+      <edge id="7" source="NeutralPolitics" target="The_Donald" weight="1" />
+      <edge id="8" source="NeutralPolitics" target="HillaryMeltdown" weight="1" />
+      <edge id="9" source="NeutralPolitics" target="neutralnews" weight="9" />
+      <edge id="10" source="NeutralPolitics" target="Trumpland" weight="1" />
+      <edge id="11" source="NeutralPolitics" target="changemyview" weight="1" />
+      <edge id="12" source="NeutralPolitics" target="pcgaming" weight="1" />
+      <edge id="13" source="NeutralPolitics" target="NeutralNetwork" weight="1" />
+      <edge id="14" source="NeutralPolitics" target="NeutralTalk" weight="8" />
+      <edge id="15" source="drsjsmith" target="science" weight="1" />
+      <edge id="16" source="drsjsmith" target="miscellaneous" weight="1" />
+      <edge id="17" source="drsjsmith" target="OnePercentLifeProTips" weight="1" />
+      <edge id="18" source="drsjsmith" target="neutralnews" weight="1" />
+      <edge id="19" source="mapmaking" target="prisonreform" weight="1" />
+      <edge id="20" source="mapmaking" target="FriendlyBooks" weight="1" />
+      <edge id="21" source="mapmaking" target="neutralnews" weight="1" />
+      <edge id="22" source="mapmaking" target="NeutralTalk" weight="1" />
+      <edge id="23" source="DisavowSanders" target="The_Donald" weight="1" />
+      <edge id="24" source="DisavowSanders" target="HillaryMeltdown" weight="1" />
+      <edge id="25" source="DisavowSanders" target="Trumpland" weight="1" />
+      <edge id="26" source="DisavowSanders" target="neutralnews" weight="1" />
+      <edge id="27" source="DisavowSanders" target="NeutralTalk" weight="1" />
+      <edge id="28" source="prisonreform" target="FriendlyBooks" weight="1" />
+      <edge id="29" source="prisonreform" target="neutralnews" weight="1" />
+      <edge id="30" source="prisonreform" target="NeutralTalk" weight="1" />
+      <edge id="31" source="The_Donald" target="HillaryMeltdown" weight="1" />
+      <edge id="32" source="The_Donald" target="Trumpland" weight="1" />
+      <edge id="33" source="The_Donald" target="neutralnews" weight="1" />
+      <edge id="34" source="The_Donald" target="NeutralTalk" weight="1" />
+      <edge id="35" source="ideasforcmv" target="changemyview" weight="2" />
+      <edge id="36" source="ideasforcmv" target="CMVpodcast" weight="1" />
+      <edge id="37" source="ideasforcmv" target="neutralnews" weight="2" />
+      <edge id="38" source="ideasforcmv" target="NeutralTalk" weight="1" />
+      <edge id="39" source="Trumpland" target="HillaryMeltdown" weight="1" />
+      <edge id="40" source="Trumpland" target="neutralnews" weight="1" />
+      <edge id="41" source="Trumpland" target="NeutralTalk" weight="1" />
+      <edge id="42" source="miscellaneous" target="science" weight="1" />
+      <edge id="43" source="miscellaneous" target="OnePercentLifeProTips" weight="1" />
+      <edge id="44" source="miscellaneous" target="neutralnews" weight="1" />
+      <edge id="45" source="longdistanceminecraft" target="SovereigntyAscending" weight="1" />
+      <edge id="46" source="longdistanceminecraft" target="neutralnews" weight="1" />
+      <edge id="47" source="longdistanceminecraft" target="52in52" weight="1" />
+      <edge id="48" source="longdistanceminecraft" target="Mafia3" weight="1" />
+      <edge id="49" source="longdistanceminecraft" target="LongDistance" weight="1" />
+      <edge id="50" source="longdistanceminecraft" target="kojimapro" weight="1" />
+      <edge id="51" source="longdistanceminecraft" target="SimplePlus" weight="1" />
+      <edge id="52" source="pcgaming" target="neutralnews" weight="1" />
+      <edge id="53" source="pcgaming" target="NeutralTalk" weight="1" />
+      <edge id="54" source="NeutralNetwork" target="neutralnews" weight="1" />
+      <edge id="55" source="NeutralNetwork" target="NeutralTalk" weight="1" />
+      <edge id="56" source="kojimapro" target="SovereigntyAscending" weight="1" />
+      <edge id="57" source="kojimapro" target="neutralnews" weight="1" />
+      <edge id="58" source="kojimapro" target="52in52" weight="1" />
+      <edge id="59" source="kojimapro" target="Mafia3" weight="1" />
+      <edge id="60" source="kojimapro" target="LongDistance" weight="1" />
+      <edge id="61" source="kojimapro" target="SimplePlus" weight="1" />
+      <edge id="62" source="SimplePlus" target="SovereigntyAscending" weight="1" />
+      <edge id="63" source="SimplePlus" target="neutralnews" weight="1" />
+      <edge id="64" source="SimplePlus" target="52in52" weight="1" />
+      <edge id="65" source="SimplePlus" target="Mafia3" weight="1" />
+      <edge id="66" source="SimplePlus" target="LongDistance" weight="1" />
+      <edge id="67" source="SovereigntyAscending" target="neutralnews" weight="1" />
+      <edge id="68" source="SovereigntyAscending" target="52in52" weight="1" />
+      <edge id="69" source="SovereigntyAscending" target="LongDistance" weight="1" />
+      <edge id="70" source="SovereigntyAscending" target="Mafia3" weight="1" />
+      <edge id="71" source="OnePercentLifeProTips" target="science" weight="1" />
+      <edge id="72" source="OnePercentLifeProTips" target="neutralnews" weight="1" />
+      <edge id="73" source="52in52" target="neutralnews" weight="1" />
+      <edge id="74" source="52in52" target="LongDistance" weight="1" />
+      <edge id="75" source="52in52" target="Mafia3" weight="1" />
+      <edge id="76" source="KarabakhConflict" target="turkishcivilwar" weight="1" />
+      <edge id="77" source="KarabakhConflict" target="neutralnews" weight="1" />
+      <edge id="78" source="KarabakhConflict" target="syriancivilwar" weight="1" />
+      <edge id="79" source="Mafia3" target="neutralnews" weight="1" />
+      <edge id="80" source="Mafia3" target="LongDistance" weight="1" />
+      <edge id="81" source="CMVpodcast" target="changemyview" weight="1" />
+      <edge id="82" source="CMVpodcast" target="neutralnews" weight="1" />
+      <edge id="83" source="syriancivilwar" target="turkishcivilwar" weight="1" />
+      <edge id="84" source="syriancivilwar" target="neutralnews" weight="1" />
+      <edge id="85" source="HillaryMeltdown" target="neutralnews" weight="1" />
+      <edge id="86" source="HillaryMeltdown" target="NeutralTalk" weight="1" />
+      <edge id="87" source="turkishcivilwar" target="neutralnews" weight="1" />
+      <edge id="88" source="science" target="neutralnews" weight="1" />
+      <edge id="89" source="changemyview" target="neutralnews" weight="2" />
+      <edge id="90" source="changemyview" target="NeutralTalk" weight="1" />
+      <edge id="91" source="NeutralTalk" target="neutralnews" weight="9" />
+      <edge id="92" source="NeutralTalk" target="FriendlyBooks" weight="1" />
+      <edge id="93" source="FriendlyBooks" target="neutralnews" weight="1" />
+      <edge id="94" source="neutralnews" target="LongDistance" weight="1" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,2796 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="subscribers" type="long" />
+    </attributes>
+    <nodes>
+      <node id="DisavowSanders" label="DisavowSanders">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="JustinAmash" label="JustinAmash">
+        <attvalues>
+          <attvalue for="0" value="692" />
+        </attvalues>
+      </node>
+      <node id="ucpennsylvania" label="ucpennsylvania">
+        <attvalues>
+          <attvalue for="0" value="37" />
+        </attvalues>
+      </node>
+      <node id="BridgeEngineers" label="BridgeEngineers">
+        <attvalues>
+          <attvalue for="0" value="109" />
+        </attvalues>
+      </node>
+      <node id="forza546css" label="forza546css">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="wallstreetbets" label="wallstreetbets">
+        <attvalues>
+          <attvalue for="0" value="97076" />
+        </attvalues>
+      </node>
+      <node id="Libraries" label="Libraries">
+        <attvalues>
+          <attvalue for="0" value="12745" />
+        </attvalues>
+      </node>
+      <node id="Subliminal" label="Subliminal">
+        <attvalues>
+          <attvalue for="0" value="6180" />
+        </attvalues>
+      </node>
+      <node id="LimitedHangouts" label="LimitedHangouts">
+        <attvalues>
+          <attvalue for="0" value="1916" />
+        </attvalues>
+      </node>
+      <node id="TheSurvivalGuide" label="TheSurvivalGuide">
+        <attvalues>
+          <attvalue for="0" value="5907" />
+        </attvalues>
+      </node>
+      <node id="DeepDreamRequests" label="DeepDreamRequests">
+        <attvalues>
+          <attvalue for="0" value="202" />
+        </attvalues>
+      </node>
+      <node id="snowden" label="snowden">
+        <attvalues>
+          <attvalue for="0" value="9109" />
+        </attvalues>
+      </node>
+      <node id="CasualNewWorldOrder" label="CasualNewWorldOrder">
+        <attvalues>
+          <attvalue for="0" value="70" />
+        </attvalues>
+      </node>
+      <node id="fsm" label="fsm">
+        <attvalues>
+          <attvalue for="0" value="5257" />
+        </attvalues>
+      </node>
+      <node id="THE_BERNDOWN" label="THE_BERNDOWN">
+        <attvalues>
+          <attvalue for="0" value="264" />
+        </attvalues>
+      </node>
+      <node id="911truth" label="911truth">
+        <attvalues>
+          <attvalue for="0" value="10531" />
+        </attvalues>
+      </node>
+      <node id="UpliftingKhabre" label="UpliftingKhabre">
+        <attvalues>
+          <attvalue for="0" value="818" />
+        </attvalues>
+      </node>
+      <node id="NotMyPresident_News" label="NotMyPresident_News">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="NeutralTalk" label="NeutralTalk">
+        <attvalues>
+          <attvalue for="0" value="1778" />
+        </attvalues>
+      </node>
+      <node id="DemonHunters" label="DemonHunters">
+        <attvalues>
+          <attvalue for="0" value="17" />
+        </attvalues>
+      </node>
+      <node id="UFOs" label="UFOs">
+        <attvalues>
+          <attvalue for="0" value="61167" />
+        </attvalues>
+      </node>
+      <node id="PublicFreakout" label="PublicFreakout">
+        <attvalues>
+          <attvalue for="0" value="154638" />
+        </attvalues>
+      </node>
+      <node id="chartercable" label="chartercable">
+        <attvalues>
+          <attvalue for="0" value="423" />
+        </attvalues>
+      </node>
+      <node id="uchicago" label="uchicago">
+        <attvalues>
+          <attvalue for="0" value="1968" />
+        </attvalues>
+      </node>
+      <node id="GaryJohnson" label="GaryJohnson">
+        <attvalues>
+          <attvalue for="0" value="17988" />
+        </attvalues>
+      </node>
+      <node id="comcastnazi" label="comcastnazi">
+        <attvalues>
+          <attvalue for="0" value="1350" />
+        </attvalues>
+      </node>
+      <node id="The_Europe" label="The_Europe">
+        <attvalues>
+          <attvalue for="0" value="5201" />
+        </attvalues>
+      </node>
+      <node id="Diablo3Monks" label="Diablo3Monks">
+        <attvalues>
+          <attvalue for="0" value="10584" />
+        </attvalues>
+      </node>
+      <node id="Abilene" label="Abilene">
+        <attvalues>
+          <attvalue for="0" value="282" />
+        </attvalues>
+      </node>
+      <node id="timewarnercable" label="timewarnercable">
+        <attvalues>
+          <attvalue for="0" value="463" />
+        </attvalues>
+      </node>
+      <node id="The_Donald_TV" label="The_Donald_TV">
+        <attvalues>
+          <attvalue for="0" value="86" />
+        </attvalues>
+      </node>
+      <node id="hilary" label="hilary">
+        <attvalues>
+          <attvalue for="0" value="245" />
+        </attvalues>
+      </node>
+      <node id="tragedyandhope" label="tragedyandhope">
+        <attvalues>
+          <attvalue for="0" value="44" />
+        </attvalues>
+      </node>
+      <node id="The_Presidency" label="The_Presidency">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="randpaul" label="randpaul">
+        <attvalues>
+          <attvalue for="0" value="6532" />
+        </attvalues>
+      </node>
+      <node id="throwing" label="throwing">
+        <attvalues>
+          <attvalue for="0" value="2082" />
+        </attvalues>
+      </node>
+      <node id="Girls_with_tattoo" label="Girls_with_tattoo">
+        <attvalues>
+          <attvalue for="0" value="748" />
+        </attvalues>
+      </node>
+      <node id="AskFlytape" label="AskFlytape">
+        <attvalues>
+          <attvalue for="0" value="35" />
+        </attvalues>
+      </node>
+      <node id="TrumpLivesMatter" label="TrumpLivesMatter">
+        <attvalues>
+          <attvalue for="0" value="414" />
+        </attvalues>
+      </node>
+      <node id="The_Nehlen" label="The_Nehlen">
+        <attvalues>
+          <attvalue for="0" value="1691" />
+        </attvalues>
+      </node>
+      <node id="Diablo3witchdoctors" label="Diablo3witchdoctors">
+        <attvalues>
+          <attvalue for="0" value="9619" />
+        </attvalues>
+      </node>
+      <node id="alexjones" label="alexjones">
+        <attvalues>
+          <attvalue for="0" value="793" />
+        </attvalues>
+      </node>
+      <node id="conspiracydocumentary" label="conspiracydocumentary">
+        <attvalues>
+          <attvalue for="0" value="4949" />
+        </attvalues>
+      </node>
+      <node id="verypunny" label="verypunny">
+        <attvalues>
+          <attvalue for="0" value="18665" />
+        </attvalues>
+      </node>
+      <node id="Info_Wars" label="Info_Wars">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="marriott" label="marriott">
+        <attvalues>
+          <attvalue for="0" value="71" />
+        </attvalues>
+      </node>
+      <node id="biotech" label="biotech">
+        <attvalues>
+          <attvalue for="0" value="5289" />
+        </attvalues>
+      </node>
+      <node id="Our_Politics" label="Our_Politics">
+        <attvalues>
+          <attvalue for="0" value="2424" />
+        </attvalues>
+      </node>
+      <node id="worldnews" label="worldnews">
+        <attvalues>
+          <attvalue for="0" value="14817889" />
+        </attvalues>
+      </node>
+      <node id="chicagojobs" label="chicagojobs">
+        <attvalues>
+          <attvalue for="0" value="4154" />
+        </attvalues>
+      </node>
+      <node id="paydaylore" label="paydaylore">
+        <attvalues>
+          <attvalue for="0" value="149" />
+        </attvalues>
+      </node>
+      <node id="Diablo3DemonHunters" label="Diablo3DemonHunters">
+        <attvalues>
+          <attvalue for="0" value="10516" />
+        </attvalues>
+      </node>
+      <node id="All_Videos" label="All_Videos">
+        <attvalues>
+          <attvalue for="0" value="81" />
+        </attvalues>
+      </node>
+      <node id="timetostartanew" label="timetostartanew">
+        <attvalues>
+          <attvalue for="0" value="208" />
+        </attvalues>
+      </node>
+      <node id="TSBD" label="TSBD">
+        <attvalues>
+          <attvalue for="0" value="637" />
+        </attvalues>
+      </node>
+      <node id="WikileaksTaskForce" label="WikileaksTaskForce">
+        <attvalues>
+          <attvalue for="0" value="550" />
+        </attvalues>
+      </node>
+      <node id="pepe" label="pepe">
+        <attvalues>
+          <attvalue for="0" value="9762" />
+        </attvalues>
+      </node>
+      <node id="forzahorizon3" label="forzahorizon3">
+        <attvalues>
+          <attvalue for="0" value="2611" />
+        </attvalues>
+      </node>
+      <node id="Falastin" label="Falastin">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="Donald_Trump" label="Donald_Trump">
+        <attvalues>
+          <attvalue for="0" value="2794" />
+        </attvalues>
+      </node>
+      <node id="Libertarian" label="Libertarian">
+        <attvalues>
+          <attvalue for="0" value="146994" />
+        </attvalues>
+      </node>
+      <node id="professional" label="professional">
+        <attvalues>
+          <attvalue for="0" value="20" />
+        </attvalues>
+      </node>
+      <node id="ToK" label="ToK">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </node>
+      <node id="Paul" label="Paul">
+        <attvalues>
+          <attvalue for="0" value="1106" />
+        </attvalues>
+      </node>
+      <node id="TrueOppression" label="TrueOppression">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="PurpleLounge" label="PurpleLounge">
+        <attvalues>
+          <attvalue for="0" value="1175" />
+        </attvalues>
+      </node>
+      <node id="Stuff" label="Stuff">
+        <attvalues>
+          <attvalue for="0" value="1975" />
+        </attvalues>
+      </node>
+      <node id="whatissnoodoing" label="whatissnoodoing">
+        <attvalues>
+          <attvalue for="0" value="1521" />
+        </attvalues>
+      </node>
+      <node id="outofthepoop" label="outofthepoop">
+        <attvalues>
+          <attvalue for="0" value="6" />
+        </attvalues>
+      </node>
+      <node id="AdminCensorTest040534" label="AdminCensorTest040534">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="GoldsboroNC" label="GoldsboroNC">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </node>
+      <node id="RedditCensorship" label="RedditCensorship">
+        <attvalues>
+          <attvalue for="0" value="1318" />
+        </attvalues>
+      </node>
+      <node id="byzantium" label="byzantium">
+        <attvalues>
+          <attvalue for="0" value="2703" />
+        </attvalues>
+      </node>
+      <node id="the_mattis" label="the_mattis">
+        <attvalues>
+          <attvalue for="0" value="13" />
+        </attvalues>
+      </node>
+      <node id="Oppression" label="Oppression">
+        <attvalues>
+          <attvalue for="0" value="2662" />
+        </attvalues>
+      </node>
+      <node id="moretrumpspam" label="moretrumpspam">
+        <attvalues>
+          <attvalue for="0" value="80" />
+        </attvalues>
+      </node>
+      <node id="HillaryMeltdown" label="HillaryMeltdown">
+        <attvalues>
+          <attvalue for="0" value="14922" />
+        </attvalues>
+      </node>
+      <node id="conspiracyfact" label="conspiracyfact">
+        <attvalues>
+          <attvalue for="0" value="4301" />
+        </attvalues>
+      </node>
+      <node id="The_Donald" label="The_Donald">
+        <attvalues>
+          <attvalue for="0" value="334408" />
+        </attvalues>
+      </node>
+      <node id="The__Donald" label="The__Donald">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="ModerationLog" label="ModerationLog">
+        <attvalues>
+          <attvalue for="0" value="1337" />
+        </attvalues>
+      </node>
+      <node id="mcafee2016" label="mcafee2016">
+        <attvalues>
+          <attvalue for="0" value="201" />
+        </attvalues>
+      </node>
+      <node id="CountyMonaghan" label="CountyMonaghan">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="conspiracy" label="conspiracy">
+        <attvalues>
+          <attvalue for="0" value="419457" />
+        </attvalues>
+      </node>
+      <node id="Quicksilver" label="Quicksilver">
+        <attvalues>
+          <attvalue for="0" value="24" />
+        </attvalues>
+      </node>
+      <node id="EDDITGATE" label="EDDITGATE">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="ChicagoPics" label="ChicagoPics">
+        <attvalues>
+          <attvalue for="0" value="2228" />
+        </attvalues>
+      </node>
+      <node id="TheBatarang" label="TheBatarang">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="ppdPersonalAdvice" label="ppdPersonalAdvice">
+        <attvalues>
+          <attvalue for="0" value="64" />
+        </attvalues>
+      </node>
+      <node id="AlternativeHistory" label="AlternativeHistory">
+        <attvalues>
+          <attvalue for="0" value="4460" />
+        </attvalues>
+      </node>
+      <node id="The_Farage" label="The_Farage">
+        <attvalues>
+          <attvalue for="0" value="9571" />
+        </attvalues>
+      </node>
+      <node id="TheRecordCorrected" label="TheRecordCorrected">
+        <attvalues>
+          <attvalue for="0" value="3902" />
+        </attvalues>
+      </node>
+      <node id="cojoco" label="cojoco">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="globalresearch" label="globalresearch">
+        <attvalues>
+          <attvalue for="0" value="259" />
+        </attvalues>
+      </node>
+      <node id="Blackwidow" label="Blackwidow">
+        <attvalues>
+          <attvalue for="0" value="195" />
+        </attvalues>
+      </node>
+      <node id="MartinShkreli" label="MartinShkreli">
+        <attvalues>
+          <attvalue for="0" value="593" />
+        </attvalues>
+      </node>
+      <node id="Blackout2015" label="Blackout2015">
+        <attvalues>
+          <attvalue for="0" value="26131" />
+        </attvalues>
+      </node>
+      <node id="DeclinetoState" label="DeclinetoState">
+        <attvalues>
+          <attvalue for="0" value="430" />
+        </attvalues>
+      </node>
+      <node id="Trump_God" label="Trump_God">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="altnewz" label="altnewz">
+        <attvalues>
+          <attvalue for="0" value="7026" />
+        </attvalues>
+      </node>
+      <node id="TheDangerousFaggot" label="TheDangerousFaggot">
+        <attvalues>
+          <attvalue for="0" value="1021" />
+        </attvalues>
+      </node>
+      <node id="DonaldTrump2016" label="DonaldTrump2016">
+        <attvalues>
+          <attvalue for="0" value="425" />
+        </attvalues>
+      </node>
+      <node id="ronpaul" label="ronpaul">
+        <attvalues>
+          <attvalue for="0" value="22610" />
+        </attvalues>
+      </node>
+      <node id="snew" label="snew">
+        <attvalues>
+          <attvalue for="0" value="733" />
+        </attvalues>
+      </node>
+      <node id="CasualTodayILearned" label="CasualTodayILearned">
+        <attvalues>
+          <attvalue for="0" value="6285" />
+        </attvalues>
+      </node>
+      <node id="altnews" label="altnews">
+        <attvalues>
+          <attvalue for="0" value="231" />
+        </attvalues>
+      </node>
+      <node id="TrueReddit" label="TrueReddit">
+        <attvalues>
+          <attvalue for="0" value="365657" />
+        </attvalues>
+      </node>
+      <node id="GasTheSnoo" label="GasTheSnoo">
+        <attvalues>
+          <attvalue for="0" value="564" />
+        </attvalues>
+      </node>
+      <node id="rpgtrade" label="rpgtrade">
+        <attvalues>
+          <attvalue for="0" value="733" />
+        </attvalues>
+      </node>
+      <node id="scientology" label="scientology">
+        <attvalues>
+          <attvalue for="0" value="8989" />
+        </attvalues>
+      </node>
+      <node id="OperationTrebuchet" label="OperationTrebuchet">
+        <attvalues>
+          <attvalue for="0" value="1208" />
+        </attvalues>
+      </node>
+      <node id="scifi" label="scifi">
+        <attvalues>
+          <attvalue for="0" value="288216" />
+        </attvalues>
+      </node>
+      <node id="Trumplicans" label="Trumplicans">
+        <attvalues>
+          <attvalue for="0" value="299" />
+        </attvalues>
+      </node>
+      <node id="FreeSpeech" label="FreeSpeech">
+        <attvalues>
+          <attvalue for="0" value="3612" />
+        </attvalues>
+      </node>
+      <node id="truevoat" label="truevoat">
+        <attvalues>
+          <attvalue for="0" value="123" />
+        </attvalues>
+      </node>
+      <node id="The_Wilders" label="The_Wilders">
+        <attvalues>
+          <attvalue for="0" value="2896" />
+        </attvalues>
+      </node>
+      <node id="dickgirls" label="dickgirls">
+        <attvalues>
+          <attvalue for="0" value="5687" />
+        </attvalues>
+      </node>
+      <node id="rdvisacuck" label="rdvisacuck">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Diablo3Barbarians" label="Diablo3Barbarians">
+        <attvalues>
+          <attvalue for="0" value="8282" />
+        </attvalues>
+      </node>
+      <node id="subredditcancer" label="subredditcancer">
+        <attvalues>
+          <attvalue for="0" value="17145" />
+        </attvalues>
+      </node>
+      <node id="MMORift" label="MMORift">
+        <attvalues>
+          <attvalue for="0" value="321" />
+        </attvalues>
+      </node>
+      <node id="President_Trump" label="President_Trump">
+        <attvalues>
+          <attvalue for="0" value="100" />
+        </attvalues>
+      </node>
+      <node id="uncensorship" label="uncensorship">
+        <attvalues>
+          <attvalue for="0" value="2612" />
+        </attvalues>
+      </node>
+      <node id="strobecirclejerk" label="strobecirclejerk">
+        <attvalues>
+          <attvalue for="0" value="1394" />
+        </attvalues>
+      </node>
+      <node id="AgentsOfDoubt" label="AgentsOfDoubt">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="humor" label="humor">
+        <attvalues>
+          <attvalue for="0" value="332803" />
+        </attvalues>
+      </node>
+      <node id="MikeLee" label="MikeLee">
+        <attvalues>
+          <attvalue for="0" value="66" />
+        </attvalues>
+      </node>
+      <node id="NeutralPolitics" label="NeutralPolitics">
+        <attvalues>
+          <attvalue for="0" value="109154" />
+        </attvalues>
+      </node>
+      <node id="webcomics" label="webcomics">
+        <attvalues>
+          <attvalue for="0" value="90688" />
+        </attvalues>
+      </node>
+      <node id="musicians" label="musicians">
+        <attvalues>
+          <attvalue for="0" value="6927" />
+        </attvalues>
+      </node>
+      <node id="TheShrineOfKeroro" label="TheShrineOfKeroro">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="Sorosforprison" label="Sorosforprison">
+        <attvalues>
+          <attvalue for="0" value="9117" />
+        </attvalues>
+      </node>
+      <node id="Albumleaks" label="Albumleaks">
+        <attvalues>
+          <attvalue for="0" value="349" />
+        </attvalues>
+      </node>
+      <node id="wikipedia" label="wikipedia">
+        <attvalues>
+          <attvalue for="0" value="153058" />
+        </attvalues>
+      </node>
+      <node id="WikiLeaks" label="WikiLeaks">
+        <attvalues>
+          <attvalue for="0" value="77811" />
+        </attvalues>
+      </node>
+      <node id="HighEndGlass" label="HighEndGlass">
+        <attvalues>
+          <attvalue for="0" value="34" />
+        </attvalues>
+      </node>
+      <node id="PastAndPresentPics" label="PastAndPresentPics">
+        <attvalues>
+          <attvalue for="0" value="27731" />
+        </attvalues>
+      </node>
+      <node id="C_S_T" label="C_S_T">
+        <attvalues>
+          <attvalue for="0" value="7617" />
+        </attvalues>
+      </node>
+      <node id="BarronTrump" label="BarronTrump">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="The_Ivanka" label="The_Ivanka">
+        <attvalues>
+          <attvalue for="0" value="2241" />
+        </attvalues>
+      </node>
+      <node id="technewz" label="technewz">
+        <attvalues>
+          <attvalue for="0" value="336" />
+        </attvalues>
+      </node>
+      <node id="the_denis" label="the_denis">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="Modssssze" label="Modssssze">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="josephpfarrell" label="josephpfarrell">
+        <attvalues>
+          <attvalue for="0" value="146" />
+        </attvalues>
+      </node>
+      <node id="rubyonrails" label="rubyonrails">
+        <attvalues>
+          <attvalue for="0" value="7821" />
+        </attvalues>
+      </node>
+      <node id="darknetplan" label="darknetplan">
+        <attvalues>
+          <attvalue for="0" value="41890" />
+        </attvalues>
+      </node>
+      <node id="DocumentedTruth" label="DocumentedTruth">
+        <attvalues>
+          <attvalue for="0" value="3213" />
+        </attvalues>
+      </node>
+      <node id="rpg" label="rpg">
+        <attvalues>
+          <attvalue for="0" value="108657" />
+        </attvalues>
+      </node>
+      <node id="lockHerUp" label="lockHerUp">
+        <attvalues>
+          <attvalue for="0" value="19" />
+        </attvalues>
+      </node>
+      <node id="cnn" label="cnn">
+        <attvalues>
+          <attvalue for="0" value="590" />
+        </attvalues>
+      </node>
+      <node id="Diablo3Wizards" label="Diablo3Wizards">
+        <attvalues>
+          <attvalue for="0" value="11019" />
+        </attvalues>
+      </node>
+      <node id="every_one_is_mod" label="every_one_is_mod">
+        <attvalues>
+          <attvalue for="0" value="1030" />
+        </attvalues>
+      </node>
+      <node id="WatchRedditDie" label="WatchRedditDie">
+        <attvalues>
+          <attvalue for="0" value="3376" />
+        </attvalues>
+      </node>
+      <node id="tidder" label="tidder">
+        <attvalues>
+          <attvalue for="0" value="60" />
+        </attvalues>
+      </node>
+      <node id="ConspiracyTheory" label="ConspiracyTheory">
+        <attvalues>
+          <attvalue for="0" value="551" />
+        </attvalues>
+      </node>
+      <node id="yyj" label="yyj">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </node>
+      <node id="advancedtechresearch" label="advancedtechresearch">
+        <attvalues>
+          <attvalue for="0" value="174" />
+        </attvalues>
+      </node>
+      <node id="BoycottCNN" label="BoycottCNN">
+        <attvalues>
+          <attvalue for="0" value="662" />
+        </attvalues>
+      </node>
+      <node id="CharterSpectrum" label="CharterSpectrum">
+        <attvalues>
+          <attvalue for="0" value="169" />
+        </attvalues>
+      </node>
+      <node id="AskThe_Donald" label="AskThe_Donald">
+        <attvalues>
+          <attvalue for="0" value="11606" />
+        </attvalues>
+      </node>
+      <node id="finreviewz" label="finreviewz">
+        <attvalues>
+          <attvalue for="0" value="118" />
+        </attvalues>
+      </node>
+      <node id="neutralnews" label="neutralnews">
+        <attvalues>
+          <attvalue for="0" value="19204" />
+        </attvalues>
+      </node>
+      <node id="aaronswartz" label="aaronswartz">
+        <attvalues>
+          <attvalue for="0" value="1033" />
+        </attvalues>
+      </node>
+      <node id="theGreamMemeWar" label="theGreamMemeWar">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="PodestaEmails" label="PodestaEmails">
+        <attvalues>
+          <attvalue for="0" value="95" />
+        </attvalues>
+      </node>
+      <node id="theGreatMemeWar" label="theGreatMemeWar">
+        <attvalues>
+          <attvalue for="0" value="76" />
+        </attvalues>
+      </node>
+      <node id="censored" label="censored">
+        <attvalues>
+          <attvalue for="0" value="99" />
+        </attvalues>
+      </node>
+      <node id="onetruegod" label="onetruegod">
+        <attvalues>
+          <attvalue for="0" value="86628" />
+        </attvalues>
+      </node>
+      <node id="newsbloopers" label="newsbloopers">
+        <attvalues>
+          <attvalue for="0" value="13447" />
+        </attvalues>
+      </node>
+      <node id="progun" label="progun">
+        <attvalues>
+          <attvalue for="0" value="18011" />
+        </attvalues>
+      </node>
+      <node id="IndiaSpeaks" label="IndiaSpeaks">
+        <attvalues>
+          <attvalue for="0" value="2000" />
+        </attvalues>
+      </node>
+      <node id="publicmodlogs" label="publicmodlogs">
+        <attvalues>
+          <attvalue for="0" value="58" />
+        </attvalues>
+      </node>
+      <node id="SRC_Meta" label="SRC_Meta">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="creepy_hillary" label="creepy_hillary">
+        <attvalues>
+          <attvalue for="0" value="51" />
+        </attvalues>
+      </node>
+      <node id="nature" label="nature">
+        <attvalues>
+          <attvalue for="0" value="34604" />
+        </attvalues>
+      </node>
+      <node id="BannedFromBanned" label="BannedFromBanned">
+        <attvalues>
+          <attvalue for="0" value="31" />
+        </attvalues>
+      </node>
+      <node id="VitaPiracy" label="VitaPiracy">
+        <attvalues>
+          <attvalue for="0" value="7266" />
+        </attvalues>
+      </node>
+      <node id="MockRedditAdmins" label="MockRedditAdmins">
+        <attvalues>
+          <attvalue for="0" value="320" />
+        </attvalues>
+      </node>
+      <node id="HillaryForPrison" label="HillaryForPrison">
+        <attvalues>
+          <attvalue for="0" value="65989" />
+        </attvalues>
+      </node>
+      <node id="EndlessWar" label="EndlessWar">
+        <attvalues>
+          <attvalue for="0" value="12947" />
+        </attvalues>
+      </node>
+      <node id="Le_Pen" label="Le_Pen">
+        <attvalues>
+          <attvalue for="0" value="12824" />
+        </attvalues>
+      </node>
+      <node id="Infowars" label="Infowars">
+        <attvalues>
+          <attvalue for="0" value="2520" />
+        </attvalues>
+      </node>
+      <node id="IfIWasPresident" label="IfIWasPresident">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="paydaytheheist" label="paydaytheheist">
+        <attvalues>
+          <attvalue for="0" value="42362" />
+        </attvalues>
+      </node>
+      <node id="NolibsWatch" label="NolibsWatch">
+        <attvalues>
+          <attvalue for="0" value="1348" />
+        </attvalues>
+      </node>
+      <node id="Trumpland" label="Trumpland">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="DescentIntoTyranny" label="DescentIntoTyranny">
+        <attvalues>
+          <attvalue for="0" value="6609" />
+        </attvalues>
+      </node>
+      <node id="DNCleaks" label="DNCleaks">
+        <attvalues>
+          <attvalue for="0" value="19171" />
+        </attvalues>
+      </node>
+      <node id="thegoodwife" label="thegoodwife">
+        <attvalues>
+          <attvalue for="0" value="2770" />
+        </attvalues>
+      </node>
+      <node id="RightwingLGBT" label="RightwingLGBT">
+        <attvalues>
+          <attvalue for="0" value="2173" />
+        </attvalues>
+      </node>
+      <node id="NYYankees" label="NYYankees">
+        <attvalues>
+          <attvalue for="0" value="7369" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="DisavowSanders" target="NeutralPolitics" weight="1" />
+      <edge id="1" source="DisavowSanders" target="EndlessWar" weight="1" />
+      <edge id="2" source="DisavowSanders" target="wallstreetbets" weight="4" />
+      <edge id="3" source="DisavowSanders" target="NeutralTalk" weight="1" />
+      <edge id="4" source="DisavowSanders" target="Trumpland" weight="2" />
+      <edge id="5" source="DisavowSanders" target="DescentIntoTyranny" weight="1" />
+      <edge id="6" source="DisavowSanders" target="HillaryMeltdown" weight="2" />
+      <edge id="7" source="DisavowSanders" target="NotMyPresident_News" weight="1" />
+      <edge id="8" source="DisavowSanders" target="The_Donald" weight="6" />
+      <edge id="9" source="DisavowSanders" target="alexjones" weight="1" />
+      <edge id="10" source="DisavowSanders" target="neutralnews" weight="1" />
+      <edge id="11" source="DisavowSanders" target="BarronTrump" weight="1" />
+      <edge id="12" source="JustinAmash" target="progun" weight="1" />
+      <edge id="13" source="JustinAmash" target="randpaul" weight="1" />
+      <edge id="14" source="JustinAmash" target="MikeLee" weight="1" />
+      <edge id="15" source="JustinAmash" target="mcafee2016" weight="1" />
+      <edge id="16" source="JustinAmash" target="ronpaul" weight="1" />
+      <edge id="17" source="JustinAmash" target="Libertarian" weight="1" />
+      <edge id="18" source="JustinAmash" target="HillaryForPrison" weight="1" />
+      <edge id="19" source="JustinAmash" target="Paul" weight="1" />
+      <edge id="20" source="JustinAmash" target="Trumplicans" weight="1" />
+      <edge id="21" source="JustinAmash" target="DeclinetoState" weight="1" />
+      <edge id="22" source="JustinAmash" target="GaryJohnson" weight="1" />
+      <edge id="23" source="JustinAmash" target="The_Donald" weight="1" />
+      <edge id="24" source="JustinAmash" target="EndlessWar" weight="1" />
+      <edge id="25" source="JustinAmash" target="NYYankees" weight="1" />
+      <edge id="26" source="JustinAmash" target="censored" weight="1" />
+      <edge id="27" source="ucpennsylvania" target="RedditCensorship" weight="1" />
+      <edge id="28" source="ucpennsylvania" target="IndiaSpeaks" weight="1" />
+      <edge id="29" source="ucpennsylvania" target="TrueReddit" weight="1" />
+      <edge id="30" source="ucpennsylvania" target="rubyonrails" weight="1" />
+      <edge id="31" source="ucpennsylvania" target="uncensorship" weight="1" />
+      <edge id="32" source="ucpennsylvania" target="Blackout2015" weight="1" />
+      <edge id="33" source="ucpennsylvania" target="cojoco" weight="1" />
+      <edge id="34" source="ucpennsylvania" target="technewz" weight="1" />
+      <edge id="35" source="ucpennsylvania" target="altnewz" weight="1" />
+      <edge id="36" source="ucpennsylvania" target="darknetplan" weight="1" />
+      <edge id="37" source="ucpennsylvania" target="snowden" weight="1" />
+      <edge id="38" source="ucpennsylvania" target="every_one_is_mod" weight="1" />
+      <edge id="39" source="ucpennsylvania" target="ConspiracyTheory" weight="1" />
+      <edge id="40" source="ucpennsylvania" target="WatchRedditDie" weight="1" />
+      <edge id="41" source="ucpennsylvania" target="snew" weight="1" />
+      <edge id="42" source="ucpennsylvania" target="conspiracy" weight="1" />
+      <edge id="43" source="ucpennsylvania" target="Falastin" weight="1" />
+      <edge id="44" source="ucpennsylvania" target="UpliftingKhabre" weight="1" />
+      <edge id="45" source="ucpennsylvania" target="yyj" weight="1" />
+      <edge id="46" source="ucpennsylvania" target="finreviewz" weight="1" />
+      <edge id="47" source="ucpennsylvania" target="FreeSpeech" weight="1" />
+      <edge id="48" source="ucpennsylvania" target="truevoat" weight="1" />
+      <edge id="49" source="ucpennsylvania" target="C_S_T" weight="1" />
+      <edge id="50" source="BridgeEngineers" target="verypunny" weight="1" />
+      <edge id="51" source="BridgeEngineers" target="newsbloopers" weight="1" />
+      <edge id="52" source="BridgeEngineers" target="publicmodlogs" weight="1" />
+      <edge id="53" source="BridgeEngineers" target="PublicFreakout" weight="1" />
+      <edge id="54" source="BridgeEngineers" target="Oppression" weight="1" />
+      <edge id="55" source="BridgeEngineers" target="uncensorship" weight="1" />
+      <edge id="56" source="BridgeEngineers" target="altnewz" weight="1" />
+      <edge id="57" source="BridgeEngineers" target="GasTheSnoo" weight="1" />
+      <edge id="58" source="BridgeEngineers" target="BannedFromBanned" weight="1" />
+      <edge id="59" source="BridgeEngineers" target="VitaPiracy" weight="1" />
+      <edge id="60" source="BridgeEngineers" target="worldnews" weight="1" />
+      <edge id="61" source="BridgeEngineers" target="timetostartanew" weight="1" />
+      <edge id="62" source="BridgeEngineers" target="MockRedditAdmins" weight="1" />
+      <edge id="63" source="BridgeEngineers" target="CasualNewWorldOrder" weight="1" />
+      <edge id="64" source="BridgeEngineers" target="snew" weight="1" />
+      <edge id="65" source="BridgeEngineers" target="ModerationLog" weight="1" />
+      <edge id="66" source="BridgeEngineers" target="tragedyandhope" weight="1" />
+      <edge id="67" source="BridgeEngineers" target="CasualTodayILearned" weight="1" />
+      <edge id="68" source="BridgeEngineers" target="altnews" weight="1" />
+      <edge id="69" source="BridgeEngineers" target="conspiracy" weight="1" />
+      <edge id="70" source="BridgeEngineers" target="TheBatarang" weight="1" />
+      <edge id="71" source="BridgeEngineers" target="TheShrineOfKeroro" weight="1" />
+      <edge id="72" source="BridgeEngineers" target="professional" weight="1" />
+      <edge id="73" source="BridgeEngineers" target="Libraries" weight="1" />
+      <edge id="74" source="BridgeEngineers" target="conspiracydocumentary" weight="1" />
+      <edge id="75" source="BridgeEngineers" target="Albumleaks" weight="1" />
+      <edge id="76" source="BridgeEngineers" target="TrueOppression" weight="1" />
+      <edge id="77" source="BridgeEngineers" target="WikiLeaks" weight="1" />
+      <edge id="78" source="BridgeEngineers" target="rdvisacuck" weight="1" />
+      <edge id="79" source="BridgeEngineers" target="aaronswartz" weight="1" />
+      <edge id="80" source="BridgeEngineers" target="DNCleaks" weight="1" />
+      <edge id="81" source="BridgeEngineers" target="Stuff" weight="1" />
+      <edge id="82" source="BridgeEngineers" target="HighEndGlass" weight="1" />
+      <edge id="83" source="BridgeEngineers" target="outofthepoop" weight="1" />
+      <edge id="84" source="BridgeEngineers" target="dickgirls" weight="1" />
+      <edge id="85" source="forza546css" target="The_Donald" weight="1" />
+      <edge id="86" source="forza546css" target="HillaryForPrison" weight="1" />
+      <edge id="87" source="forza546css" target="forzahorizon3" weight="1" />
+      <edge id="88" source="wallstreetbets" target="The_Ivanka" weight="1" />
+      <edge id="89" source="wallstreetbets" target="ToK" weight="1" />
+      <edge id="90" source="wallstreetbets" target="the_denis" weight="1" />
+      <edge id="91" source="wallstreetbets" target="Modssssze" weight="1" />
+      <edge id="92" source="wallstreetbets" target="TheDangerousFaggot" weight="1" />
+      <edge id="93" source="wallstreetbets" target="Blackwidow" weight="1" />
+      <edge id="94" source="wallstreetbets" target="PurpleLounge" weight="1" />
+      <edge id="95" source="wallstreetbets" target="theGreamMemeWar" weight="1" />
+      <edge id="96" source="wallstreetbets" target="theGreatMemeWar" weight="2" />
+      <edge id="97" source="wallstreetbets" target="Sorosforprison" weight="3" />
+      <edge id="98" source="wallstreetbets" target="lockHerUp" weight="1" />
+      <edge id="99" source="wallstreetbets" target="HillaryMeltdown" weight="6" />
+      <edge id="100" source="wallstreetbets" target="comcastnazi" weight="1" />
+      <edge id="101" source="wallstreetbets" target="The_Donald" weight="12" />
+      <edge id="102" source="wallstreetbets" target="strobecirclejerk" weight="1" />
+      <edge id="103" source="wallstreetbets" target="DeepDreamRequests" weight="1" />
+      <edge id="104" source="wallstreetbets" target="byzantium" weight="1" />
+      <edge id="105" source="wallstreetbets" target="neutralnews" weight="1" />
+      <edge id="106" source="wallstreetbets" target="EndlessWar" weight="1" />
+      <edge id="107" source="wallstreetbets" target="The_Donald_TV" weight="1" />
+      <edge id="108" source="wallstreetbets" target="NeutralPolitics" weight="1" />
+      <edge id="109" source="wallstreetbets" target="whatissnoodoing" weight="1" />
+      <edge id="110" source="wallstreetbets" target="CountyMonaghan" weight="2" />
+      <edge id="111" source="wallstreetbets" target="Le_Pen" weight="1" />
+      <edge id="112" source="wallstreetbets" target="AskThe_Donald" weight="1" />
+      <edge id="113" source="wallstreetbets" target="Quicksilver" weight="1" />
+      <edge id="114" source="wallstreetbets" target="Donald_Trump" weight="1" />
+      <edge id="115" source="wallstreetbets" target="the_mattis" weight="1" />
+      <edge id="116" source="wallstreetbets" target="HillaryForPrison" weight="3" />
+      <edge id="117" source="wallstreetbets" target="NeutralTalk" weight="1" />
+      <edge id="118" source="wallstreetbets" target="moretrumpspam" weight="1" />
+      <edge id="119" source="wallstreetbets" target="Trumpland" weight="3" />
+      <edge id="120" source="wallstreetbets" target="The_Nehlen" weight="1" />
+      <edge id="121" source="wallstreetbets" target="Trumplicans" weight="1" />
+      <edge id="122" source="wallstreetbets" target="DescentIntoTyranny" weight="1" />
+      <edge id="123" source="wallstreetbets" target="The_Farage" weight="2" />
+      <edge id="124" source="wallstreetbets" target="creepy_hillary" weight="1" />
+      <edge id="125" source="wallstreetbets" target="pepe" weight="1" />
+      <edge id="126" source="wallstreetbets" target="The_Europe" weight="1" />
+      <edge id="127" source="wallstreetbets" target="PodestaEmails" weight="1" />
+      <edge id="128" source="wallstreetbets" target="alexjones" weight="1" />
+      <edge id="129" source="wallstreetbets" target="NotMyPresident_News" weight="1" />
+      <edge id="130" source="Libraries" target="verypunny" weight="1" />
+      <edge id="131" source="Libraries" target="newsbloopers" weight="1" />
+      <edge id="132" source="Libraries" target="publicmodlogs" weight="1" />
+      <edge id="133" source="Libraries" target="PublicFreakout" weight="1" />
+      <edge id="134" source="Libraries" target="Oppression" weight="1" />
+      <edge id="135" source="Libraries" target="altnewz" weight="1" />
+      <edge id="136" source="Libraries" target="DNCleaks" weight="1" />
+      <edge id="137" source="Libraries" target="uncensorship" weight="1" />
+      <edge id="138" source="Libraries" target="HighEndGlass" weight="1" />
+      <edge id="139" source="Libraries" target="VitaPiracy" weight="1" />
+      <edge id="140" source="Libraries" target="worldnews" weight="1" />
+      <edge id="141" source="Libraries" target="timetostartanew" weight="1" />
+      <edge id="142" source="Libraries" target="MockRedditAdmins" weight="1" />
+      <edge id="143" source="Libraries" target="CasualNewWorldOrder" weight="1" />
+      <edge id="144" source="Libraries" target="snew" weight="1" />
+      <edge id="145" source="Libraries" target="ModerationLog" weight="1" />
+      <edge id="146" source="Libraries" target="tragedyandhope" weight="1" />
+      <edge id="147" source="Libraries" target="CasualTodayILearned" weight="1" />
+      <edge id="148" source="Libraries" target="altnews" weight="1" />
+      <edge id="149" source="Libraries" target="conspiracy" weight="1" />
+      <edge id="150" source="Libraries" target="GasTheSnoo" weight="1" />
+      <edge id="151" source="Libraries" target="TheShrineOfKeroro" weight="1" />
+      <edge id="152" source="Libraries" target="professional" weight="1" />
+      <edge id="153" source="Libraries" target="conspiracydocumentary" weight="1" />
+      <edge id="154" source="Libraries" target="Albumleaks" weight="1" />
+      <edge id="155" source="Libraries" target="TrueOppression" weight="1" />
+      <edge id="156" source="Libraries" target="WikiLeaks" weight="1" />
+      <edge id="157" source="Libraries" target="BannedFromBanned" weight="1" />
+      <edge id="158" source="Libraries" target="rdvisacuck" weight="1" />
+      <edge id="159" source="Libraries" target="aaronswartz" weight="1" />
+      <edge id="160" source="Libraries" target="TheBatarang" weight="1" />
+      <edge id="161" source="Libraries" target="Stuff" weight="1" />
+      <edge id="162" source="Libraries" target="outofthepoop" weight="1" />
+      <edge id="163" source="Libraries" target="dickgirls" weight="1" />
+      <edge id="164" source="Subliminal" target="Diablo3witchdoctors" weight="1" />
+      <edge id="165" source="Subliminal" target="Diablo3DemonHunters" weight="1" />
+      <edge id="166" source="Subliminal" target="thegoodwife" weight="1" />
+      <edge id="167" source="Subliminal" target="Diablo3Wizards" weight="1" />
+      <edge id="168" source="Subliminal" target="Diablo3Barbarians" weight="1" />
+      <edge id="169" source="Subliminal" target="Diablo3Monks" weight="1" />
+      <edge id="170" source="Subliminal" target="PastAndPresentPics" weight="1" />
+      <edge id="171" source="Subliminal" target="DemonHunters" weight="1" />
+      <edge id="172" source="Subliminal" target="conspiracy" weight="1" />
+      <edge id="173" source="Subliminal" target="paydaytheheist" weight="1" />
+      <edge id="174" source="Subliminal" target="onetruegod" weight="1" />
+      <edge id="175" source="LimitedHangouts" target="conspiracy" weight="2" />
+      <edge id="176" source="LimitedHangouts" target="AlternativeHistory" weight="1" />
+      <edge id="177" source="LimitedHangouts" target="C_S_T" weight="1" />
+      <edge id="178" source="TheSurvivalGuide" target="snew" weight="1" />
+      <edge id="179" source="TheSurvivalGuide" target="conspiracy" weight="1" />
+      <edge id="180" source="TheSurvivalGuide" target="All_Videos" weight="1" />
+      <edge id="181" source="TheSurvivalGuide" target="MartinShkreli" weight="1" />
+      <edge id="182" source="TheSurvivalGuide" target="MockRedditAdmins" weight="1" />
+      <edge id="183" source="TheSurvivalGuide" target="AskFlytape" weight="1" />
+      <edge id="184" source="TheSurvivalGuide" target="NolibsWatch" weight="1" />
+      <edge id="185" source="DeepDreamRequests" target="whatissnoodoing" weight="1" />
+      <edge id="186" source="DeepDreamRequests" target="CountyMonaghan" weight="1" />
+      <edge id="187" source="DeepDreamRequests" target="Le_Pen" weight="1" />
+      <edge id="188" source="DeepDreamRequests" target="TheDangerousFaggot" weight="1" />
+      <edge id="189" source="DeepDreamRequests" target="Blackwidow" weight="1" />
+      <edge id="190" source="DeepDreamRequests" target="Quicksilver" weight="1" />
+      <edge id="191" source="DeepDreamRequests" target="PurpleLounge" weight="1" />
+      <edge id="192" source="DeepDreamRequests" target="Sorosforprison" weight="1" />
+      <edge id="193" source="DeepDreamRequests" target="The_Nehlen" weight="1" />
+      <edge id="194" source="DeepDreamRequests" target="lockHerUp" weight="1" />
+      <edge id="195" source="DeepDreamRequests" target="HillaryMeltdown" weight="1" />
+      <edge id="196" source="DeepDreamRequests" target="The_Farage" weight="1" />
+      <edge id="197" source="DeepDreamRequests" target="creepy_hillary" weight="1" />
+      <edge id="198" source="DeepDreamRequests" target="strobecirclejerk" weight="1" />
+      <edge id="199" source="DeepDreamRequests" target="The_Europe" weight="1" />
+      <edge id="200" source="DeepDreamRequests" target="The_Donald" weight="1" />
+      <edge id="201" source="DeepDreamRequests" target="HillaryForPrison" weight="1" />
+      <edge id="202" source="snowden" target="RedditCensorship" weight="1" />
+      <edge id="203" source="snowden" target="IndiaSpeaks" weight="1" />
+      <edge id="204" source="snowden" target="TrueReddit" weight="1" />
+      <edge id="205" source="snowden" target="rubyonrails" weight="1" />
+      <edge id="206" source="snowden" target="altnewz" weight="1" />
+      <edge id="207" source="snowden" target="Blackout2015" weight="1" />
+      <edge id="208" source="snowden" target="cojoco" weight="1" />
+      <edge id="209" source="snowden" target="technewz" weight="1" />
+      <edge id="210" source="snowden" target="uncensorship" weight="1" />
+      <edge id="211" source="snowden" target="darknetplan" weight="1" />
+      <edge id="212" source="snowden" target="every_one_is_mod" weight="1" />
+      <edge id="213" source="snowden" target="ConspiracyTheory" weight="1" />
+      <edge id="214" source="snowden" target="WatchRedditDie" weight="1" />
+      <edge id="215" source="snowden" target="snew" weight="1" />
+      <edge id="216" source="snowden" target="conspiracy" weight="1" />
+      <edge id="217" source="snowden" target="Falastin" weight="1" />
+      <edge id="218" source="snowden" target="UpliftingKhabre" weight="1" />
+      <edge id="219" source="snowden" target="yyj" weight="1" />
+      <edge id="220" source="snowden" target="finreviewz" weight="1" />
+      <edge id="221" source="snowden" target="FreeSpeech" weight="1" />
+      <edge id="222" source="snowden" target="truevoat" weight="1" />
+      <edge id="223" source="snowden" target="C_S_T" weight="1" />
+      <edge id="224" source="CasualNewWorldOrder" target="verypunny" weight="1" />
+      <edge id="225" source="CasualNewWorldOrder" target="newsbloopers" weight="1" />
+      <edge id="226" source="CasualNewWorldOrder" target="publicmodlogs" weight="1" />
+      <edge id="227" source="CasualNewWorldOrder" target="PublicFreakout" weight="1" />
+      <edge id="228" source="CasualNewWorldOrder" target="Oppression" weight="1" />
+      <edge id="229" source="CasualNewWorldOrder" target="altnewz" weight="1" />
+      <edge id="230" source="CasualNewWorldOrder" target="GasTheSnoo" weight="1" />
+      <edge id="231" source="CasualNewWorldOrder" target="uncensorship" weight="1" />
+      <edge id="232" source="CasualNewWorldOrder" target="BannedFromBanned" weight="1" />
+      <edge id="233" source="CasualNewWorldOrder" target="VitaPiracy" weight="1" />
+      <edge id="234" source="CasualNewWorldOrder" target="worldnews" weight="1" />
+      <edge id="235" source="CasualNewWorldOrder" target="timetostartanew" weight="1" />
+      <edge id="236" source="CasualNewWorldOrder" target="MockRedditAdmins" weight="1" />
+      <edge id="237" source="CasualNewWorldOrder" target="ModerationLog" weight="1" />
+      <edge id="238" source="CasualNewWorldOrder" target="snew" weight="1" />
+      <edge id="239" source="CasualNewWorldOrder" target="CasualTodayILearned" weight="1" />
+      <edge id="240" source="CasualNewWorldOrder" target="altnews" weight="1" />
+      <edge id="241" source="CasualNewWorldOrder" target="conspiracy" weight="1" />
+      <edge id="242" source="CasualNewWorldOrder" target="TrueOppression" weight="1" />
+      <edge id="243" source="CasualNewWorldOrder" target="TheShrineOfKeroro" weight="1" />
+      <edge id="244" source="CasualNewWorldOrder" target="professional" weight="1" />
+      <edge id="245" source="CasualNewWorldOrder" target="HighEndGlass" weight="1" />
+      <edge id="246" source="CasualNewWorldOrder" target="Albumleaks" weight="1" />
+      <edge id="247" source="CasualNewWorldOrder" target="TheBatarang" weight="1" />
+      <edge id="248" source="CasualNewWorldOrder" target="WikiLeaks" weight="1" />
+      <edge id="249" source="CasualNewWorldOrder" target="rdvisacuck" weight="1" />
+      <edge id="250" source="CasualNewWorldOrder" target="aaronswartz" weight="1" />
+      <edge id="251" source="CasualNewWorldOrder" target="tragedyandhope" weight="1" />
+      <edge id="252" source="CasualNewWorldOrder" target="DNCleaks" weight="1" />
+      <edge id="253" source="CasualNewWorldOrder" target="Stuff" weight="1" />
+      <edge id="254" source="CasualNewWorldOrder" target="outofthepoop" weight="1" />
+      <edge id="255" source="CasualNewWorldOrder" target="dickgirls" weight="1" />
+      <edge id="256" source="CasualNewWorldOrder" target="conspiracydocumentary" weight="1" />
+      <edge id="257" source="fsm" target="hilary" weight="1" />
+      <edge id="258" source="fsm" target="uchicago" weight="1" />
+      <edge id="259" source="fsm" target="tidder" weight="1" />
+      <edge id="260" source="fsm" target="conspiracy" weight="1" />
+      <edge id="261" source="fsm" target="musicians" weight="1" />
+      <edge id="262" source="fsm" target="rpgtrade" weight="1" />
+      <edge id="263" source="fsm" target="911truth" weight="1" />
+      <edge id="264" source="fsm" target="scientology" weight="1" />
+      <edge id="265" source="fsm" target="Girls_with_tattoo" weight="1" />
+      <edge id="266" source="fsm" target="ChicagoPics" weight="1" />
+      <edge id="267" source="fsm" target="chicagojobs" weight="1" />
+      <edge id="268" source="fsm" target="rpg" weight="1" />
+      <edge id="269" source="fsm" target="scifi" weight="1" />
+      <edge id="270" source="fsm" target="wikipedia" weight="1" />
+      <edge id="271" source="fsm" target="nature" weight="1" />
+      <edge id="272" source="fsm" target="humor" weight="1" />
+      <edge id="273" source="fsm" target="webcomics" weight="1" />
+      <edge id="274" source="THE_BERNDOWN" target="BoycottCNN" weight="1" />
+      <edge id="275" source="THE_BERNDOWN" target="Our_Politics" weight="1" />
+      <edge id="276" source="THE_BERNDOWN" target="Sorosforprison" weight="1" />
+      <edge id="277" source="THE_BERNDOWN" target="Trumpland" weight="1" />
+      <edge id="278" source="THE_BERNDOWN" target="Trumplicans" weight="1" />
+      <edge id="279" source="THE_BERNDOWN" target="HillaryMeltdown" weight="1" />
+      <edge id="280" source="THE_BERNDOWN" target="AdminCensorTest040534" weight="1" />
+      <edge id="281" source="THE_BERNDOWN" target="TheRecordCorrected" weight="1" />
+      <edge id="282" source="THE_BERNDOWN" target="The_Donald" weight="1" />
+      <edge id="283" source="THE_BERNDOWN" target="MockRedditAdmins" weight="1" />
+      <edge id="284" source="THE_BERNDOWN" target="HillaryForPrison" weight="1" />
+      <edge id="285" source="THE_BERNDOWN" target="dickgirls" weight="1" />
+      <edge id="286" source="911truth" target="hilary" weight="1" />
+      <edge id="287" source="911truth" target="uchicago" weight="1" />
+      <edge id="288" source="911truth" target="tidder" weight="1" />
+      <edge id="289" source="911truth" target="conspiracy" weight="1" />
+      <edge id="290" source="911truth" target="rpgtrade" weight="1" />
+      <edge id="291" source="911truth" target="scientology" weight="1" />
+      <edge id="292" source="911truth" target="Girls_with_tattoo" weight="1" />
+      <edge id="293" source="911truth" target="ChicagoPics" weight="1" />
+      <edge id="294" source="911truth" target="chicagojobs" weight="1" />
+      <edge id="295" source="911truth" target="rpg" weight="1" />
+      <edge id="296" source="911truth" target="scifi" weight="1" />
+      <edge id="297" source="911truth" target="wikipedia" weight="1" />
+      <edge id="298" source="911truth" target="musicians" weight="1" />
+      <edge id="299" source="911truth" target="nature" weight="1" />
+      <edge id="300" source="911truth" target="humor" weight="1" />
+      <edge id="301" source="911truth" target="webcomics" weight="1" />
+      <edge id="302" source="UpliftingKhabre" target="RedditCensorship" weight="1" />
+      <edge id="303" source="UpliftingKhabre" target="IndiaSpeaks" weight="1" />
+      <edge id="304" source="UpliftingKhabre" target="TrueReddit" weight="1" />
+      <edge id="305" source="UpliftingKhabre" target="rubyonrails" weight="1" />
+      <edge id="306" source="UpliftingKhabre" target="altnewz" weight="1" />
+      <edge id="307" source="UpliftingKhabre" target="Blackout2015" weight="1" />
+      <edge id="308" source="UpliftingKhabre" target="cojoco" weight="1" />
+      <edge id="309" source="UpliftingKhabre" target="technewz" weight="1" />
+      <edge id="310" source="UpliftingKhabre" target="uncensorship" weight="1" />
+      <edge id="311" source="UpliftingKhabre" target="darknetplan" weight="1" />
+      <edge id="312" source="UpliftingKhabre" target="every_one_is_mod" weight="1" />
+      <edge id="313" source="UpliftingKhabre" target="ConspiracyTheory" weight="1" />
+      <edge id="314" source="UpliftingKhabre" target="WatchRedditDie" weight="1" />
+      <edge id="315" source="UpliftingKhabre" target="snew" weight="1" />
+      <edge id="316" source="UpliftingKhabre" target="conspiracy" weight="1" />
+      <edge id="317" source="UpliftingKhabre" target="Falastin" weight="1" />
+      <edge id="318" source="UpliftingKhabre" target="yyj" weight="1" />
+      <edge id="319" source="UpliftingKhabre" target="finreviewz" weight="1" />
+      <edge id="320" source="UpliftingKhabre" target="FreeSpeech" weight="1" />
+      <edge id="321" source="UpliftingKhabre" target="truevoat" weight="1" />
+      <edge id="322" source="UpliftingKhabre" target="C_S_T" weight="1" />
+      <edge id="323" source="NotMyPresident_News" target="DescentIntoTyranny" weight="1" />
+      <edge id="324" source="NotMyPresident_News" target="alexjones" weight="1" />
+      <edge id="325" source="NotMyPresident_News" target="The_Donald" weight="1" />
+      <edge id="326" source="NotMyPresident_News" target="EndlessWar" weight="1" />
+      <edge id="327" source="NeutralTalk" target="NeutralPolitics" weight="1" />
+      <edge id="328" source="NeutralTalk" target="neutralnews" weight="1" />
+      <edge id="329" source="NeutralTalk" target="HillaryMeltdown" weight="1" />
+      <edge id="330" source="NeutralTalk" target="The_Donald" weight="1" />
+      <edge id="331" source="NeutralTalk" target="Trumpland" weight="1" />
+      <edge id="332" source="DemonHunters" target="Diablo3witchdoctors" weight="1" />
+      <edge id="333" source="DemonHunters" target="Diablo3DemonHunters" weight="1" />
+      <edge id="334" source="DemonHunters" target="thegoodwife" weight="1" />
+      <edge id="335" source="DemonHunters" target="Diablo3Wizards" weight="1" />
+      <edge id="336" source="DemonHunters" target="Diablo3Barbarians" weight="1" />
+      <edge id="337" source="DemonHunters" target="Diablo3Monks" weight="1" />
+      <edge id="338" source="DemonHunters" target="PastAndPresentPics" weight="1" />
+      <edge id="339" source="DemonHunters" target="conspiracy" weight="1" />
+      <edge id="340" source="DemonHunters" target="paydaytheheist" weight="1" />
+      <edge id="341" source="DemonHunters" target="onetruegod" weight="1" />
+      <edge id="342" source="UFOs" target="globalresearch" weight="1" />
+      <edge id="343" source="UFOs" target="conspiracy" weight="1" />
+      <edge id="344" source="UFOs" target="josephpfarrell" weight="1" />
+      <edge id="345" source="UFOs" target="conspiracyfact" weight="1" />
+      <edge id="346" source="UFOs" target="advancedtechresearch" weight="1" />
+      <edge id="347" source="UFOs" target="DocumentedTruth" weight="1" />
+      <edge id="348" source="UFOs" target="conspiracydocumentary" weight="1" />
+      <edge id="349" source="PublicFreakout" target="verypunny" weight="1" />
+      <edge id="350" source="PublicFreakout" target="newsbloopers" weight="1" />
+      <edge id="351" source="PublicFreakout" target="publicmodlogs" weight="1" />
+      <edge id="352" source="PublicFreakout" target="snew" weight="1" />
+      <edge id="353" source="PublicFreakout" target="Oppression" weight="1" />
+      <edge id="354" source="PublicFreakout" target="VitaPiracy" weight="1" />
+      <edge id="355" source="PublicFreakout" target="altnewz" weight="1" />
+      <edge id="356" source="PublicFreakout" target="GasTheSnoo" weight="1" />
+      <edge id="357" source="PublicFreakout" target="uncensorship" weight="1" />
+      <edge id="358" source="PublicFreakout" target="BannedFromBanned" weight="1" />
+      <edge id="359" source="PublicFreakout" target="worldnews" weight="1" />
+      <edge id="360" source="PublicFreakout" target="timetostartanew" weight="1" />
+      <edge id="361" source="PublicFreakout" target="MockRedditAdmins" weight="1" />
+      <edge id="362" source="PublicFreakout" target="ModerationLog" weight="1" />
+      <edge id="363" source="PublicFreakout" target="tragedyandhope" weight="1" />
+      <edge id="364" source="PublicFreakout" target="CasualTodayILearned" weight="1" />
+      <edge id="365" source="PublicFreakout" target="altnews" weight="1" />
+      <edge id="366" source="PublicFreakout" target="conspiracy" weight="1" />
+      <edge id="367" source="PublicFreakout" target="TrueOppression" weight="1" />
+      <edge id="368" source="PublicFreakout" target="TheShrineOfKeroro" weight="1" />
+      <edge id="369" source="PublicFreakout" target="professional" weight="1" />
+      <edge id="370" source="PublicFreakout" target="HighEndGlass" weight="1" />
+      <edge id="371" source="PublicFreakout" target="Albumleaks" weight="1" />
+      <edge id="372" source="PublicFreakout" target="TheBatarang" weight="1" />
+      <edge id="373" source="PublicFreakout" target="WikiLeaks" weight="1" />
+      <edge id="374" source="PublicFreakout" target="rdvisacuck" weight="1" />
+      <edge id="375" source="PublicFreakout" target="aaronswartz" weight="1" />
+      <edge id="376" source="PublicFreakout" target="DNCleaks" weight="1" />
+      <edge id="377" source="PublicFreakout" target="Stuff" weight="1" />
+      <edge id="378" source="PublicFreakout" target="outofthepoop" weight="1" />
+      <edge id="379" source="PublicFreakout" target="dickgirls" weight="1" />
+      <edge id="380" source="PublicFreakout" target="conspiracydocumentary" weight="1" />
+      <edge id="381" source="chartercable" target="cnn" weight="1" />
+      <edge id="382" source="chartercable" target="marriott" weight="1" />
+      <edge id="383" source="chartercable" target="The_Donald" weight="1" />
+      <edge id="384" source="chartercable" target="Abilene" weight="1" />
+      <edge id="385" source="chartercable" target="GoldsboroNC" weight="1" />
+      <edge id="386" source="chartercable" target="CharterSpectrum" weight="1" />
+      <edge id="387" source="chartercable" target="timewarnercable" weight="1" />
+      <edge id="388" source="uchicago" target="hilary" weight="1" />
+      <edge id="389" source="uchicago" target="tidder" weight="1" />
+      <edge id="390" source="uchicago" target="conspiracy" weight="1" />
+      <edge id="391" source="uchicago" target="rpgtrade" weight="1" />
+      <edge id="392" source="uchicago" target="scientology" weight="1" />
+      <edge id="393" source="uchicago" target="Girls_with_tattoo" weight="1" />
+      <edge id="394" source="uchicago" target="ChicagoPics" weight="1" />
+      <edge id="395" source="uchicago" target="nature" weight="1" />
+      <edge id="396" source="uchicago" target="rpg" weight="1" />
+      <edge id="397" source="uchicago" target="scifi" weight="1" />
+      <edge id="398" source="uchicago" target="wikipedia" weight="1" />
+      <edge id="399" source="uchicago" target="musicians" weight="1" />
+      <edge id="400" source="uchicago" target="humor" weight="1" />
+      <edge id="401" source="uchicago" target="chicagojobs" weight="1" />
+      <edge id="402" source="uchicago" target="webcomics" weight="1" />
+      <edge id="403" source="GaryJohnson" target="progun" weight="1" />
+      <edge id="404" source="GaryJohnson" target="randpaul" weight="1" />
+      <edge id="405" source="GaryJohnson" target="MikeLee" weight="1" />
+      <edge id="406" source="GaryJohnson" target="EndlessWar" weight="1" />
+      <edge id="407" source="GaryJohnson" target="mcafee2016" weight="1" />
+      <edge id="408" source="GaryJohnson" target="HillaryForPrison" weight="1" />
+      <edge id="409" source="GaryJohnson" target="Libertarian" weight="1" />
+      <edge id="410" source="GaryJohnson" target="Paul" weight="1" />
+      <edge id="411" source="GaryJohnson" target="Trumplicans" weight="1" />
+      <edge id="412" source="GaryJohnson" target="DeclinetoState" weight="1" />
+      <edge id="413" source="GaryJohnson" target="The_Donald" weight="1" />
+      <edge id="414" source="GaryJohnson" target="ronpaul" weight="1" />
+      <edge id="415" source="GaryJohnson" target="NYYankees" weight="1" />
+      <edge id="416" source="GaryJohnson" target="censored" weight="1" />
+      <edge id="417" source="comcastnazi" target="The_Ivanka" weight="1" />
+      <edge id="418" source="comcastnazi" target="Modssssze" weight="1" />
+      <edge id="419" source="comcastnazi" target="the_mattis" weight="1" />
+      <edge id="420" source="comcastnazi" target="ToK" weight="1" />
+      <edge id="421" source="comcastnazi" target="HillaryForPrison" weight="1" />
+      <edge id="422" source="comcastnazi" target="Sorosforprison" weight="1" />
+      <edge id="423" source="comcastnazi" target="moretrumpspam" weight="1" />
+      <edge id="424" source="comcastnazi" target="Trumpland" weight="1" />
+      <edge id="425" source="comcastnazi" target="pepe" weight="1" />
+      <edge id="426" source="comcastnazi" target="HillaryMeltdown" weight="1" />
+      <edge id="427" source="comcastnazi" target="theGreamMemeWar" weight="1" />
+      <edge id="428" source="comcastnazi" target="The_Donald" weight="1" />
+      <edge id="429" source="comcastnazi" target="PodestaEmails" weight="1" />
+      <edge id="430" source="comcastnazi" target="theGreatMemeWar" weight="1" />
+      <edge id="431" source="comcastnazi" target="The_Donald_TV" weight="1" />
+      <edge id="432" source="The_Europe" target="whatissnoodoing" weight="1" />
+      <edge id="433" source="The_Europe" target="CountyMonaghan" weight="1" />
+      <edge id="434" source="The_Europe" target="Le_Pen" weight="1" />
+      <edge id="435" source="The_Europe" target="TheDangerousFaggot" weight="1" />
+      <edge id="436" source="The_Europe" target="Blackwidow" weight="1" />
+      <edge id="437" source="The_Europe" target="Quicksilver" weight="1" />
+      <edge id="438" source="The_Europe" target="PurpleLounge" weight="1" />
+      <edge id="439" source="The_Europe" target="Sorosforprison" weight="1" />
+      <edge id="440" source="The_Europe" target="The_Nehlen" weight="1" />
+      <edge id="441" source="The_Europe" target="lockHerUp" weight="1" />
+      <edge id="442" source="The_Europe" target="HillaryMeltdown" weight="1" />
+      <edge id="443" source="The_Europe" target="The_Farage" weight="1" />
+      <edge id="444" source="The_Europe" target="creepy_hillary" weight="1" />
+      <edge id="445" source="The_Europe" target="strobecirclejerk" weight="1" />
+      <edge id="446" source="The_Europe" target="The_Donald" weight="1" />
+      <edge id="447" source="The_Europe" target="HillaryForPrison" weight="1" />
+      <edge id="448" source="Diablo3Monks" target="Diablo3witchdoctors" weight="1" />
+      <edge id="449" source="Diablo3Monks" target="Diablo3DemonHunters" weight="1" />
+      <edge id="450" source="Diablo3Monks" target="thegoodwife" weight="1" />
+      <edge id="451" source="Diablo3Monks" target="Diablo3Wizards" weight="1" />
+      <edge id="452" source="Diablo3Monks" target="Diablo3Barbarians" weight="1" />
+      <edge id="453" source="Diablo3Monks" target="PastAndPresentPics" weight="1" />
+      <edge id="454" source="Diablo3Monks" target="onetruegod" weight="1" />
+      <edge id="455" source="Diablo3Monks" target="conspiracy" weight="1" />
+      <edge id="456" source="Diablo3Monks" target="paydaytheheist" weight="1" />
+      <edge id="457" source="Abilene" target="cnn" weight="1" />
+      <edge id="458" source="Abilene" target="marriott" weight="1" />
+      <edge id="459" source="Abilene" target="The_Donald" weight="1" />
+      <edge id="460" source="Abilene" target="GoldsboroNC" weight="1" />
+      <edge id="461" source="Abilene" target="CharterSpectrum" weight="1" />
+      <edge id="462" source="Abilene" target="timewarnercable" weight="1" />
+      <edge id="463" source="timewarnercable" target="cnn" weight="1" />
+      <edge id="464" source="timewarnercable" target="marriott" weight="1" />
+      <edge id="465" source="timewarnercable" target="The_Donald" weight="1" />
+      <edge id="466" source="timewarnercable" target="CharterSpectrum" weight="1" />
+      <edge id="467" source="timewarnercable" target="GoldsboroNC" weight="1" />
+      <edge id="468" source="The_Donald_TV" target="The_Ivanka" weight="1" />
+      <edge id="469" source="The_Donald_TV" target="Modssssze" weight="1" />
+      <edge id="470" source="The_Donald_TV" target="the_mattis" weight="1" />
+      <edge id="471" source="The_Donald_TV" target="HillaryForPrison" weight="1" />
+      <edge id="472" source="The_Donald_TV" target="ToK" weight="1" />
+      <edge id="473" source="The_Donald_TV" target="Sorosforprison" weight="1" />
+      <edge id="474" source="The_Donald_TV" target="moretrumpspam" weight="1" />
+      <edge id="475" source="The_Donald_TV" target="Trumpland" weight="1" />
+      <edge id="476" source="The_Donald_TV" target="pepe" weight="1" />
+      <edge id="477" source="The_Donald_TV" target="HillaryMeltdown" weight="1" />
+      <edge id="478" source="The_Donald_TV" target="theGreamMemeWar" weight="1" />
+      <edge id="479" source="The_Donald_TV" target="The_Donald" weight="1" />
+      <edge id="480" source="The_Donald_TV" target="PodestaEmails" weight="1" />
+      <edge id="481" source="The_Donald_TV" target="theGreatMemeWar" weight="1" />
+      <edge id="482" source="hilary" target="scifi" weight="1" />
+      <edge id="483" source="hilary" target="tidder" weight="1" />
+      <edge id="484" source="hilary" target="conspiracy" weight="1" />
+      <edge id="485" source="hilary" target="rpgtrade" weight="1" />
+      <edge id="486" source="hilary" target="scientology" weight="1" />
+      <edge id="487" source="hilary" target="Girls_with_tattoo" weight="1" />
+      <edge id="488" source="hilary" target="ChicagoPics" weight="1" />
+      <edge id="489" source="hilary" target="nature" weight="1" />
+      <edge id="490" source="hilary" target="rpg" weight="1" />
+      <edge id="491" source="hilary" target="wikipedia" weight="1" />
+      <edge id="492" source="hilary" target="musicians" weight="1" />
+      <edge id="493" source="hilary" target="humor" weight="1" />
+      <edge id="494" source="hilary" target="chicagojobs" weight="1" />
+      <edge id="495" source="hilary" target="webcomics" weight="1" />
+      <edge id="496" source="tragedyandhope" target="verypunny" weight="1" />
+      <edge id="497" source="tragedyandhope" target="worldnews" weight="1" />
+      <edge id="498" source="tragedyandhope" target="newsbloopers" weight="1" />
+      <edge id="499" source="tragedyandhope" target="publicmodlogs" weight="1" />
+      <edge id="500" source="tragedyandhope" target="Oppression" weight="1" />
+      <edge id="501" source="tragedyandhope" target="uncensorship" weight="1" />
+      <edge id="502" source="tragedyandhope" target="BannedFromBanned" weight="1" />
+      <edge id="503" source="tragedyandhope" target="TheBatarang" weight="1" />
+      <edge id="504" source="tragedyandhope" target="VitaPiracy" weight="1" />
+      <edge id="505" source="tragedyandhope" target="altnewz" weight="1" />
+      <edge id="506" source="tragedyandhope" target="timetostartanew" weight="1" />
+      <edge id="507" source="tragedyandhope" target="MockRedditAdmins" weight="1" />
+      <edge id="508" source="tragedyandhope" target="ModerationLog" weight="1" />
+      <edge id="509" source="tragedyandhope" target="snew" weight="1" />
+      <edge id="510" source="tragedyandhope" target="CasualTodayILearned" weight="1" />
+      <edge id="511" source="tragedyandhope" target="altnews" weight="1" />
+      <edge id="512" source="tragedyandhope" target="conspiracy" weight="2" />
+      <edge id="513" source="tragedyandhope" target="GasTheSnoo" weight="1" />
+      <edge id="514" source="tragedyandhope" target="TheShrineOfKeroro" weight="1" />
+      <edge id="515" source="tragedyandhope" target="professional" weight="1" />
+      <edge id="516" source="tragedyandhope" target="HighEndGlass" weight="1" />
+      <edge id="517" source="tragedyandhope" target="Albumleaks" weight="1" />
+      <edge id="518" source="tragedyandhope" target="TrueOppression" weight="1" />
+      <edge id="519" source="tragedyandhope" target="WikiLeaks" weight="1" />
+      <edge id="520" source="tragedyandhope" target="rdvisacuck" weight="1" />
+      <edge id="521" source="tragedyandhope" target="AlternativeHistory" weight="1" />
+      <edge id="522" source="tragedyandhope" target="aaronswartz" weight="1" />
+      <edge id="523" source="tragedyandhope" target="DNCleaks" weight="1" />
+      <edge id="524" source="tragedyandhope" target="Stuff" weight="1" />
+      <edge id="525" source="tragedyandhope" target="outofthepoop" weight="1" />
+      <edge id="526" source="tragedyandhope" target="conspiracydocumentary" weight="1" />
+      <edge id="527" source="tragedyandhope" target="dickgirls" weight="1" />
+      <edge id="528" source="tragedyandhope" target="C_S_T" weight="1" />
+      <edge id="529" source="The_Presidency" target="Trumplicans" weight="1" />
+      <edge id="530" source="The_Presidency" target="The_Ivanka" weight="1" />
+      <edge id="531" source="The_Presidency" target="HillaryMeltdown" weight="1" />
+      <edge id="532" source="The_Presidency" target="AskThe_Donald" weight="1" />
+      <edge id="533" source="The_Presidency" target="biotech" weight="1" />
+      <edge id="534" source="The_Presidency" target="President_Trump" weight="1" />
+      <edge id="535" source="The_Presidency" target="The_Donald" weight="1" />
+      <edge id="536" source="The_Presidency" target="HillaryForPrison" weight="1" />
+      <edge id="537" source="randpaul" target="progun" weight="1" />
+      <edge id="538" source="randpaul" target="MikeLee" weight="1" />
+      <edge id="539" source="randpaul" target="mcafee2016" weight="1" />
+      <edge id="540" source="randpaul" target="ronpaul" weight="1" />
+      <edge id="541" source="randpaul" target="Libertarian" weight="1" />
+      <edge id="542" source="randpaul" target="HillaryForPrison" weight="1" />
+      <edge id="543" source="randpaul" target="Paul" weight="1" />
+      <edge id="544" source="randpaul" target="Trumplicans" weight="1" />
+      <edge id="545" source="randpaul" target="DeclinetoState" weight="1" />
+      <edge id="546" source="randpaul" target="The_Donald" weight="1" />
+      <edge id="547" source="randpaul" target="EndlessWar" weight="1" />
+      <edge id="548" source="randpaul" target="NYYankees" weight="1" />
+      <edge id="549" source="randpaul" target="censored" weight="1" />
+      <edge id="550" source="throwing" target="conspiracy" weight="1" />
+      <edge id="551" source="Girls_with_tattoo" target="scifi" weight="1" />
+      <edge id="552" source="Girls_with_tattoo" target="tidder" weight="1" />
+      <edge id="553" source="Girls_with_tattoo" target="webcomics" weight="1" />
+      <edge id="554" source="Girls_with_tattoo" target="rpgtrade" weight="1" />
+      <edge id="555" source="Girls_with_tattoo" target="scientology" weight="1" />
+      <edge id="556" source="Girls_with_tattoo" target="ChicagoPics" weight="1" />
+      <edge id="557" source="Girls_with_tattoo" target="nature" weight="1" />
+      <edge id="558" source="Girls_with_tattoo" target="rpg" weight="1" />
+      <edge id="559" source="Girls_with_tattoo" target="wikipedia" weight="1" />
+      <edge id="560" source="Girls_with_tattoo" target="musicians" weight="1" />
+      <edge id="561" source="Girls_with_tattoo" target="humor" weight="1" />
+      <edge id="562" source="Girls_with_tattoo" target="chicagojobs" weight="1" />
+      <edge id="563" source="Girls_with_tattoo" target="conspiracy" weight="1" />
+      <edge id="564" source="AskFlytape" target="snew" weight="1" />
+      <edge id="565" source="AskFlytape" target="conspiracy" weight="1" />
+      <edge id="566" source="AskFlytape" target="All_Videos" weight="1" />
+      <edge id="567" source="AskFlytape" target="MartinShkreli" weight="1" />
+      <edge id="568" source="AskFlytape" target="MockRedditAdmins" weight="1" />
+      <edge id="569" source="AskFlytape" target="NolibsWatch" weight="1" />
+      <edge id="570" source="TrumpLivesMatter" target="The_Nehlen" weight="1" />
+      <edge id="571" source="TrumpLivesMatter" target="Trumplicans" weight="1" />
+      <edge id="572" source="TrumpLivesMatter" target="AskThe_Donald" weight="1" />
+      <edge id="573" source="TrumpLivesMatter" target="The_Donald" weight="1" />
+      <edge id="574" source="TrumpLivesMatter" target="DonaldTrump2016" weight="1" />
+      <edge id="575" source="TrumpLivesMatter" target="BoycottCNN" weight="1" />
+      <edge id="576" source="The_Nehlen" target="TheDangerousFaggot" weight="1" />
+      <edge id="577" source="The_Nehlen" target="Blackwidow" weight="1" />
+      <edge id="578" source="The_Nehlen" target="PurpleLounge" weight="1" />
+      <edge id="579" source="The_Nehlen" target="lockHerUp" weight="1" />
+      <edge id="580" source="The_Nehlen" target="HillaryMeltdown" weight="1" />
+      <edge id="581" source="The_Nehlen" target="strobecirclejerk" weight="1" />
+      <edge id="582" source="The_Nehlen" target="The_Donald" weight="2" />
+      <edge id="583" source="The_Nehlen" target="DonaldTrump2016" weight="1" />
+      <edge id="584" source="The_Nehlen" target="HillaryForPrison" weight="1" />
+      <edge id="585" source="The_Nehlen" target="whatissnoodoing" weight="1" />
+      <edge id="586" source="The_Nehlen" target="CountyMonaghan" weight="1" />
+      <edge id="587" source="The_Nehlen" target="Le_Pen" weight="1" />
+      <edge id="588" source="The_Nehlen" target="AskThe_Donald" weight="1" />
+      <edge id="589" source="The_Nehlen" target="Quicksilver" weight="1" />
+      <edge id="590" source="The_Nehlen" target="BoycottCNN" weight="1" />
+      <edge id="591" source="The_Nehlen" target="Sorosforprison" weight="1" />
+      <edge id="592" source="The_Nehlen" target="Trumplicans" weight="1" />
+      <edge id="593" source="The_Nehlen" target="The_Farage" weight="1" />
+      <edge id="594" source="The_Nehlen" target="creepy_hillary" weight="1" />
+      <edge id="595" source="Diablo3witchdoctors" target="Diablo3DemonHunters" weight="1" />
+      <edge id="596" source="Diablo3witchdoctors" target="thegoodwife" weight="1" />
+      <edge id="597" source="Diablo3witchdoctors" target="Diablo3Wizards" weight="1" />
+      <edge id="598" source="Diablo3witchdoctors" target="Diablo3Barbarians" weight="1" />
+      <edge id="599" source="Diablo3witchdoctors" target="PastAndPresentPics" weight="1" />
+      <edge id="600" source="Diablo3witchdoctors" target="onetruegod" weight="1" />
+      <edge id="601" source="Diablo3witchdoctors" target="conspiracy" weight="1" />
+      <edge id="602" source="Diablo3witchdoctors" target="paydaytheheist" weight="1" />
+      <edge id="603" source="alexjones" target="DescentIntoTyranny" weight="1" />
+      <edge id="604" source="alexjones" target="The_Donald" weight="1" />
+      <edge id="605" source="alexjones" target="EndlessWar" weight="1" />
+      <edge id="606" source="conspiracydocumentary" target="verypunny" weight="1" />
+      <edge id="607" source="conspiracydocumentary" target="globalresearch" weight="1" />
+      <edge id="608" source="conspiracydocumentary" target="newsbloopers" weight="1" />
+      <edge id="609" source="conspiracydocumentary" target="rdvisacuck" weight="1" />
+      <edge id="610" source="conspiracydocumentary" target="Oppression" weight="1" />
+      <edge id="611" source="conspiracydocumentary" target="uncensorship" weight="1" />
+      <edge id="612" source="conspiracydocumentary" target="DocumentedTruth" weight="1" />
+      <edge id="613" source="conspiracydocumentary" target="GasTheSnoo" weight="1" />
+      <edge id="614" source="conspiracydocumentary" target="BannedFromBanned" weight="1" />
+      <edge id="615" source="conspiracydocumentary" target="josephpfarrell" weight="1" />
+      <edge id="616" source="conspiracydocumentary" target="VitaPiracy" weight="1" />
+      <edge id="617" source="conspiracydocumentary" target="altnewz" weight="1" />
+      <edge id="618" source="conspiracydocumentary" target="conspiracyfact" weight="1" />
+      <edge id="619" source="conspiracydocumentary" target="timetostartanew" weight="1" />
+      <edge id="620" source="conspiracydocumentary" target="MockRedditAdmins" weight="1" />
+      <edge id="621" source="conspiracydocumentary" target="snew" weight="1" />
+      <edge id="622" source="conspiracydocumentary" target="ModerationLog" weight="1" />
+      <edge id="623" source="conspiracydocumentary" target="CasualTodayILearned" weight="1" />
+      <edge id="624" source="conspiracydocumentary" target="altnews" weight="1" />
+      <edge id="625" source="conspiracydocumentary" target="conspiracy" weight="2" />
+      <edge id="626" source="conspiracydocumentary" target="TrueOppression" weight="1" />
+      <edge id="627" source="conspiracydocumentary" target="TheBatarang" weight="1" />
+      <edge id="628" source="conspiracydocumentary" target="professional" weight="1" />
+      <edge id="629" source="conspiracydocumentary" target="publicmodlogs" weight="1" />
+      <edge id="630" source="conspiracydocumentary" target="HighEndGlass" weight="1" />
+      <edge id="631" source="conspiracydocumentary" target="Albumleaks" weight="1" />
+      <edge id="632" source="conspiracydocumentary" target="advancedtechresearch" weight="1" />
+      <edge id="633" source="conspiracydocumentary" target="WikiLeaks" weight="1" />
+      <edge id="634" source="conspiracydocumentary" target="worldnews" weight="1" />
+      <edge id="635" source="conspiracydocumentary" target="aaronswartz" weight="1" />
+      <edge id="636" source="conspiracydocumentary" target="DNCleaks" weight="1" />
+      <edge id="637" source="conspiracydocumentary" target="Stuff" weight="1" />
+      <edge id="638" source="conspiracydocumentary" target="outofthepoop" weight="1" />
+      <edge id="639" source="conspiracydocumentary" target="TheShrineOfKeroro" weight="1" />
+      <edge id="640" source="conspiracydocumentary" target="dickgirls" weight="1" />
+      <edge id="641" source="verypunny" target="newsbloopers" weight="1" />
+      <edge id="642" source="verypunny" target="worldnews" weight="1" />
+      <edge id="643" source="verypunny" target="rdvisacuck" weight="1" />
+      <edge id="644" source="verypunny" target="snew" weight="1" />
+      <edge id="645" source="verypunny" target="Oppression" weight="1" />
+      <edge id="646" source="verypunny" target="uncensorship" weight="1" />
+      <edge id="647" source="verypunny" target="GasTheSnoo" weight="1" />
+      <edge id="648" source="verypunny" target="BannedFromBanned" weight="1" />
+      <edge id="649" source="verypunny" target="VitaPiracy" weight="1" />
+      <edge id="650" source="verypunny" target="altnewz" weight="1" />
+      <edge id="651" source="verypunny" target="publicmodlogs" weight="1" />
+      <edge id="652" source="verypunny" target="timetostartanew" weight="1" />
+      <edge id="653" source="verypunny" target="MockRedditAdmins" weight="1" />
+      <edge id="654" source="verypunny" target="ModerationLog" weight="1" />
+      <edge id="655" source="verypunny" target="CasualTodayILearned" weight="1" />
+      <edge id="656" source="verypunny" target="altnews" weight="1" />
+      <edge id="657" source="verypunny" target="conspiracy" weight="1" />
+      <edge id="658" source="verypunny" target="professional" weight="1" />
+      <edge id="659" source="verypunny" target="TheBatarang" weight="1" />
+      <edge id="660" source="verypunny" target="TheShrineOfKeroro" weight="1" />
+      <edge id="661" source="verypunny" target="outofthepoop" weight="1" />
+      <edge id="662" source="verypunny" target="Albumleaks" weight="1" />
+      <edge id="663" source="verypunny" target="TrueOppression" weight="1" />
+      <edge id="664" source="verypunny" target="WikiLeaks" weight="1" />
+      <edge id="665" source="verypunny" target="aaronswartz" weight="1" />
+      <edge id="666" source="verypunny" target="DNCleaks" weight="1" />
+      <edge id="667" source="verypunny" target="Stuff" weight="1" />
+      <edge id="668" source="verypunny" target="HighEndGlass" weight="1" />
+      <edge id="669" source="verypunny" target="dickgirls" weight="1" />
+      <edge id="670" source="Info_Wars" target="DNCleaks" weight="1" />
+      <edge id="671" source="Info_Wars" target="The_Donald" weight="1" />
+      <edge id="672" source="Info_Wars" target="WikileaksTaskForce" weight="1" />
+      <edge id="673" source="Info_Wars" target="HillaryForPrison" weight="1" />
+      <edge id="674" source="marriott" target="cnn" weight="1" />
+      <edge id="675" source="marriott" target="The_Donald" weight="1" />
+      <edge id="676" source="marriott" target="GoldsboroNC" weight="1" />
+      <edge id="677" source="marriott" target="CharterSpectrum" weight="1" />
+      <edge id="678" source="biotech" target="Trumplicans" weight="1" />
+      <edge id="679" source="biotech" target="The_Ivanka" weight="1" />
+      <edge id="680" source="biotech" target="President_Trump" weight="1" />
+      <edge id="681" source="biotech" target="AskThe_Donald" weight="1" />
+      <edge id="682" source="biotech" target="The_Donald" weight="1" />
+      <edge id="683" source="biotech" target="HillaryMeltdown" weight="1" />
+      <edge id="684" source="biotech" target="HillaryForPrison" weight="1" />
+      <edge id="685" source="Our_Politics" target="BoycottCNN" weight="1" />
+      <edge id="686" source="Our_Politics" target="Sorosforprison" weight="1" />
+      <edge id="687" source="Our_Politics" target="Trumpland" weight="1" />
+      <edge id="688" source="Our_Politics" target="Trumplicans" weight="1" />
+      <edge id="689" source="Our_Politics" target="HillaryMeltdown" weight="1" />
+      <edge id="690" source="Our_Politics" target="AdminCensorTest040534" weight="1" />
+      <edge id="691" source="Our_Politics" target="TheRecordCorrected" weight="1" />
+      <edge id="692" source="Our_Politics" target="The_Donald" weight="1" />
+      <edge id="693" source="Our_Politics" target="MockRedditAdmins" weight="1" />
+      <edge id="694" source="Our_Politics" target="HillaryForPrison" weight="1" />
+      <edge id="695" source="Our_Politics" target="dickgirls" weight="1" />
+      <edge id="696" source="worldnews" target="newsbloopers" weight="1" />
+      <edge id="697" source="worldnews" target="publicmodlogs" weight="1" />
+      <edge id="698" source="worldnews" target="Oppression" weight="1" />
+      <edge id="699" source="worldnews" target="VitaPiracy" weight="1" />
+      <edge id="700" source="worldnews" target="altnewz" weight="1" />
+      <edge id="701" source="worldnews" target="GasTheSnoo" weight="1" />
+      <edge id="702" source="worldnews" target="BannedFromBanned" weight="1" />
+      <edge id="703" source="worldnews" target="uncensorship" weight="1" />
+      <edge id="704" source="worldnews" target="timetostartanew" weight="1" />
+      <edge id="705" source="worldnews" target="MockRedditAdmins" weight="1" />
+      <edge id="706" source="worldnews" target="snew" weight="1" />
+      <edge id="707" source="worldnews" target="ModerationLog" weight="1" />
+      <edge id="708" source="worldnews" target="CasualTodayILearned" weight="1" />
+      <edge id="709" source="worldnews" target="altnews" weight="1" />
+      <edge id="710" source="worldnews" target="conspiracy" weight="1" />
+      <edge id="711" source="worldnews" target="TheBatarang" weight="1" />
+      <edge id="712" source="worldnews" target="TheShrineOfKeroro" weight="1" />
+      <edge id="713" source="worldnews" target="professional" weight="1" />
+      <edge id="714" source="worldnews" target="Albumleaks" weight="1" />
+      <edge id="715" source="worldnews" target="TrueOppression" weight="1" />
+      <edge id="716" source="worldnews" target="WikiLeaks" weight="1" />
+      <edge id="717" source="worldnews" target="rdvisacuck" weight="1" />
+      <edge id="718" source="worldnews" target="aaronswartz" weight="1" />
+      <edge id="719" source="worldnews" target="DNCleaks" weight="1" />
+      <edge id="720" source="worldnews" target="Stuff" weight="1" />
+      <edge id="721" source="worldnews" target="HighEndGlass" weight="1" />
+      <edge id="722" source="worldnews" target="outofthepoop" weight="1" />
+      <edge id="723" source="worldnews" target="dickgirls" weight="1" />
+      <edge id="724" source="chicagojobs" target="scifi" weight="1" />
+      <edge id="725" source="chicagojobs" target="tidder" weight="1" />
+      <edge id="726" source="chicagojobs" target="webcomics" weight="1" />
+      <edge id="727" source="chicagojobs" target="rpgtrade" weight="1" />
+      <edge id="728" source="chicagojobs" target="scientology" weight="1" />
+      <edge id="729" source="chicagojobs" target="ChicagoPics" weight="1" />
+      <edge id="730" source="chicagojobs" target="nature" weight="1" />
+      <edge id="731" source="chicagojobs" target="rpg" weight="1" />
+      <edge id="732" source="chicagojobs" target="wikipedia" weight="1" />
+      <edge id="733" source="chicagojobs" target="musicians" weight="1" />
+      <edge id="734" source="chicagojobs" target="humor" weight="1" />
+      <edge id="735" source="chicagojobs" target="conspiracy" weight="1" />
+      <edge id="736" source="paydaylore" target="The_Donald" weight="1" />
+      <edge id="737" source="paydaylore" target="HillaryMeltdown" weight="1" />
+      <edge id="738" source="paydaylore" target="RightwingLGBT" weight="1" />
+      <edge id="739" source="paydaylore" target="TheDangerousFaggot" weight="1" />
+      <edge id="740" source="Diablo3DemonHunters" target="paydaytheheist" weight="1" />
+      <edge id="741" source="Diablo3DemonHunters" target="thegoodwife" weight="1" />
+      <edge id="742" source="Diablo3DemonHunters" target="Diablo3Wizards" weight="1" />
+      <edge id="743" source="Diablo3DemonHunters" target="Diablo3Barbarians" weight="1" />
+      <edge id="744" source="Diablo3DemonHunters" target="PastAndPresentPics" weight="1" />
+      <edge id="745" source="Diablo3DemonHunters" target="onetruegod" weight="1" />
+      <edge id="746" source="Diablo3DemonHunters" target="conspiracy" weight="1" />
+      <edge id="747" source="All_Videos" target="snew" weight="1" />
+      <edge id="748" source="All_Videos" target="conspiracy" weight="1" />
+      <edge id="749" source="All_Videos" target="MartinShkreli" weight="1" />
+      <edge id="750" source="All_Videos" target="MockRedditAdmins" weight="1" />
+      <edge id="751" source="All_Videos" target="NolibsWatch" weight="1" />
+      <edge id="752" source="timetostartanew" target="newsbloopers" weight="1" />
+      <edge id="753" source="timetostartanew" target="publicmodlogs" weight="1" />
+      <edge id="754" source="timetostartanew" target="Oppression" weight="1" />
+      <edge id="755" source="timetostartanew" target="altnewz" weight="1" />
+      <edge id="756" source="timetostartanew" target="GasTheSnoo" weight="1" />
+      <edge id="757" source="timetostartanew" target="uncensorship" weight="1" />
+      <edge id="758" source="timetostartanew" target="BannedFromBanned" weight="1" />
+      <edge id="759" source="timetostartanew" target="VitaPiracy" weight="1" />
+      <edge id="760" source="timetostartanew" target="MockRedditAdmins" weight="1" />
+      <edge id="761" source="timetostartanew" target="ModerationLog" weight="1" />
+      <edge id="762" source="timetostartanew" target="snew" weight="1" />
+      <edge id="763" source="timetostartanew" target="CasualTodayILearned" weight="1" />
+      <edge id="764" source="timetostartanew" target="altnews" weight="1" />
+      <edge id="765" source="timetostartanew" target="conspiracy" weight="1" />
+      <edge id="766" source="timetostartanew" target="TrueOppression" weight="1" />
+      <edge id="767" source="timetostartanew" target="TheShrineOfKeroro" weight="1" />
+      <edge id="768" source="timetostartanew" target="professional" weight="1" />
+      <edge id="769" source="timetostartanew" target="HighEndGlass" weight="1" />
+      <edge id="770" source="timetostartanew" target="Albumleaks" weight="1" />
+      <edge id="771" source="timetostartanew" target="TheBatarang" weight="1" />
+      <edge id="772" source="timetostartanew" target="WikiLeaks" weight="1" />
+      <edge id="773" source="timetostartanew" target="rdvisacuck" weight="1" />
+      <edge id="774" source="timetostartanew" target="aaronswartz" weight="1" />
+      <edge id="775" source="timetostartanew" target="DNCleaks" weight="1" />
+      <edge id="776" source="timetostartanew" target="Stuff" weight="1" />
+      <edge id="777" source="timetostartanew" target="outofthepoop" weight="1" />
+      <edge id="778" source="timetostartanew" target="dickgirls" weight="1" />
+      <edge id="779" source="TSBD" target="conspiracy" weight="1" />
+      <edge id="780" source="WikileaksTaskForce" target="DNCleaks" weight="1" />
+      <edge id="781" source="WikileaksTaskForce" target="The_Donald" weight="1" />
+      <edge id="782" source="WikileaksTaskForce" target="HillaryForPrison" weight="1" />
+      <edge id="783" source="pepe" target="The_Ivanka" weight="1" />
+      <edge id="784" source="pepe" target="Modssssze" weight="1" />
+      <edge id="785" source="pepe" target="the_mattis" weight="1" />
+      <edge id="786" source="pepe" target="ToK" weight="1" />
+      <edge id="787" source="pepe" target="HillaryForPrison" weight="1" />
+      <edge id="788" source="pepe" target="Sorosforprison" weight="1" />
+      <edge id="789" source="pepe" target="moretrumpspam" weight="1" />
+      <edge id="790" source="pepe" target="Trumpland" weight="1" />
+      <edge id="791" source="pepe" target="HillaryMeltdown" weight="1" />
+      <edge id="792" source="pepe" target="theGreamMemeWar" weight="1" />
+      <edge id="793" source="pepe" target="The_Donald" weight="1" />
+      <edge id="794" source="pepe" target="PodestaEmails" weight="1" />
+      <edge id="795" source="pepe" target="theGreatMemeWar" weight="1" />
+      <edge id="796" source="forzahorizon3" target="The_Donald" weight="1" />
+      <edge id="797" source="forzahorizon3" target="HillaryForPrison" weight="1" />
+      <edge id="798" source="Falastin" target="RedditCensorship" weight="1" />
+      <edge id="799" source="Falastin" target="TrueReddit" weight="1" />
+      <edge id="800" source="Falastin" target="rubyonrails" weight="1" />
+      <edge id="801" source="Falastin" target="altnewz" weight="1" />
+      <edge id="802" source="Falastin" target="Blackout2015" weight="1" />
+      <edge id="803" source="Falastin" target="cojoco" weight="1" />
+      <edge id="804" source="Falastin" target="technewz" weight="1" />
+      <edge id="805" source="Falastin" target="uncensorship" weight="1" />
+      <edge id="806" source="Falastin" target="darknetplan" weight="1" />
+      <edge id="807" source="Falastin" target="every_one_is_mod" weight="1" />
+      <edge id="808" source="Falastin" target="ConspiracyTheory" weight="1" />
+      <edge id="809" source="Falastin" target="WatchRedditDie" weight="1" />
+      <edge id="810" source="Falastin" target="snew" weight="1" />
+      <edge id="811" source="Falastin" target="conspiracy" weight="1" />
+      <edge id="812" source="Falastin" target="IndiaSpeaks" weight="1" />
+      <edge id="813" source="Falastin" target="yyj" weight="1" />
+      <edge id="814" source="Falastin" target="finreviewz" weight="1" />
+      <edge id="815" source="Falastin" target="FreeSpeech" weight="1" />
+      <edge id="816" source="Falastin" target="truevoat" weight="1" />
+      <edge id="817" source="Falastin" target="C_S_T" weight="1" />
+      <edge id="818" source="Donald_Trump" target="HillaryMeltdown" weight="1" />
+      <edge id="819" source="Donald_Trump" target="HillaryForPrison" weight="1" />
+      <edge id="820" source="Donald_Trump" target="Trumpland" weight="1" />
+      <edge id="821" source="Donald_Trump" target="The_Donald" weight="1" />
+      <edge id="822" source="Libertarian" target="progun" weight="1" />
+      <edge id="823" source="Libertarian" target="MikeLee" weight="1" />
+      <edge id="824" source="Libertarian" target="mcafee2016" weight="1" />
+      <edge id="825" source="Libertarian" target="ronpaul" weight="1" />
+      <edge id="826" source="Libertarian" target="NYYankees" weight="1" />
+      <edge id="827" source="Libertarian" target="HillaryForPrison" weight="1" />
+      <edge id="828" source="Libertarian" target="Paul" weight="1" />
+      <edge id="829" source="Libertarian" target="Trumplicans" weight="1" />
+      <edge id="830" source="Libertarian" target="DeclinetoState" weight="1" />
+      <edge id="831" source="Libertarian" target="The_Donald" weight="1" />
+      <edge id="832" source="Libertarian" target="EndlessWar" weight="1" />
+      <edge id="833" source="Libertarian" target="censored" weight="1" />
+      <edge id="834" source="professional" target="newsbloopers" weight="1" />
+      <edge id="835" source="professional" target="rdvisacuck" weight="1" />
+      <edge id="836" source="professional" target="Oppression" weight="1" />
+      <edge id="837" source="professional" target="uncensorship" weight="1" />
+      <edge id="838" source="professional" target="altnewz" weight="1" />
+      <edge id="839" source="professional" target="GasTheSnoo" weight="1" />
+      <edge id="840" source="professional" target="BannedFromBanned" weight="1" />
+      <edge id="841" source="professional" target="VitaPiracy" weight="1" />
+      <edge id="842" source="professional" target="MockRedditAdmins" weight="1" />
+      <edge id="843" source="professional" target="snew" weight="1" />
+      <edge id="844" source="professional" target="conspiracy" weight="1" />
+      <edge id="845" source="professional" target="ModerationLog" weight="1" />
+      <edge id="846" source="professional" target="CasualTodayILearned" weight="1" />
+      <edge id="847" source="professional" target="altnews" weight="1" />
+      <edge id="848" source="professional" target="publicmodlogs" weight="1" />
+      <edge id="849" source="professional" target="TheBatarang" weight="1" />
+      <edge id="850" source="professional" target="TheShrineOfKeroro" weight="1" />
+      <edge id="851" source="professional" target="outofthepoop" weight="1" />
+      <edge id="852" source="professional" target="Albumleaks" weight="1" />
+      <edge id="853" source="professional" target="TrueOppression" weight="1" />
+      <edge id="854" source="professional" target="WikiLeaks" weight="1" />
+      <edge id="855" source="professional" target="aaronswartz" weight="1" />
+      <edge id="856" source="professional" target="DNCleaks" weight="1" />
+      <edge id="857" source="professional" target="Stuff" weight="1" />
+      <edge id="858" source="professional" target="HighEndGlass" weight="1" />
+      <edge id="859" source="professional" target="dickgirls" weight="1" />
+      <edge id="860" source="ToK" target="The_Ivanka" weight="1" />
+      <edge id="861" source="ToK" target="Modssssze" weight="1" />
+      <edge id="862" source="ToK" target="the_mattis" weight="1" />
+      <edge id="863" source="ToK" target="theGreatMemeWar" weight="1" />
+      <edge id="864" source="ToK" target="Sorosforprison" weight="1" />
+      <edge id="865" source="ToK" target="moretrumpspam" weight="1" />
+      <edge id="866" source="ToK" target="Trumpland" weight="1" />
+      <edge id="867" source="ToK" target="HillaryMeltdown" weight="1" />
+      <edge id="868" source="ToK" target="theGreamMemeWar" weight="1" />
+      <edge id="869" source="ToK" target="The_Donald" weight="1" />
+      <edge id="870" source="ToK" target="PodestaEmails" weight="1" />
+      <edge id="871" source="ToK" target="HillaryForPrison" weight="1" />
+      <edge id="872" source="Paul" target="progun" weight="1" />
+      <edge id="873" source="Paul" target="MikeLee" weight="1" />
+      <edge id="874" source="Paul" target="EndlessWar" weight="1" />
+      <edge id="875" source="Paul" target="mcafee2016" weight="1" />
+      <edge id="876" source="Paul" target="ronpaul" weight="1" />
+      <edge id="877" source="Paul" target="Trumplicans" weight="1" />
+      <edge id="878" source="Paul" target="DeclinetoState" weight="1" />
+      <edge id="879" source="Paul" target="The_Donald" weight="1" />
+      <edge id="880" source="Paul" target="HillaryForPrison" weight="1" />
+      <edge id="881" source="Paul" target="NYYankees" weight="1" />
+      <edge id="882" source="Paul" target="censored" weight="1" />
+      <edge id="883" source="TrueOppression" target="newsbloopers" weight="1" />
+      <edge id="884" source="TrueOppression" target="rdvisacuck" weight="1" />
+      <edge id="885" source="TrueOppression" target="Oppression" weight="1" />
+      <edge id="886" source="TrueOppression" target="uncensorship" weight="1" />
+      <edge id="887" source="TrueOppression" target="altnewz" weight="1" />
+      <edge id="888" source="TrueOppression" target="BannedFromBanned" weight="1" />
+      <edge id="889" source="TrueOppression" target="VitaPiracy" weight="1" />
+      <edge id="890" source="TrueOppression" target="MockRedditAdmins" weight="1" />
+      <edge id="891" source="TrueOppression" target="snew" weight="1" />
+      <edge id="892" source="TrueOppression" target="conspiracy" weight="1" />
+      <edge id="893" source="TrueOppression" target="ModerationLog" weight="1" />
+      <edge id="894" source="TrueOppression" target="CasualTodayILearned" weight="1" />
+      <edge id="895" source="TrueOppression" target="altnews" weight="1" />
+      <edge id="896" source="TrueOppression" target="publicmodlogs" weight="1" />
+      <edge id="897" source="TrueOppression" target="GasTheSnoo" weight="1" />
+      <edge id="898" source="TrueOppression" target="TheShrineOfKeroro" weight="1" />
+      <edge id="899" source="TrueOppression" target="outofthepoop" weight="1" />
+      <edge id="900" source="TrueOppression" target="Albumleaks" weight="1" />
+      <edge id="901" source="TrueOppression" target="TheBatarang" weight="1" />
+      <edge id="902" source="TrueOppression" target="WikiLeaks" weight="1" />
+      <edge id="903" source="TrueOppression" target="aaronswartz" weight="1" />
+      <edge id="904" source="TrueOppression" target="DNCleaks" weight="1" />
+      <edge id="905" source="TrueOppression" target="Stuff" weight="1" />
+      <edge id="906" source="TrueOppression" target="HighEndGlass" weight="1" />
+      <edge id="907" source="TrueOppression" target="dickgirls" weight="1" />
+      <edge id="908" source="PurpleLounge" target="whatissnoodoing" weight="1" />
+      <edge id="909" source="PurpleLounge" target="CountyMonaghan" weight="1" />
+      <edge id="910" source="PurpleLounge" target="Le_Pen" weight="1" />
+      <edge id="911" source="PurpleLounge" target="TheDangerousFaggot" weight="1" />
+      <edge id="912" source="PurpleLounge" target="Blackwidow" weight="1" />
+      <edge id="913" source="PurpleLounge" target="Quicksilver" weight="1" />
+      <edge id="914" source="PurpleLounge" target="creepy_hillary" weight="1" />
+      <edge id="915" source="PurpleLounge" target="Sorosforprison" weight="1" />
+      <edge id="916" source="PurpleLounge" target="lockHerUp" weight="1" />
+      <edge id="917" source="PurpleLounge" target="HillaryMeltdown" weight="1" />
+      <edge id="918" source="PurpleLounge" target="The_Farage" weight="1" />
+      <edge id="919" source="PurpleLounge" target="strobecirclejerk" weight="1" />
+      <edge id="920" source="PurpleLounge" target="The_Donald" weight="1" />
+      <edge id="921" source="PurpleLounge" target="HillaryForPrison" weight="1" />
+      <edge id="922" source="Stuff" target="newsbloopers" weight="1" />
+      <edge id="923" source="Stuff" target="rdvisacuck" weight="1" />
+      <edge id="924" source="Stuff" target="Oppression" weight="1" />
+      <edge id="925" source="Stuff" target="uncensorship" weight="1" />
+      <edge id="926" source="Stuff" target="altnewz" weight="1" />
+      <edge id="927" source="Stuff" target="GasTheSnoo" weight="1" />
+      <edge id="928" source="Stuff" target="BannedFromBanned" weight="1" />
+      <edge id="929" source="Stuff" target="VitaPiracy" weight="1" />
+      <edge id="930" source="Stuff" target="publicmodlogs" weight="1" />
+      <edge id="931" source="Stuff" target="MockRedditAdmins" weight="1" />
+      <edge id="932" source="Stuff" target="snew" weight="1" />
+      <edge id="933" source="Stuff" target="ModerationLog" weight="1" />
+      <edge id="934" source="Stuff" target="CasualTodayILearned" weight="1" />
+      <edge id="935" source="Stuff" target="altnews" weight="1" />
+      <edge id="936" source="Stuff" target="conspiracy" weight="1" />
+      <edge id="937" source="Stuff" target="TheBatarang" weight="1" />
+      <edge id="938" source="Stuff" target="TheShrineOfKeroro" weight="1" />
+      <edge id="939" source="Stuff" target="Albumleaks" weight="1" />
+      <edge id="940" source="Stuff" target="WikiLeaks" weight="1" />
+      <edge id="941" source="Stuff" target="aaronswartz" weight="1" />
+      <edge id="942" source="Stuff" target="DNCleaks" weight="1" />
+      <edge id="943" source="Stuff" target="HighEndGlass" weight="1" />
+      <edge id="944" source="Stuff" target="outofthepoop" weight="1" />
+      <edge id="945" source="Stuff" target="dickgirls" weight="1" />
+      <edge id="946" source="whatissnoodoing" target="CountyMonaghan" weight="1" />
+      <edge id="947" source="whatissnoodoing" target="Le_Pen" weight="1" />
+      <edge id="948" source="whatissnoodoing" target="TheDangerousFaggot" weight="1" />
+      <edge id="949" source="whatissnoodoing" target="Blackwidow" weight="1" />
+      <edge id="950" source="whatissnoodoing" target="Quicksilver" weight="1" />
+      <edge id="951" source="whatissnoodoing" target="Sorosforprison" weight="1" />
+      <edge id="952" source="whatissnoodoing" target="lockHerUp" weight="1" />
+      <edge id="953" source="whatissnoodoing" target="creepy_hillary" weight="1" />
+      <edge id="954" source="whatissnoodoing" target="HillaryMeltdown" weight="1" />
+      <edge id="955" source="whatissnoodoing" target="The_Farage" weight="1" />
+      <edge id="956" source="whatissnoodoing" target="strobecirclejerk" weight="1" />
+      <edge id="957" source="whatissnoodoing" target="The_Donald" weight="1" />
+      <edge id="958" source="whatissnoodoing" target="HillaryForPrison" weight="1" />
+      <edge id="959" source="outofthepoop" target="newsbloopers" weight="1" />
+      <edge id="960" source="outofthepoop" target="rdvisacuck" weight="1" />
+      <edge id="961" source="outofthepoop" target="Oppression" weight="1" />
+      <edge id="962" source="outofthepoop" target="uncensorship" weight="1" />
+      <edge id="963" source="outofthepoop" target="altnewz" weight="1" />
+      <edge id="964" source="outofthepoop" target="GasTheSnoo" weight="1" />
+      <edge id="965" source="outofthepoop" target="BannedFromBanned" weight="1" />
+      <edge id="966" source="outofthepoop" target="VitaPiracy" weight="1" />
+      <edge id="967" source="outofthepoop" target="MockRedditAdmins" weight="1" />
+      <edge id="968" source="outofthepoop" target="snew" weight="1" />
+      <edge id="969" source="outofthepoop" target="conspiracy" weight="1" />
+      <edge id="970" source="outofthepoop" target="ModerationLog" weight="1" />
+      <edge id="971" source="outofthepoop" target="CasualTodayILearned" weight="1" />
+      <edge id="972" source="outofthepoop" target="altnews" weight="1" />
+      <edge id="973" source="outofthepoop" target="publicmodlogs" weight="1" />
+      <edge id="974" source="outofthepoop" target="TheBatarang" weight="1" />
+      <edge id="975" source="outofthepoop" target="TheShrineOfKeroro" weight="1" />
+      <edge id="976" source="outofthepoop" target="HighEndGlass" weight="1" />
+      <edge id="977" source="outofthepoop" target="Albumleaks" weight="1" />
+      <edge id="978" source="outofthepoop" target="WikiLeaks" weight="1" />
+      <edge id="979" source="outofthepoop" target="aaronswartz" weight="1" />
+      <edge id="980" source="outofthepoop" target="DNCleaks" weight="1" />
+      <edge id="981" source="outofthepoop" target="dickgirls" weight="1" />
+      <edge id="982" source="AdminCensorTest040534" target="BoycottCNN" weight="1" />
+      <edge id="983" source="AdminCensorTest040534" target="Sorosforprison" weight="1" />
+      <edge id="984" source="AdminCensorTest040534" target="Trumpland" weight="1" />
+      <edge id="985" source="AdminCensorTest040534" target="Trumplicans" weight="1" />
+      <edge id="986" source="AdminCensorTest040534" target="HillaryMeltdown" weight="1" />
+      <edge id="987" source="AdminCensorTest040534" target="TheRecordCorrected" weight="1" />
+      <edge id="988" source="AdminCensorTest040534" target="The_Donald" weight="1" />
+      <edge id="989" source="AdminCensorTest040534" target="MockRedditAdmins" weight="1" />
+      <edge id="990" source="AdminCensorTest040534" target="HillaryForPrison" weight="1" />
+      <edge id="991" source="AdminCensorTest040534" target="dickgirls" weight="1" />
+      <edge id="992" source="GoldsboroNC" target="cnn" weight="1" />
+      <edge id="993" source="GoldsboroNC" target="The_Donald" weight="1" />
+      <edge id="994" source="GoldsboroNC" target="CharterSpectrum" weight="1" />
+      <edge id="995" source="RedditCensorship" target="TrueReddit" weight="1" />
+      <edge id="996" source="RedditCensorship" target="rubyonrails" weight="1" />
+      <edge id="997" source="RedditCensorship" target="altnewz" weight="1" />
+      <edge id="998" source="RedditCensorship" target="Blackout2015" weight="1" />
+      <edge id="999" source="RedditCensorship" target="cojoco" weight="1" />
+      <edge id="1000" source="RedditCensorship" target="technewz" weight="1" />
+      <edge id="1001" source="RedditCensorship" target="uncensorship" weight="1" />
+      <edge id="1002" source="RedditCensorship" target="darknetplan" weight="1" />
+      <edge id="1003" source="RedditCensorship" target="every_one_is_mod" weight="1" />
+      <edge id="1004" source="RedditCensorship" target="ConspiracyTheory" weight="1" />
+      <edge id="1005" source="RedditCensorship" target="WatchRedditDie" weight="1" />
+      <edge id="1006" source="RedditCensorship" target="snew" weight="1" />
+      <edge id="1007" source="RedditCensorship" target="conspiracy" weight="1" />
+      <edge id="1008" source="RedditCensorship" target="IndiaSpeaks" weight="1" />
+      <edge id="1009" source="RedditCensorship" target="yyj" weight="1" />
+      <edge id="1010" source="RedditCensorship" target="finreviewz" weight="1" />
+      <edge id="1011" source="RedditCensorship" target="FreeSpeech" weight="1" />
+      <edge id="1012" source="RedditCensorship" target="truevoat" weight="1" />
+      <edge id="1013" source="RedditCensorship" target="C_S_T" weight="1" />
+      <edge id="1014" source="byzantium" target="Trumplicans" weight="1" />
+      <edge id="1015" source="byzantium" target="CountyMonaghan" weight="1" />
+      <edge id="1016" source="byzantium" target="The_Donald" weight="1" />
+      <edge id="1017" source="the_mattis" target="The_Ivanka" weight="1" />
+      <edge id="1018" source="the_mattis" target="Modssssze" weight="1" />
+      <edge id="1019" source="the_mattis" target="theGreatMemeWar" weight="1" />
+      <edge id="1020" source="the_mattis" target="Sorosforprison" weight="1" />
+      <edge id="1021" source="the_mattis" target="moretrumpspam" weight="1" />
+      <edge id="1022" source="the_mattis" target="Trumpland" weight="1" />
+      <edge id="1023" source="the_mattis" target="HillaryMeltdown" weight="1" />
+      <edge id="1024" source="the_mattis" target="theGreamMemeWar" weight="1" />
+      <edge id="1025" source="the_mattis" target="The_Donald" weight="1" />
+      <edge id="1026" source="the_mattis" target="PodestaEmails" weight="1" />
+      <edge id="1027" source="the_mattis" target="HillaryForPrison" weight="1" />
+      <edge id="1028" source="Oppression" target="newsbloopers" weight="1" />
+      <edge id="1029" source="Oppression" target="rdvisacuck" weight="1" />
+      <edge id="1030" source="Oppression" target="uncensorship" weight="1" />
+      <edge id="1031" source="Oppression" target="altnewz" weight="1" />
+      <edge id="1032" source="Oppression" target="GasTheSnoo" weight="1" />
+      <edge id="1033" source="Oppression" target="BannedFromBanned" weight="1" />
+      <edge id="1034" source="Oppression" target="VitaPiracy" weight="1" />
+      <edge id="1035" source="Oppression" target="MockRedditAdmins" weight="1" />
+      <edge id="1036" source="Oppression" target="snew" weight="1" />
+      <edge id="1037" source="Oppression" target="conspiracy" weight="1" />
+      <edge id="1038" source="Oppression" target="ModerationLog" weight="1" />
+      <edge id="1039" source="Oppression" target="CasualTodayILearned" weight="1" />
+      <edge id="1040" source="Oppression" target="altnews" weight="1" />
+      <edge id="1041" source="Oppression" target="publicmodlogs" weight="1" />
+      <edge id="1042" source="Oppression" target="TheBatarang" weight="1" />
+      <edge id="1043" source="Oppression" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1044" source="Oppression" target="Albumleaks" weight="1" />
+      <edge id="1045" source="Oppression" target="WikiLeaks" weight="1" />
+      <edge id="1046" source="Oppression" target="aaronswartz" weight="1" />
+      <edge id="1047" source="Oppression" target="DNCleaks" weight="1" />
+      <edge id="1048" source="Oppression" target="HighEndGlass" weight="1" />
+      <edge id="1049" source="Oppression" target="dickgirls" weight="1" />
+      <edge id="1050" source="moretrumpspam" target="The_Ivanka" weight="1" />
+      <edge id="1051" source="moretrumpspam" target="Modssssze" weight="1" />
+      <edge id="1052" source="moretrumpspam" target="theGreatMemeWar" weight="1" />
+      <edge id="1053" source="moretrumpspam" target="Sorosforprison" weight="1" />
+      <edge id="1054" source="moretrumpspam" target="Trumpland" weight="1" />
+      <edge id="1055" source="moretrumpspam" target="HillaryMeltdown" weight="1" />
+      <edge id="1056" source="moretrumpspam" target="theGreamMemeWar" weight="1" />
+      <edge id="1057" source="moretrumpspam" target="The_Donald" weight="1" />
+      <edge id="1058" source="moretrumpspam" target="PodestaEmails" weight="1" />
+      <edge id="1059" source="moretrumpspam" target="HillaryForPrison" weight="1" />
+      <edge id="1060" source="HillaryMeltdown" target="The_Ivanka" weight="2" />
+      <edge id="1061" source="HillaryMeltdown" target="the_denis" weight="1" />
+      <edge id="1062" source="HillaryMeltdown" target="Modssssze" weight="1" />
+      <edge id="1063" source="HillaryMeltdown" target="Blackwidow" weight="1" />
+      <edge id="1064" source="HillaryMeltdown" target="Sorosforprison" weight="4" />
+      <edge id="1065" source="HillaryMeltdown" target="lockHerUp" weight="1" />
+      <edge id="1066" source="HillaryMeltdown" target="Le_Pen" weight="2" />
+      <edge id="1067" source="HillaryMeltdown" target="The_Wilders" weight="1" />
+      <edge id="1068" source="HillaryMeltdown" target="Trumplicans" weight="2" />
+      <edge id="1069" source="HillaryMeltdown" target="BoycottCNN" weight="1" />
+      <edge id="1070" source="HillaryMeltdown" target="AskThe_Donald" weight="2" />
+      <edge id="1071" source="HillaryMeltdown" target="neutralnews" weight="1" />
+      <edge id="1072" source="HillaryMeltdown" target="theGreamMemeWar" weight="1" />
+      <edge id="1073" source="HillaryMeltdown" target="PodestaEmails" weight="1" />
+      <edge id="1074" source="HillaryMeltdown" target="theGreatMemeWar" weight="2" />
+      <edge id="1075" source="HillaryMeltdown" target="TheDangerousFaggot" weight="2" />
+      <edge id="1076" source="HillaryMeltdown" target="President_Trump" weight="1" />
+      <edge id="1077" source="HillaryMeltdown" target="strobecirclejerk" weight="1" />
+      <edge id="1078" source="HillaryMeltdown" target="The_Donald" weight="14" />
+      <edge id="1079" source="HillaryMeltdown" target="MockRedditAdmins" weight="1" />
+      <edge id="1080" source="HillaryMeltdown" target="HillaryForPrison" weight="5" />
+      <edge id="1081" source="HillaryMeltdown" target="NeutralPolitics" weight="1" />
+      <edge id="1082" source="HillaryMeltdown" target="CountyMonaghan" weight="1" />
+      <edge id="1083" source="HillaryMeltdown" target="Quicksilver" weight="1" />
+      <edge id="1084" source="HillaryMeltdown" target="Trumpland" weight="6" />
+      <edge id="1085" source="HillaryMeltdown" target="creepy_hillary" weight="1" />
+      <edge id="1086" source="HillaryMeltdown" target="dickgirls" weight="1" />
+      <edge id="1087" source="HillaryMeltdown" target="The_Farage" weight="2" />
+      <edge id="1088" source="HillaryMeltdown" target="TheRecordCorrected" weight="1" />
+      <edge id="1089" source="HillaryMeltdown" target="RightwingLGBT" weight="1" />
+      <edge id="1090" source="conspiracyfact" target="globalresearch" weight="1" />
+      <edge id="1091" source="conspiracyfact" target="DocumentedTruth" weight="1" />
+      <edge id="1092" source="conspiracyfact" target="conspiracy" weight="2" />
+      <edge id="1093" source="conspiracyfact" target="josephpfarrell" weight="1" />
+      <edge id="1094" source="conspiracyfact" target="advancedtechresearch" weight="1" />
+      <edge id="1095" source="conspiracyfact" target="AgentsOfDoubt" weight="1" />
+      <edge id="1096" source="The_Donald" target="Blackwidow" weight="1" />
+      <edge id="1097" source="The_Donald" target="CharterSpectrum" weight="1" />
+      <edge id="1098" source="The_Donald" target="DeclinetoState" weight="1" />
+      <edge id="1099" source="The_Donald" target="Trump_God" weight="1" />
+      <edge id="1100" source="The_Donald" target="DonaldTrump2016" weight="1" />
+      <edge id="1101" source="The_Donald" target="Le_Pen" weight="2" />
+      <edge id="1102" source="The_Donald" target="OperationTrebuchet" weight="1" />
+      <edge id="1103" source="The_Donald" target="Trumplicans" weight="5" />
+      <edge id="1104" source="The_Donald" target="dickgirls" weight="1" />
+      <edge id="1105" source="The_Donald" target="BoycottCNN" weight="2" />
+      <edge id="1106" source="The_Donald" target="MMORift" weight="1" />
+      <edge id="1107" source="The_Donald" target="strobecirclejerk" weight="1" />
+      <edge id="1108" source="The_Donald" target="NeutralPolitics" weight="1" />
+      <edge id="1109" source="The_Donald" target="PodestaEmails" weight="1" />
+      <edge id="1110" source="The_Donald" target="Sorosforprison" weight="4" />
+      <edge id="1111" source="The_Donald" target="creepy_hillary" weight="1" />
+      <edge id="1112" source="The_Donald" target="The__Donald" weight="1" />
+      <edge id="1113" source="The_Donald" target="EDDITGATE" weight="1" />
+      <edge id="1114" source="The_Donald" target="BarronTrump" weight="1" />
+      <edge id="1115" source="The_Donald" target="The_Ivanka" weight="2" />
+      <edge id="1116" source="The_Donald" target="the_denis" weight="1" />
+      <edge id="1117" source="The_Donald" target="Modssssze" weight="1" />
+      <edge id="1118" source="The_Donald" target="progun" weight="1" />
+      <edge id="1119" source="The_Donald" target="lockHerUp" weight="1" />
+      <edge id="1120" source="The_Donald" target="cnn" weight="1" />
+      <edge id="1121" source="The_Donald" target="ronpaul" weight="1" />
+      <edge id="1122" source="The_Donald" target="mcafee2016" weight="1" />
+      <edge id="1123" source="The_Donald" target="AskThe_Donald" weight="8" />
+      <edge id="1124" source="The_Donald" target="neutralnews" weight="1" />
+      <edge id="1125" source="The_Donald" target="theGreamMemeWar" weight="1" />
+      <edge id="1126" source="The_Donald" target="theGreatMemeWar" weight="2" />
+      <edge id="1127" source="The_Donald" target="censored" weight="1" />
+      <edge id="1128" source="The_Donald" target="TheDangerousFaggot" weight="2" />
+      <edge id="1129" source="The_Donald" target="TheRecordCorrected" weight="1" />
+      <edge id="1130" source="The_Donald" target="MockRedditAdmins" weight="1" />
+      <edge id="1131" source="The_Donald" target="HillaryForPrison" weight="9" />
+      <edge id="1132" source="The_Donald" target="EndlessWar" weight="2" />
+      <edge id="1133" source="The_Donald" target="The_Wilders" weight="1" />
+      <edge id="1134" source="The_Donald" target="Infowars" weight="1" />
+      <edge id="1135" source="The_Donald" target="CountyMonaghan" weight="2" />
+      <edge id="1136" source="The_Donald" target="MikeLee" weight="1" />
+      <edge id="1137" source="The_Donald" target="Quicksilver" weight="1" />
+      <edge id="1138" source="The_Donald" target="Trumpland" weight="6" />
+      <edge id="1139" source="The_Donald" target="DescentIntoTyranny" weight="1" />
+      <edge id="1140" source="The_Donald" target="ppdPersonalAdvice" weight="1" />
+      <edge id="1141" source="The_Donald" target="The_Farage" weight="2" />
+      <edge id="1142" source="The_Donald" target="DNCleaks" weight="1" />
+      <edge id="1143" source="The_Donald" target="President_Trump" weight="1" />
+      <edge id="1144" source="The_Donald" target="RightwingLGBT" weight="1" />
+      <edge id="1145" source="The_Donald" target="NYYankees" weight="1" />
+      <edge id="1146" source="ModerationLog" target="newsbloopers" weight="1" />
+      <edge id="1147" source="ModerationLog" target="rdvisacuck" weight="1" />
+      <edge id="1148" source="ModerationLog" target="uncensorship" weight="1" />
+      <edge id="1149" source="ModerationLog" target="altnewz" weight="1" />
+      <edge id="1150" source="ModerationLog" target="GasTheSnoo" weight="1" />
+      <edge id="1151" source="ModerationLog" target="BannedFromBanned" weight="1" />
+      <edge id="1152" source="ModerationLog" target="VitaPiracy" weight="1" />
+      <edge id="1153" source="ModerationLog" target="MockRedditAdmins" weight="1" />
+      <edge id="1154" source="ModerationLog" target="snew" weight="1" />
+      <edge id="1155" source="ModerationLog" target="conspiracy" weight="1" />
+      <edge id="1156" source="ModerationLog" target="CasualTodayILearned" weight="1" />
+      <edge id="1157" source="ModerationLog" target="altnews" weight="1" />
+      <edge id="1158" source="ModerationLog" target="publicmodlogs" weight="1" />
+      <edge id="1159" source="ModerationLog" target="TheBatarang" weight="1" />
+      <edge id="1160" source="ModerationLog" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1161" source="ModerationLog" target="Albumleaks" weight="1" />
+      <edge id="1162" source="ModerationLog" target="WikiLeaks" weight="1" />
+      <edge id="1163" source="ModerationLog" target="aaronswartz" weight="1" />
+      <edge id="1164" source="ModerationLog" target="DNCleaks" weight="1" />
+      <edge id="1165" source="ModerationLog" target="HighEndGlass" weight="1" />
+      <edge id="1166" source="ModerationLog" target="dickgirls" weight="1" />
+      <edge id="1167" source="mcafee2016" target="progun" weight="1" />
+      <edge id="1168" source="mcafee2016" target="MikeLee" weight="1" />
+      <edge id="1169" source="mcafee2016" target="ronpaul" weight="1" />
+      <edge id="1170" source="mcafee2016" target="HillaryForPrison" weight="1" />
+      <edge id="1171" source="mcafee2016" target="Trumplicans" weight="1" />
+      <edge id="1172" source="mcafee2016" target="DeclinetoState" weight="1" />
+      <edge id="1173" source="mcafee2016" target="EndlessWar" weight="1" />
+      <edge id="1174" source="mcafee2016" target="NYYankees" weight="1" />
+      <edge id="1175" source="mcafee2016" target="censored" weight="1" />
+      <edge id="1176" source="CountyMonaghan" target="Le_Pen" weight="1" />
+      <edge id="1177" source="CountyMonaghan" target="TheDangerousFaggot" weight="1" />
+      <edge id="1178" source="CountyMonaghan" target="Blackwidow" weight="1" />
+      <edge id="1179" source="CountyMonaghan" target="Quicksilver" weight="1" />
+      <edge id="1180" source="CountyMonaghan" target="HillaryForPrison" weight="1" />
+      <edge id="1181" source="CountyMonaghan" target="Sorosforprison" weight="1" />
+      <edge id="1182" source="CountyMonaghan" target="lockHerUp" weight="1" />
+      <edge id="1183" source="CountyMonaghan" target="Trumplicans" weight="1" />
+      <edge id="1184" source="CountyMonaghan" target="creepy_hillary" weight="1" />
+      <edge id="1185" source="CountyMonaghan" target="The_Farage" weight="1" />
+      <edge id="1186" source="CountyMonaghan" target="strobecirclejerk" weight="1" />
+      <edge id="1187" source="conspiracy" target="globalresearch" weight="1" />
+      <edge id="1188" source="conspiracy" target="MartinShkreli" weight="1" />
+      <edge id="1189" source="conspiracy" target="cojoco" weight="1" />
+      <edge id="1190" source="conspiracy" target="altnewz" weight="2" />
+      <edge id="1191" source="conspiracy" target="snew" weight="4" />
+      <edge id="1192" source="conspiracy" target="CasualTodayILearned" weight="1" />
+      <edge id="1193" source="conspiracy" target="altnews" weight="1" />
+      <edge id="1194" source="conspiracy" target="GasTheSnoo" weight="1" />
+      <edge id="1195" source="conspiracy" target="rpgtrade" weight="1" />
+      <edge id="1196" source="conspiracy" target="scifi" weight="1" />
+      <edge id="1197" source="conspiracy" target="advancedtechresearch" weight="1" />
+      <edge id="1198" source="conspiracy" target="FreeSpeech" weight="1" />
+      <edge id="1199" source="conspiracy" target="truevoat" weight="1" />
+      <edge id="1200" source="conspiracy" target="dickgirls" weight="1" />
+      <edge id="1201" source="conspiracy" target="rdvisacuck" weight="1" />
+      <edge id="1202" source="conspiracy" target="Diablo3Barbarians" weight="1" />
+      <edge id="1203" source="conspiracy" target="scientology" weight="1" />
+      <edge id="1204" source="conspiracy" target="subredditcancer" weight="1" />
+      <edge id="1205" source="conspiracy" target="thegoodwife" weight="1" />
+      <edge id="1206" source="conspiracy" target="uncensorship" weight="2" />
+      <edge id="1207" source="conspiracy" target="rpg" weight="1" />
+      <edge id="1208" source="conspiracy" target="humor" weight="1" />
+      <edge id="1209" source="conspiracy" target="webcomics" weight="1" />
+      <edge id="1210" source="conspiracy" target="musicians" weight="1" />
+      <edge id="1211" source="conspiracy" target="Blackout2015" weight="1" />
+      <edge id="1212" source="conspiracy" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1213" source="conspiracy" target="Albumleaks" weight="1" />
+      <edge id="1214" source="conspiracy" target="wikipedia" weight="1" />
+      <edge id="1215" source="conspiracy" target="WikiLeaks" weight="1" />
+      <edge id="1216" source="conspiracy" target="TheBatarang" weight="1" />
+      <edge id="1217" source="conspiracy" target="HighEndGlass" weight="1" />
+      <edge id="1218" source="conspiracy" target="PastAndPresentPics" weight="1" />
+      <edge id="1219" source="conspiracy" target="C_S_T" weight="3" />
+      <edge id="1220" source="conspiracy" target="technewz" weight="1" />
+      <edge id="1221" source="conspiracy" target="TrueReddit" weight="1" />
+      <edge id="1222" source="conspiracy" target="josephpfarrell" weight="1" />
+      <edge id="1223" source="conspiracy" target="rubyonrails" weight="1" />
+      <edge id="1224" source="conspiracy" target="DocumentedTruth" weight="1" />
+      <edge id="1225" source="conspiracy" target="AgentsOfDoubt" weight="1" />
+      <edge id="1226" source="conspiracy" target="Diablo3Wizards" weight="1" />
+      <edge id="1227" source="conspiracy" target="every_one_is_mod" weight="1" />
+      <edge id="1228" source="conspiracy" target="WatchRedditDie" weight="1" />
+      <edge id="1229" source="conspiracy" target="tidder" weight="1" />
+      <edge id="1230" source="conspiracy" target="ConspiracyTheory" weight="1" />
+      <edge id="1231" source="conspiracy" target="finreviewz" weight="1" />
+      <edge id="1232" source="conspiracy" target="aaronswartz" weight="1" />
+      <edge id="1233" source="conspiracy" target="onetruegod" weight="1" />
+      <edge id="1234" source="conspiracy" target="newsbloopers" weight="1" />
+      <edge id="1235" source="conspiracy" target="IndiaSpeaks" weight="1" />
+      <edge id="1236" source="conspiracy" target="publicmodlogs" weight="1" />
+      <edge id="1237" source="conspiracy" target="SRC_Meta" weight="1" />
+      <edge id="1238" source="conspiracy" target="nature" weight="1" />
+      <edge id="1239" source="conspiracy" target="BannedFromBanned" weight="1" />
+      <edge id="1240" source="conspiracy" target="VitaPiracy" weight="1" />
+      <edge id="1241" source="conspiracy" target="darknetplan" weight="1" />
+      <edge id="1242" source="conspiracy" target="MockRedditAdmins" weight="2" />
+      <edge id="1243" source="conspiracy" target="IfIWasPresident" weight="1" />
+      <edge id="1244" source="conspiracy" target="paydaytheheist" weight="1" />
+      <edge id="1245" source="conspiracy" target="ChicagoPics" weight="1" />
+      <edge id="1246" source="conspiracy" target="NolibsWatch" weight="1" />
+      <edge id="1247" source="conspiracy" target="yyj" weight="1" />
+      <edge id="1248" source="conspiracy" target="AlternativeHistory" weight="2" />
+      <edge id="1249" source="conspiracy" target="DNCleaks" weight="1" />
+      <edge id="1250" source="Quicksilver" target="Le_Pen" weight="1" />
+      <edge id="1251" source="Quicksilver" target="TheDangerousFaggot" weight="1" />
+      <edge id="1252" source="Quicksilver" target="Blackwidow" weight="1" />
+      <edge id="1253" source="Quicksilver" target="Sorosforprison" weight="1" />
+      <edge id="1254" source="Quicksilver" target="lockHerUp" weight="1" />
+      <edge id="1255" source="Quicksilver" target="creepy_hillary" weight="1" />
+      <edge id="1256" source="Quicksilver" target="The_Farage" weight="1" />
+      <edge id="1257" source="Quicksilver" target="strobecirclejerk" weight="1" />
+      <edge id="1258" source="Quicksilver" target="HillaryForPrison" weight="1" />
+      <edge id="1259" source="ChicagoPics" target="scifi" weight="1" />
+      <edge id="1260" source="ChicagoPics" target="tidder" weight="1" />
+      <edge id="1261" source="ChicagoPics" target="rpgtrade" weight="1" />
+      <edge id="1262" source="ChicagoPics" target="scientology" weight="1" />
+      <edge id="1263" source="ChicagoPics" target="rpg" weight="1" />
+      <edge id="1264" source="ChicagoPics" target="wikipedia" weight="1" />
+      <edge id="1265" source="ChicagoPics" target="musicians" weight="1" />
+      <edge id="1266" source="ChicagoPics" target="nature" weight="1" />
+      <edge id="1267" source="ChicagoPics" target="humor" weight="1" />
+      <edge id="1268" source="ChicagoPics" target="webcomics" weight="1" />
+      <edge id="1269" source="TheBatarang" target="newsbloopers" weight="1" />
+      <edge id="1270" source="TheBatarang" target="publicmodlogs" weight="1" />
+      <edge id="1271" source="TheBatarang" target="altnewz" weight="1" />
+      <edge id="1272" source="TheBatarang" target="uncensorship" weight="1" />
+      <edge id="1273" source="TheBatarang" target="HighEndGlass" weight="1" />
+      <edge id="1274" source="TheBatarang" target="VitaPiracy" weight="1" />
+      <edge id="1275" source="TheBatarang" target="MockRedditAdmins" weight="1" />
+      <edge id="1276" source="TheBatarang" target="snew" weight="1" />
+      <edge id="1277" source="TheBatarang" target="CasualTodayILearned" weight="1" />
+      <edge id="1278" source="TheBatarang" target="altnews" weight="1" />
+      <edge id="1279" source="TheBatarang" target="GasTheSnoo" weight="1" />
+      <edge id="1280" source="TheBatarang" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1281" source="TheBatarang" target="Albumleaks" weight="1" />
+      <edge id="1282" source="TheBatarang" target="WikiLeaks" weight="1" />
+      <edge id="1283" source="TheBatarang" target="BannedFromBanned" weight="1" />
+      <edge id="1284" source="TheBatarang" target="rdvisacuck" weight="1" />
+      <edge id="1285" source="TheBatarang" target="aaronswartz" weight="1" />
+      <edge id="1286" source="TheBatarang" target="DNCleaks" weight="1" />
+      <edge id="1287" source="TheBatarang" target="dickgirls" weight="1" />
+      <edge id="1288" source="ppdPersonalAdvice" target="HillaryForPrison" weight="1" />
+      <edge id="1289" source="AlternativeHistory" target="C_S_T" weight="2" />
+      <edge id="1290" source="The_Farage" target="Le_Pen" weight="1" />
+      <edge id="1291" source="The_Farage" target="TheDangerousFaggot" weight="1" />
+      <edge id="1292" source="The_Farage" target="Blackwidow" weight="1" />
+      <edge id="1293" source="The_Farage" target="Sorosforprison" weight="2" />
+      <edge id="1294" source="The_Farage" target="lockHerUp" weight="1" />
+      <edge id="1295" source="The_Farage" target="creepy_hillary" weight="1" />
+      <edge id="1296" source="The_Farage" target="strobecirclejerk" weight="1" />
+      <edge id="1297" source="The_Farage" target="theGreatMemeWar" weight="1" />
+      <edge id="1298" source="The_Farage" target="HillaryForPrison" weight="1" />
+      <edge id="1299" source="TheRecordCorrected" target="BoycottCNN" weight="1" />
+      <edge id="1300" source="TheRecordCorrected" target="Sorosforprison" weight="1" />
+      <edge id="1301" source="TheRecordCorrected" target="Trumpland" weight="1" />
+      <edge id="1302" source="TheRecordCorrected" target="Trumplicans" weight="1" />
+      <edge id="1303" source="TheRecordCorrected" target="MockRedditAdmins" weight="1" />
+      <edge id="1304" source="TheRecordCorrected" target="HillaryForPrison" weight="1" />
+      <edge id="1305" source="TheRecordCorrected" target="dickgirls" weight="1" />
+      <edge id="1306" source="cojoco" target="TrueReddit" weight="1" />
+      <edge id="1307" source="cojoco" target="rubyonrails" weight="1" />
+      <edge id="1308" source="cojoco" target="altnewz" weight="1" />
+      <edge id="1309" source="cojoco" target="Blackout2015" weight="1" />
+      <edge id="1310" source="cojoco" target="IndiaSpeaks" weight="1" />
+      <edge id="1311" source="cojoco" target="uncensorship" weight="1" />
+      <edge id="1312" source="cojoco" target="darknetplan" weight="1" />
+      <edge id="1313" source="cojoco" target="every_one_is_mod" weight="1" />
+      <edge id="1314" source="cojoco" target="ConspiracyTheory" weight="1" />
+      <edge id="1315" source="cojoco" target="WatchRedditDie" weight="1" />
+      <edge id="1316" source="cojoco" target="snew" weight="1" />
+      <edge id="1317" source="cojoco" target="technewz" weight="1" />
+      <edge id="1318" source="cojoco" target="yyj" weight="1" />
+      <edge id="1319" source="cojoco" target="finreviewz" weight="1" />
+      <edge id="1320" source="cojoco" target="FreeSpeech" weight="1" />
+      <edge id="1321" source="cojoco" target="truevoat" weight="1" />
+      <edge id="1322" source="cojoco" target="C_S_T" weight="1" />
+      <edge id="1323" source="globalresearch" target="advancedtechresearch" weight="1" />
+      <edge id="1324" source="globalresearch" target="josephpfarrell" weight="1" />
+      <edge id="1325" source="globalresearch" target="DocumentedTruth" weight="1" />
+      <edge id="1326" source="Blackwidow" target="Le_Pen" weight="1" />
+      <edge id="1327" source="Blackwidow" target="TheDangerousFaggot" weight="1" />
+      <edge id="1328" source="Blackwidow" target="Sorosforprison" weight="1" />
+      <edge id="1329" source="Blackwidow" target="lockHerUp" weight="1" />
+      <edge id="1330" source="Blackwidow" target="creepy_hillary" weight="1" />
+      <edge id="1331" source="Blackwidow" target="strobecirclejerk" weight="1" />
+      <edge id="1332" source="Blackwidow" target="HillaryForPrison" weight="1" />
+      <edge id="1333" source="MartinShkreli" target="snew" weight="1" />
+      <edge id="1334" source="MartinShkreli" target="MockRedditAdmins" weight="1" />
+      <edge id="1335" source="MartinShkreli" target="NolibsWatch" weight="1" />
+      <edge id="1336" source="Blackout2015" target="TrueReddit" weight="1" />
+      <edge id="1337" source="Blackout2015" target="rubyonrails" weight="1" />
+      <edge id="1338" source="Blackout2015" target="altnewz" weight="1" />
+      <edge id="1339" source="Blackout2015" target="IndiaSpeaks" weight="1" />
+      <edge id="1340" source="Blackout2015" target="uncensorship" weight="1" />
+      <edge id="1341" source="Blackout2015" target="darknetplan" weight="1" />
+      <edge id="1342" source="Blackout2015" target="every_one_is_mod" weight="1" />
+      <edge id="1343" source="Blackout2015" target="ConspiracyTheory" weight="1" />
+      <edge id="1344" source="Blackout2015" target="WatchRedditDie" weight="1" />
+      <edge id="1345" source="Blackout2015" target="snew" weight="1" />
+      <edge id="1346" source="Blackout2015" target="technewz" weight="1" />
+      <edge id="1347" source="Blackout2015" target="yyj" weight="1" />
+      <edge id="1348" source="Blackout2015" target="finreviewz" weight="1" />
+      <edge id="1349" source="Blackout2015" target="FreeSpeech" weight="1" />
+      <edge id="1350" source="Blackout2015" target="truevoat" weight="1" />
+      <edge id="1351" source="Blackout2015" target="C_S_T" weight="1" />
+      <edge id="1352" source="DeclinetoState" target="progun" weight="1" />
+      <edge id="1353" source="DeclinetoState" target="MikeLee" weight="1" />
+      <edge id="1354" source="DeclinetoState" target="ronpaul" weight="1" />
+      <edge id="1355" source="DeclinetoState" target="HillaryForPrison" weight="1" />
+      <edge id="1356" source="DeclinetoState" target="Trumplicans" weight="1" />
+      <edge id="1357" source="DeclinetoState" target="EndlessWar" weight="1" />
+      <edge id="1358" source="DeclinetoState" target="NYYankees" weight="1" />
+      <edge id="1359" source="DeclinetoState" target="censored" weight="1" />
+      <edge id="1360" source="altnewz" target="technewz" weight="1" />
+      <edge id="1361" source="altnewz" target="TrueReddit" weight="1" />
+      <edge id="1362" source="altnewz" target="rubyonrails" weight="1" />
+      <edge id="1363" source="altnewz" target="uncensorship" weight="2" />
+      <edge id="1364" source="altnewz" target="every_one_is_mod" weight="1" />
+      <edge id="1365" source="altnewz" target="WatchRedditDie" weight="1" />
+      <edge id="1366" source="altnewz" target="snew" weight="2" />
+      <edge id="1367" source="altnewz" target="CasualTodayILearned" weight="1" />
+      <edge id="1368" source="altnewz" target="altnews" weight="1" />
+      <edge id="1369" source="altnewz" target="rdvisacuck" weight="1" />
+      <edge id="1370" source="altnewz" target="GasTheSnoo" weight="1" />
+      <edge id="1371" source="altnewz" target="HighEndGlass" weight="1" />
+      <edge id="1372" source="altnewz" target="finreviewz" weight="1" />
+      <edge id="1373" source="altnewz" target="FreeSpeech" weight="1" />
+      <edge id="1374" source="altnewz" target="aaronswartz" weight="1" />
+      <edge id="1375" source="altnewz" target="truevoat" weight="1" />
+      <edge id="1376" source="altnewz" target="dickgirls" weight="1" />
+      <edge id="1377" source="altnewz" target="C_S_T" weight="1" />
+      <edge id="1378" source="altnewz" target="newsbloopers" weight="1" />
+      <edge id="1379" source="altnewz" target="IndiaSpeaks" weight="1" />
+      <edge id="1380" source="altnewz" target="publicmodlogs" weight="1" />
+      <edge id="1381" source="altnewz" target="BannedFromBanned" weight="1" />
+      <edge id="1382" source="altnewz" target="VitaPiracy" weight="1" />
+      <edge id="1383" source="altnewz" target="darknetplan" weight="1" />
+      <edge id="1384" source="altnewz" target="MockRedditAdmins" weight="1" />
+      <edge id="1385" source="altnewz" target="ConspiracyTheory" weight="1" />
+      <edge id="1386" source="altnewz" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1387" source="altnewz" target="Albumleaks" weight="1" />
+      <edge id="1388" source="altnewz" target="yyj" weight="1" />
+      <edge id="1389" source="altnewz" target="WikiLeaks" weight="1" />
+      <edge id="1390" source="altnewz" target="DNCleaks" weight="1" />
+      <edge id="1391" source="TheDangerousFaggot" target="Le_Pen" weight="1" />
+      <edge id="1392" source="TheDangerousFaggot" target="Sorosforprison" weight="1" />
+      <edge id="1393" source="TheDangerousFaggot" target="lockHerUp" weight="1" />
+      <edge id="1394" source="TheDangerousFaggot" target="creepy_hillary" weight="1" />
+      <edge id="1395" source="TheDangerousFaggot" target="strobecirclejerk" weight="1" />
+      <edge id="1396" source="TheDangerousFaggot" target="HillaryForPrison" weight="1" />
+      <edge id="1397" source="TheDangerousFaggot" target="RightwingLGBT" weight="1" />
+      <edge id="1398" source="DonaldTrump2016" target="AskThe_Donald" weight="1" />
+      <edge id="1399" source="DonaldTrump2016" target="BoycottCNN" weight="1" />
+      <edge id="1400" source="DonaldTrump2016" target="Trumplicans" weight="1" />
+      <edge id="1401" source="ronpaul" target="progun" weight="1" />
+      <edge id="1402" source="ronpaul" target="MikeLee" weight="1" />
+      <edge id="1403" source="ronpaul" target="EndlessWar" weight="1" />
+      <edge id="1404" source="ronpaul" target="Trumplicans" weight="1" />
+      <edge id="1405" source="ronpaul" target="HillaryForPrison" weight="1" />
+      <edge id="1406" source="ronpaul" target="NYYankees" weight="1" />
+      <edge id="1407" source="ronpaul" target="censored" weight="1" />
+      <edge id="1408" source="snew" target="TrueReddit" weight="1" />
+      <edge id="1409" source="snew" target="rubyonrails" weight="1" />
+      <edge id="1410" source="snew" target="technewz" weight="1" />
+      <edge id="1411" source="snew" target="every_one_is_mod" weight="1" />
+      <edge id="1412" source="snew" target="WatchRedditDie" weight="1" />
+      <edge id="1413" source="snew" target="CasualTodayILearned" weight="1" />
+      <edge id="1414" source="snew" target="altnews" weight="1" />
+      <edge id="1415" source="snew" target="rdvisacuck" weight="1" />
+      <edge id="1416" source="snew" target="finreviewz" weight="1" />
+      <edge id="1417" source="snew" target="FreeSpeech" weight="1" />
+      <edge id="1418" source="snew" target="aaronswartz" weight="1" />
+      <edge id="1419" source="snew" target="truevoat" weight="1" />
+      <edge id="1420" source="snew" target="dickgirls" weight="1" />
+      <edge id="1421" source="snew" target="C_S_T" weight="1" />
+      <edge id="1422" source="snew" target="newsbloopers" weight="1" />
+      <edge id="1423" source="snew" target="IndiaSpeaks" weight="1" />
+      <edge id="1424" source="snew" target="publicmodlogs" weight="1" />
+      <edge id="1425" source="snew" target="GasTheSnoo" weight="1" />
+      <edge id="1426" source="snew" target="uncensorship" weight="2" />
+      <edge id="1427" source="snew" target="BannedFromBanned" weight="1" />
+      <edge id="1428" source="snew" target="VitaPiracy" weight="1" />
+      <edge id="1429" source="snew" target="darknetplan" weight="1" />
+      <edge id="1430" source="snew" target="MockRedditAdmins" weight="2" />
+      <edge id="1431" source="snew" target="ConspiracyTheory" weight="1" />
+      <edge id="1432" source="snew" target="IfIWasPresident" weight="1" />
+      <edge id="1433" source="snew" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1434" source="snew" target="NolibsWatch" weight="1" />
+      <edge id="1435" source="snew" target="Albumleaks" weight="1" />
+      <edge id="1436" source="snew" target="yyj" weight="1" />
+      <edge id="1437" source="snew" target="WikiLeaks" weight="1" />
+      <edge id="1438" source="snew" target="DNCleaks" weight="1" />
+      <edge id="1439" source="snew" target="HighEndGlass" weight="1" />
+      <edge id="1440" source="CasualTodayILearned" target="newsbloopers" weight="1" />
+      <edge id="1441" source="CasualTodayILearned" target="publicmodlogs" weight="1" />
+      <edge id="1442" source="CasualTodayILearned" target="uncensorship" weight="1" />
+      <edge id="1443" source="CasualTodayILearned" target="GasTheSnoo" weight="1" />
+      <edge id="1444" source="CasualTodayILearned" target="BannedFromBanned" weight="1" />
+      <edge id="1445" source="CasualTodayILearned" target="VitaPiracy" weight="1" />
+      <edge id="1446" source="CasualTodayILearned" target="MockRedditAdmins" weight="1" />
+      <edge id="1447" source="CasualTodayILearned" target="altnews" weight="1" />
+      <edge id="1448" source="CasualTodayILearned" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1449" source="CasualTodayILearned" target="Albumleaks" weight="1" />
+      <edge id="1450" source="CasualTodayILearned" target="WikiLeaks" weight="1" />
+      <edge id="1451" source="CasualTodayILearned" target="rdvisacuck" weight="1" />
+      <edge id="1452" source="CasualTodayILearned" target="aaronswartz" weight="1" />
+      <edge id="1453" source="CasualTodayILearned" target="DNCleaks" weight="1" />
+      <edge id="1454" source="CasualTodayILearned" target="HighEndGlass" weight="1" />
+      <edge id="1455" source="CasualTodayILearned" target="dickgirls" weight="1" />
+      <edge id="1456" source="altnews" target="newsbloopers" weight="1" />
+      <edge id="1457" source="altnews" target="publicmodlogs" weight="1" />
+      <edge id="1458" source="altnews" target="uncensorship" weight="1" />
+      <edge id="1459" source="altnews" target="GasTheSnoo" weight="1" />
+      <edge id="1460" source="altnews" target="BannedFromBanned" weight="1" />
+      <edge id="1461" source="altnews" target="VitaPiracy" weight="1" />
+      <edge id="1462" source="altnews" target="MockRedditAdmins" weight="1" />
+      <edge id="1463" source="altnews" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1464" source="altnews" target="Albumleaks" weight="1" />
+      <edge id="1465" source="altnews" target="WikiLeaks" weight="1" />
+      <edge id="1466" source="altnews" target="rdvisacuck" weight="1" />
+      <edge id="1467" source="altnews" target="aaronswartz" weight="1" />
+      <edge id="1468" source="altnews" target="DNCleaks" weight="1" />
+      <edge id="1469" source="altnews" target="HighEndGlass" weight="1" />
+      <edge id="1470" source="altnews" target="dickgirls" weight="1" />
+      <edge id="1471" source="TrueReddit" target="rubyonrails" weight="1" />
+      <edge id="1472" source="TrueReddit" target="IndiaSpeaks" weight="1" />
+      <edge id="1473" source="TrueReddit" target="uncensorship" weight="1" />
+      <edge id="1474" source="TrueReddit" target="darknetplan" weight="1" />
+      <edge id="1475" source="TrueReddit" target="every_one_is_mod" weight="1" />
+      <edge id="1476" source="TrueReddit" target="ConspiracyTheory" weight="1" />
+      <edge id="1477" source="TrueReddit" target="WatchRedditDie" weight="1" />
+      <edge id="1478" source="TrueReddit" target="technewz" weight="1" />
+      <edge id="1479" source="TrueReddit" target="yyj" weight="1" />
+      <edge id="1480" source="TrueReddit" target="finreviewz" weight="1" />
+      <edge id="1481" source="TrueReddit" target="FreeSpeech" weight="1" />
+      <edge id="1482" source="TrueReddit" target="truevoat" weight="1" />
+      <edge id="1483" source="TrueReddit" target="C_S_T" weight="1" />
+      <edge id="1484" source="GasTheSnoo" target="newsbloopers" weight="1" />
+      <edge id="1485" source="GasTheSnoo" target="publicmodlogs" weight="1" />
+      <edge id="1486" source="GasTheSnoo" target="uncensorship" weight="1" />
+      <edge id="1487" source="GasTheSnoo" target="BannedFromBanned" weight="1" />
+      <edge id="1488" source="GasTheSnoo" target="VitaPiracy" weight="1" />
+      <edge id="1489" source="GasTheSnoo" target="MockRedditAdmins" weight="1" />
+      <edge id="1490" source="GasTheSnoo" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1491" source="GasTheSnoo" target="Albumleaks" weight="1" />
+      <edge id="1492" source="GasTheSnoo" target="WikiLeaks" weight="1" />
+      <edge id="1493" source="GasTheSnoo" target="rdvisacuck" weight="1" />
+      <edge id="1494" source="GasTheSnoo" target="aaronswartz" weight="1" />
+      <edge id="1495" source="GasTheSnoo" target="DNCleaks" weight="1" />
+      <edge id="1496" source="GasTheSnoo" target="HighEndGlass" weight="1" />
+      <edge id="1497" source="GasTheSnoo" target="dickgirls" weight="1" />
+      <edge id="1498" source="rpgtrade" target="scifi" weight="1" />
+      <edge id="1499" source="rpgtrade" target="tidder" weight="1" />
+      <edge id="1500" source="rpgtrade" target="scientology" weight="1" />
+      <edge id="1501" source="rpgtrade" target="rpg" weight="1" />
+      <edge id="1502" source="rpgtrade" target="wikipedia" weight="1" />
+      <edge id="1503" source="rpgtrade" target="nature" weight="1" />
+      <edge id="1504" source="rpgtrade" target="humor" weight="1" />
+      <edge id="1505" source="rpgtrade" target="musicians" weight="1" />
+      <edge id="1506" source="rpgtrade" target="webcomics" weight="1" />
+      <edge id="1507" source="scientology" target="scifi" weight="1" />
+      <edge id="1508" source="scientology" target="tidder" weight="1" />
+      <edge id="1509" source="scientology" target="rpg" weight="1" />
+      <edge id="1510" source="scientology" target="wikipedia" weight="1" />
+      <edge id="1511" source="scientology" target="musicians" weight="1" />
+      <edge id="1512" source="scientology" target="nature" weight="1" />
+      <edge id="1513" source="scientology" target="humor" weight="1" />
+      <edge id="1514" source="scientology" target="webcomics" weight="1" />
+      <edge id="1515" source="OperationTrebuchet" target="MMORift" weight="1" />
+      <edge id="1516" source="scifi" target="tidder" weight="1" />
+      <edge id="1517" source="scifi" target="rpg" weight="1" />
+      <edge id="1518" source="scifi" target="wikipedia" weight="1" />
+      <edge id="1519" source="scifi" target="musicians" weight="1" />
+      <edge id="1520" source="scifi" target="nature" weight="1" />
+      <edge id="1521" source="scifi" target="humor" weight="1" />
+      <edge id="1522" source="scifi" target="webcomics" weight="1" />
+      <edge id="1523" source="Trumplicans" target="progun" weight="1" />
+      <edge id="1524" source="Trumplicans" target="EndlessWar" weight="1" />
+      <edge id="1525" source="Trumplicans" target="The_Ivanka" weight="1" />
+      <edge id="1526" source="Trumplicans" target="censored" weight="1" />
+      <edge id="1527" source="Trumplicans" target="MockRedditAdmins" weight="1" />
+      <edge id="1528" source="Trumplicans" target="MikeLee" weight="1" />
+      <edge id="1529" source="Trumplicans" target="BoycottCNN" weight="2" />
+      <edge id="1530" source="Trumplicans" target="HillaryForPrison" weight="3" />
+      <edge id="1531" source="Trumplicans" target="Sorosforprison" weight="1" />
+      <edge id="1532" source="Trumplicans" target="Trumpland" weight="1" />
+      <edge id="1533" source="Trumplicans" target="AskThe_Donald" weight="2" />
+      <edge id="1534" source="Trumplicans" target="President_Trump" weight="1" />
+      <edge id="1535" source="Trumplicans" target="dickgirls" weight="1" />
+      <edge id="1536" source="Trumplicans" target="NYYankees" weight="1" />
+      <edge id="1537" source="FreeSpeech" target="rubyonrails" weight="1" />
+      <edge id="1538" source="FreeSpeech" target="IndiaSpeaks" weight="1" />
+      <edge id="1539" source="FreeSpeech" target="uncensorship" weight="1" />
+      <edge id="1540" source="FreeSpeech" target="darknetplan" weight="1" />
+      <edge id="1541" source="FreeSpeech" target="every_one_is_mod" weight="1" />
+      <edge id="1542" source="FreeSpeech" target="ConspiracyTheory" weight="1" />
+      <edge id="1543" source="FreeSpeech" target="WatchRedditDie" weight="1" />
+      <edge id="1544" source="FreeSpeech" target="technewz" weight="1" />
+      <edge id="1545" source="FreeSpeech" target="yyj" weight="1" />
+      <edge id="1546" source="FreeSpeech" target="finreviewz" weight="1" />
+      <edge id="1547" source="FreeSpeech" target="truevoat" weight="1" />
+      <edge id="1548" source="FreeSpeech" target="C_S_T" weight="1" />
+      <edge id="1549" source="truevoat" target="rubyonrails" weight="1" />
+      <edge id="1550" source="truevoat" target="IndiaSpeaks" weight="1" />
+      <edge id="1551" source="truevoat" target="uncensorship" weight="1" />
+      <edge id="1552" source="truevoat" target="darknetplan" weight="1" />
+      <edge id="1553" source="truevoat" target="every_one_is_mod" weight="1" />
+      <edge id="1554" source="truevoat" target="ConspiracyTheory" weight="1" />
+      <edge id="1555" source="truevoat" target="WatchRedditDie" weight="1" />
+      <edge id="1556" source="truevoat" target="technewz" weight="1" />
+      <edge id="1557" source="truevoat" target="yyj" weight="1" />
+      <edge id="1558" source="truevoat" target="finreviewz" weight="1" />
+      <edge id="1559" source="truevoat" target="C_S_T" weight="1" />
+      <edge id="1560" source="The_Wilders" target="Le_Pen" weight="1" />
+      <edge id="1561" source="dickgirls" target="VitaPiracy" weight="1" />
+      <edge id="1562" source="dickgirls" target="WikiLeaks" weight="1" />
+      <edge id="1563" source="dickgirls" target="rdvisacuck" weight="1" />
+      <edge id="1564" source="dickgirls" target="HighEndGlass" weight="1" />
+      <edge id="1565" source="dickgirls" target="aaronswartz" weight="1" />
+      <edge id="1566" source="dickgirls" target="newsbloopers" weight="1" />
+      <edge id="1567" source="dickgirls" target="publicmodlogs" weight="1" />
+      <edge id="1568" source="dickgirls" target="DNCleaks" weight="1" />
+      <edge id="1569" source="dickgirls" target="BannedFromBanned" weight="1" />
+      <edge id="1570" source="dickgirls" target="uncensorship" weight="1" />
+      <edge id="1571" source="dickgirls" target="MockRedditAdmins" weight="1" />
+      <edge id="1572" source="dickgirls" target="HillaryForPrison" weight="1" />
+      <edge id="1573" source="dickgirls" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1574" source="dickgirls" target="Sorosforprison" weight="1" />
+      <edge id="1575" source="dickgirls" target="Trumpland" weight="1" />
+      <edge id="1576" source="dickgirls" target="Albumleaks" weight="1" />
+      <edge id="1577" source="dickgirls" target="BoycottCNN" weight="1" />
+      <edge id="1578" source="rdvisacuck" target="newsbloopers" weight="1" />
+      <edge id="1579" source="rdvisacuck" target="publicmodlogs" weight="1" />
+      <edge id="1580" source="rdvisacuck" target="uncensorship" weight="1" />
+      <edge id="1581" source="rdvisacuck" target="BannedFromBanned" weight="1" />
+      <edge id="1582" source="rdvisacuck" target="VitaPiracy" weight="1" />
+      <edge id="1583" source="rdvisacuck" target="MockRedditAdmins" weight="1" />
+      <edge id="1584" source="rdvisacuck" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1585" source="rdvisacuck" target="Albumleaks" weight="1" />
+      <edge id="1586" source="rdvisacuck" target="WikiLeaks" weight="1" />
+      <edge id="1587" source="rdvisacuck" target="aaronswartz" weight="1" />
+      <edge id="1588" source="rdvisacuck" target="DNCleaks" weight="1" />
+      <edge id="1589" source="rdvisacuck" target="HighEndGlass" weight="1" />
+      <edge id="1590" source="Diablo3Barbarians" target="thegoodwife" weight="1" />
+      <edge id="1591" source="Diablo3Barbarians" target="Diablo3Wizards" weight="1" />
+      <edge id="1592" source="Diablo3Barbarians" target="PastAndPresentPics" weight="1" />
+      <edge id="1593" source="Diablo3Barbarians" target="onetruegod" weight="1" />
+      <edge id="1594" source="Diablo3Barbarians" target="paydaytheheist" weight="1" />
+      <edge id="1595" source="subredditcancer" target="SRC_Meta" weight="1" />
+      <edge id="1596" source="President_Trump" target="The_Ivanka" weight="1" />
+      <edge id="1597" source="President_Trump" target="AskThe_Donald" weight="1" />
+      <edge id="1598" source="President_Trump" target="HillaryForPrison" weight="1" />
+      <edge id="1599" source="uncensorship" target="technewz" weight="1" />
+      <edge id="1600" source="uncensorship" target="rubyonrails" weight="1" />
+      <edge id="1601" source="uncensorship" target="every_one_is_mod" weight="1" />
+      <edge id="1602" source="uncensorship" target="WatchRedditDie" weight="1" />
+      <edge id="1603" source="uncensorship" target="finreviewz" weight="1" />
+      <edge id="1604" source="uncensorship" target="aaronswartz" weight="1" />
+      <edge id="1605" source="uncensorship" target="C_S_T" weight="1" />
+      <edge id="1606" source="uncensorship" target="newsbloopers" weight="1" />
+      <edge id="1607" source="uncensorship" target="IndiaSpeaks" weight="1" />
+      <edge id="1608" source="uncensorship" target="publicmodlogs" weight="1" />
+      <edge id="1609" source="uncensorship" target="BannedFromBanned" weight="1" />
+      <edge id="1610" source="uncensorship" target="VitaPiracy" weight="1" />
+      <edge id="1611" source="uncensorship" target="darknetplan" weight="1" />
+      <edge id="1612" source="uncensorship" target="MockRedditAdmins" weight="1" />
+      <edge id="1613" source="uncensorship" target="ConspiracyTheory" weight="1" />
+      <edge id="1614" source="uncensorship" target="TheShrineOfKeroro" weight="1" />
+      <edge id="1615" source="uncensorship" target="Albumleaks" weight="1" />
+      <edge id="1616" source="uncensorship" target="yyj" weight="1" />
+      <edge id="1617" source="uncensorship" target="WikiLeaks" weight="1" />
+      <edge id="1618" source="uncensorship" target="DNCleaks" weight="1" />
+      <edge id="1619" source="uncensorship" target="HighEndGlass" weight="1" />
+      <edge id="1620" source="strobecirclejerk" target="Le_Pen" weight="1" />
+      <edge id="1621" source="strobecirclejerk" target="Sorosforprison" weight="1" />
+      <edge id="1622" source="strobecirclejerk" target="lockHerUp" weight="1" />
+      <edge id="1623" source="strobecirclejerk" target="creepy_hillary" weight="1" />
+      <edge id="1624" source="strobecirclejerk" target="HillaryForPrison" weight="1" />
+      <edge id="1625" source="humor" target="tidder" weight="1" />
+      <edge id="1626" source="humor" target="rpg" weight="1" />
+      <edge id="1627" source="humor" target="wikipedia" weight="1" />
+      <edge id="1628" source="humor" target="musicians" weight="1" />
+      <edge id="1629" source="humor" target="nature" weight="1" />
+      <edge id="1630" source="humor" target="webcomics" weight="1" />
+      <edge id="1631" source="MikeLee" target="progun" weight="1" />
+      <edge id="1632" source="MikeLee" target="EndlessWar" weight="1" />
+      <edge id="1633" source="MikeLee" target="HillaryForPrison" weight="1" />
+      <edge id="1634" source="MikeLee" target="NYYankees" weight="1" />
+      <edge id="1635" source="MikeLee" target="censored" weight="1" />
+      <edge id="1636" source="NeutralPolitics" target="neutralnews" weight="1" />
+      <edge id="1637" source="NeutralPolitics" target="Trumpland" weight="1" />
+      <edge id="1638" source="webcomics" target="tidder" weight="1" />
+      <edge id="1639" source="webcomics" target="rpg" weight="1" />
+      <edge id="1640" source="webcomics" target="wikipedia" weight="1" />
+      <edge id="1641" source="webcomics" target="musicians" weight="1" />
+      <edge id="1642" source="webcomics" target="nature" weight="1" />
+      <edge id="1643" source="musicians" target="tidder" weight="1" />
+      <edge id="1644" source="musicians" target="rpg" weight="1" />
+      <edge id="1645" source="musicians" target="wikipedia" weight="1" />
+      <edge id="1646" source="musicians" target="nature" weight="1" />
+      <edge id="1647" source="TheShrineOfKeroro" target="newsbloopers" weight="1" />
+      <edge id="1648" source="TheShrineOfKeroro" target="publicmodlogs" weight="1" />
+      <edge id="1649" source="TheShrineOfKeroro" target="BannedFromBanned" weight="1" />
+      <edge id="1650" source="TheShrineOfKeroro" target="VitaPiracy" weight="1" />
+      <edge id="1651" source="TheShrineOfKeroro" target="MockRedditAdmins" weight="1" />
+      <edge id="1652" source="TheShrineOfKeroro" target="Albumleaks" weight="1" />
+      <edge id="1653" source="TheShrineOfKeroro" target="WikiLeaks" weight="1" />
+      <edge id="1654" source="TheShrineOfKeroro" target="aaronswartz" weight="1" />
+      <edge id="1655" source="TheShrineOfKeroro" target="DNCleaks" weight="1" />
+      <edge id="1656" source="TheShrineOfKeroro" target="HighEndGlass" weight="1" />
+      <edge id="1657" source="Sorosforprison" target="The_Ivanka" weight="1" />
+      <edge id="1658" source="Sorosforprison" target="Modssssze" weight="1" />
+      <edge id="1659" source="Sorosforprison" target="theGreamMemeWar" weight="1" />
+      <edge id="1660" source="Sorosforprison" target="lockHerUp" weight="1" />
+      <edge id="1661" source="Sorosforprison" target="MockRedditAdmins" weight="1" />
+      <edge id="1662" source="Sorosforprison" target="HillaryForPrison" weight="3" />
+      <edge id="1663" source="Sorosforprison" target="PodestaEmails" weight="1" />
+      <edge id="1664" source="Sorosforprison" target="Le_Pen" weight="1" />
+      <edge id="1665" source="Sorosforprison" target="Trumpland" weight="2" />
+      <edge id="1666" source="Sorosforprison" target="BoycottCNN" weight="1" />
+      <edge id="1667" source="Sorosforprison" target="creepy_hillary" weight="1" />
+      <edge id="1668" source="Sorosforprison" target="theGreatMemeWar" weight="2" />
+      <edge id="1669" source="Albumleaks" target="newsbloopers" weight="1" />
+      <edge id="1670" source="Albumleaks" target="publicmodlogs" weight="1" />
+      <edge id="1671" source="Albumleaks" target="BannedFromBanned" weight="1" />
+      <edge id="1672" source="Albumleaks" target="VitaPiracy" weight="1" />
+      <edge id="1673" source="Albumleaks" target="MockRedditAdmins" weight="1" />
+      <edge id="1674" source="Albumleaks" target="WikiLeaks" weight="1" />
+      <edge id="1675" source="Albumleaks" target="aaronswartz" weight="1" />
+      <edge id="1676" source="Albumleaks" target="DNCleaks" weight="1" />
+      <edge id="1677" source="Albumleaks" target="HighEndGlass" weight="1" />
+      <edge id="1678" source="wikipedia" target="tidder" weight="1" />
+      <edge id="1679" source="wikipedia" target="rpg" weight="1" />
+      <edge id="1680" source="wikipedia" target="nature" weight="1" />
+      <edge id="1681" source="WikiLeaks" target="newsbloopers" weight="1" />
+      <edge id="1682" source="WikiLeaks" target="publicmodlogs" weight="1" />
+      <edge id="1683" source="WikiLeaks" target="BannedFromBanned" weight="1" />
+      <edge id="1684" source="WikiLeaks" target="VitaPiracy" weight="1" />
+      <edge id="1685" source="WikiLeaks" target="MockRedditAdmins" weight="1" />
+      <edge id="1686" source="WikiLeaks" target="aaronswartz" weight="1" />
+      <edge id="1687" source="WikiLeaks" target="DNCleaks" weight="1" />
+      <edge id="1688" source="WikiLeaks" target="HighEndGlass" weight="1" />
+      <edge id="1689" source="HighEndGlass" target="newsbloopers" weight="1" />
+      <edge id="1690" source="HighEndGlass" target="publicmodlogs" weight="1" />
+      <edge id="1691" source="HighEndGlass" target="DNCleaks" weight="1" />
+      <edge id="1692" source="HighEndGlass" target="BannedFromBanned" weight="1" />
+      <edge id="1693" source="HighEndGlass" target="VitaPiracy" weight="1" />
+      <edge id="1694" source="HighEndGlass" target="MockRedditAdmins" weight="1" />
+      <edge id="1695" source="HighEndGlass" target="aaronswartz" weight="1" />
+      <edge id="1696" source="PastAndPresentPics" target="thegoodwife" weight="1" />
+      <edge id="1697" source="PastAndPresentPics" target="Diablo3Wizards" weight="1" />
+      <edge id="1698" source="PastAndPresentPics" target="onetruegod" weight="1" />
+      <edge id="1699" source="PastAndPresentPics" target="paydaytheheist" weight="1" />
+      <edge id="1700" source="C_S_T" target="rubyonrails" weight="1" />
+      <edge id="1701" source="C_S_T" target="technewz" weight="1" />
+      <edge id="1702" source="C_S_T" target="darknetplan" weight="1" />
+      <edge id="1703" source="C_S_T" target="every_one_is_mod" weight="1" />
+      <edge id="1704" source="C_S_T" target="ConspiracyTheory" weight="1" />
+      <edge id="1705" source="C_S_T" target="WatchRedditDie" weight="1" />
+      <edge id="1706" source="C_S_T" target="IndiaSpeaks" weight="1" />
+      <edge id="1707" source="C_S_T" target="yyj" weight="1" />
+      <edge id="1708" source="C_S_T" target="finreviewz" weight="1" />
+      <edge id="1709" source="The_Ivanka" target="PodestaEmails" weight="1" />
+      <edge id="1710" source="The_Ivanka" target="Modssssze" weight="1" />
+      <edge id="1711" source="The_Ivanka" target="theGreamMemeWar" weight="1" />
+      <edge id="1712" source="The_Ivanka" target="Trumpland" weight="1" />
+      <edge id="1713" source="The_Ivanka" target="theGreatMemeWar" weight="1" />
+      <edge id="1714" source="The_Ivanka" target="HillaryForPrison" weight="2" />
+      <edge id="1715" source="The_Ivanka" target="AskThe_Donald" weight="1" />
+      <edge id="1716" source="technewz" target="rubyonrails" weight="1" />
+      <edge id="1717" source="technewz" target="IndiaSpeaks" weight="1" />
+      <edge id="1718" source="technewz" target="darknetplan" weight="1" />
+      <edge id="1719" source="technewz" target="every_one_is_mod" weight="1" />
+      <edge id="1720" source="technewz" target="ConspiracyTheory" weight="1" />
+      <edge id="1721" source="technewz" target="WatchRedditDie" weight="1" />
+      <edge id="1722" source="technewz" target="yyj" weight="1" />
+      <edge id="1723" source="technewz" target="finreviewz" weight="1" />
+      <edge id="1724" source="Modssssze" target="theGreatMemeWar" weight="1" />
+      <edge id="1725" source="Modssssze" target="Trumpland" weight="1" />
+      <edge id="1726" source="Modssssze" target="theGreamMemeWar" weight="1" />
+      <edge id="1727" source="Modssssze" target="PodestaEmails" weight="1" />
+      <edge id="1728" source="Modssssze" target="HillaryForPrison" weight="1" />
+      <edge id="1729" source="josephpfarrell" target="advancedtechresearch" weight="1" />
+      <edge id="1730" source="josephpfarrell" target="DocumentedTruth" weight="1" />
+      <edge id="1731" source="rubyonrails" target="IndiaSpeaks" weight="1" />
+      <edge id="1732" source="rubyonrails" target="darknetplan" weight="1" />
+      <edge id="1733" source="rubyonrails" target="every_one_is_mod" weight="1" />
+      <edge id="1734" source="rubyonrails" target="ConspiracyTheory" weight="1" />
+      <edge id="1735" source="rubyonrails" target="WatchRedditDie" weight="1" />
+      <edge id="1736" source="rubyonrails" target="yyj" weight="1" />
+      <edge id="1737" source="rubyonrails" target="finreviewz" weight="1" />
+      <edge id="1738" source="darknetplan" target="every_one_is_mod" weight="1" />
+      <edge id="1739" source="darknetplan" target="ConspiracyTheory" weight="1" />
+      <edge id="1740" source="darknetplan" target="WatchRedditDie" weight="1" />
+      <edge id="1741" source="darknetplan" target="IndiaSpeaks" weight="1" />
+      <edge id="1742" source="darknetplan" target="yyj" weight="1" />
+      <edge id="1743" source="darknetplan" target="finreviewz" weight="1" />
+      <edge id="1744" source="DocumentedTruth" target="advancedtechresearch" weight="1" />
+      <edge id="1745" source="rpg" target="tidder" weight="1" />
+      <edge id="1746" source="rpg" target="nature" weight="1" />
+      <edge id="1747" source="lockHerUp" target="Le_Pen" weight="1" />
+      <edge id="1748" source="lockHerUp" target="creepy_hillary" weight="1" />
+      <edge id="1749" source="lockHerUp" target="HillaryForPrison" weight="1" />
+      <edge id="1750" source="cnn" target="CharterSpectrum" weight="1" />
+      <edge id="1751" source="Diablo3Wizards" target="thegoodwife" weight="1" />
+      <edge id="1752" source="Diablo3Wizards" target="onetruegod" weight="1" />
+      <edge id="1753" source="Diablo3Wizards" target="paydaytheheist" weight="1" />
+      <edge id="1754" source="every_one_is_mod" target="IndiaSpeaks" weight="1" />
+      <edge id="1755" source="every_one_is_mod" target="ConspiracyTheory" weight="1" />
+      <edge id="1756" source="every_one_is_mod" target="WatchRedditDie" weight="1" />
+      <edge id="1757" source="every_one_is_mod" target="yyj" weight="1" />
+      <edge id="1758" source="every_one_is_mod" target="finreviewz" weight="1" />
+      <edge id="1759" source="WatchRedditDie" target="IndiaSpeaks" weight="1" />
+      <edge id="1760" source="WatchRedditDie" target="ConspiracyTheory" weight="1" />
+      <edge id="1761" source="WatchRedditDie" target="yyj" weight="1" />
+      <edge id="1762" source="WatchRedditDie" target="finreviewz" weight="1" />
+      <edge id="1763" source="tidder" target="nature" weight="1" />
+      <edge id="1764" source="ConspiracyTheory" target="IndiaSpeaks" weight="1" />
+      <edge id="1765" source="ConspiracyTheory" target="yyj" weight="1" />
+      <edge id="1766" source="ConspiracyTheory" target="finreviewz" weight="1" />
+      <edge id="1767" source="yyj" target="IndiaSpeaks" weight="1" />
+      <edge id="1768" source="yyj" target="finreviewz" weight="1" />
+      <edge id="1769" source="BoycottCNN" target="AskThe_Donald" weight="1" />
+      <edge id="1770" source="BoycottCNN" target="Trumpland" weight="1" />
+      <edge id="1771" source="BoycottCNN" target="MockRedditAdmins" weight="1" />
+      <edge id="1772" source="BoycottCNN" target="HillaryForPrison" weight="1" />
+      <edge id="1773" source="AskThe_Donald" target="Infowars" weight="1" />
+      <edge id="1774" source="AskThe_Donald" target="HillaryForPrison" weight="1" />
+      <edge id="1775" source="finreviewz" target="IndiaSpeaks" weight="1" />
+      <edge id="1776" source="neutralnews" target="Trumpland" weight="1" />
+      <edge id="1777" source="aaronswartz" target="newsbloopers" weight="1" />
+      <edge id="1778" source="aaronswartz" target="publicmodlogs" weight="1" />
+      <edge id="1779" source="aaronswartz" target="DNCleaks" weight="1" />
+      <edge id="1780" source="aaronswartz" target="VitaPiracy" weight="1" />
+      <edge id="1781" source="aaronswartz" target="MockRedditAdmins" weight="1" />
+      <edge id="1782" source="aaronswartz" target="BannedFromBanned" weight="1" />
+      <edge id="1783" source="theGreamMemeWar" target="theGreatMemeWar" weight="1" />
+      <edge id="1784" source="theGreamMemeWar" target="Trumpland" weight="1" />
+      <edge id="1785" source="theGreamMemeWar" target="PodestaEmails" weight="1" />
+      <edge id="1786" source="theGreamMemeWar" target="HillaryForPrison" weight="1" />
+      <edge id="1787" source="PodestaEmails" target="Trumpland" weight="1" />
+      <edge id="1788" source="PodestaEmails" target="theGreatMemeWar" weight="1" />
+      <edge id="1789" source="PodestaEmails" target="HillaryForPrison" weight="1" />
+      <edge id="1790" source="theGreatMemeWar" target="Trumpland" weight="1" />
+      <edge id="1791" source="theGreatMemeWar" target="HillaryForPrison" weight="1" />
+      <edge id="1792" source="censored" target="progun" weight="1" />
+      <edge id="1793" source="censored" target="EndlessWar" weight="1" />
+      <edge id="1794" source="censored" target="HillaryForPrison" weight="1" />
+      <edge id="1795" source="censored" target="NYYankees" weight="1" />
+      <edge id="1796" source="onetruegod" target="thegoodwife" weight="1" />
+      <edge id="1797" source="onetruegod" target="paydaytheheist" weight="1" />
+      <edge id="1798" source="newsbloopers" target="BannedFromBanned" weight="1" />
+      <edge id="1799" source="newsbloopers" target="VitaPiracy" weight="1" />
+      <edge id="1800" source="newsbloopers" target="publicmodlogs" weight="1" />
+      <edge id="1801" source="newsbloopers" target="MockRedditAdmins" weight="1" />
+      <edge id="1802" source="newsbloopers" target="DNCleaks" weight="1" />
+      <edge id="1803" source="progun" target="HillaryForPrison" weight="1" />
+      <edge id="1804" source="progun" target="EndlessWar" weight="1" />
+      <edge id="1805" source="progun" target="NYYankees" weight="1" />
+      <edge id="1806" source="publicmodlogs" target="BannedFromBanned" weight="1" />
+      <edge id="1807" source="publicmodlogs" target="VitaPiracy" weight="1" />
+      <edge id="1808" source="publicmodlogs" target="MockRedditAdmins" weight="1" />
+      <edge id="1809" source="publicmodlogs" target="DNCleaks" weight="1" />
+      <edge id="1810" source="creepy_hillary" target="Le_Pen" weight="1" />
+      <edge id="1811" source="creepy_hillary" target="HillaryForPrison" weight="1" />
+      <edge id="1812" source="BannedFromBanned" target="DNCleaks" weight="1" />
+      <edge id="1813" source="BannedFromBanned" target="VitaPiracy" weight="1" />
+      <edge id="1814" source="BannedFromBanned" target="MockRedditAdmins" weight="1" />
+      <edge id="1815" source="VitaPiracy" target="DNCleaks" weight="1" />
+      <edge id="1816" source="VitaPiracy" target="MockRedditAdmins" weight="1" />
+      <edge id="1817" source="MockRedditAdmins" target="DNCleaks" weight="1" />
+      <edge id="1818" source="MockRedditAdmins" target="HillaryForPrison" weight="1" />
+      <edge id="1819" source="MockRedditAdmins" target="NolibsWatch" weight="1" />
+      <edge id="1820" source="MockRedditAdmins" target="Trumpland" weight="1" />
+      <edge id="1821" source="HillaryForPrison" target="Le_Pen" weight="1" />
+      <edge id="1822" source="HillaryForPrison" target="DNCleaks" weight="1" />
+      <edge id="1823" source="HillaryForPrison" target="EndlessWar" weight="1" />
+      <edge id="1824" source="HillaryForPrison" target="Trumpland" weight="3" />
+      <edge id="1825" source="HillaryForPrison" target="NYYankees" weight="1" />
+      <edge id="1826" source="EndlessWar" target="DescentIntoTyranny" weight="1" />
+      <edge id="1827" source="EndlessWar" target="NYYankees" weight="1" />
+      <edge id="1828" source="paydaytheheist" target="thegoodwife" weight="1" />
+    </edges>
+  </graph>
+</gexf>

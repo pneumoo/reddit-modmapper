@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="whitebeauty" label="whitebeauty" />
+      <node id="RedPillReality" label="RedPillReality" />
+      <node id="BestOfTheCampus" label="BestOfTheCampus" />
+      <node id="BanThisBreed" label="BanThisBreed" />
+      <node id="hardright" label="hardright" />
+      <node id="Donald_For_President" label="Donald_For_President" />
+      <node id="sore_liberal_loosers" label="sore_liberal_loosers" />
+      <node id="altright" label="altright" />
+      <node id="blackpeoplehate" label="blackpeoplehate" />
+      <node id="DebateAltRight" label="DebateAltRight" />
+      <node id="awd" label="awd" />
+      <node id="NationalSocialism" label="NationalSocialism" />
+      <node id="all_wheel_drive" label="all_wheel_drive" />
+      <node id="winterdriving" label="winterdriving" />
+      <node id="OpinionsUncensored" label="OpinionsUncensored" />
+      <node id="polfacts" label="polfacts" />
+      <node id="uncensorednews" label="uncensorednews" />
+      <node id="FeministHate" label="FeministHate" />
+      <node id="BetterBitcoin" label="BetterBitcoin" />
+    </nodes>
+    <edges>
+      <edge id="0" source="whitebeauty" target="DebateAltRight" weight="1" />
+      <edge id="1" source="whitebeauty" target="NationalSocialism" weight="1" />
+      <edge id="2" source="whitebeauty" target="polfacts" weight="1" />
+      <edge id="3" source="whitebeauty" target="FeministHate" weight="1" />
+      <edge id="4" source="whitebeauty" target="altright" weight="1" />
+      <edge id="5" source="whitebeauty" target="blackpeoplehate" weight="1" />
+      <edge id="6" source="RedPillReality" target="DebateAltRight" weight="1" />
+      <edge id="7" source="RedPillReality" target="sore_liberal_loosers" weight="1" />
+      <edge id="8" source="RedPillReality" target="uncensorednews" weight="1" />
+      <edge id="9" source="RedPillReality" target="BestOfTheCampus" weight="1" />
+      <edge id="10" source="RedPillReality" target="altright" weight="2" />
+      <edge id="11" source="BestOfTheCampus" target="sore_liberal_loosers" weight="1" />
+      <edge id="12" source="BestOfTheCampus" target="uncensorednews" weight="1" />
+      <edge id="13" source="BestOfTheCampus" target="altright" weight="1" />
+      <edge id="14" source="BanThisBreed" target="DebateAltRight" weight="1" />
+      <edge id="15" source="BanThisBreed" target="altright" weight="1" />
+      <edge id="16" source="hardright" target="Donald_For_President" weight="1" />
+      <edge id="17" source="hardright" target="altright" weight="1" />
+      <edge id="18" source="hardright" target="OpinionsUncensored" weight="1" />
+      <edge id="19" source="Donald_For_President" target="OpinionsUncensored" weight="1" />
+      <edge id="20" source="Donald_For_President" target="altright" weight="1" />
+      <edge id="21" source="sore_liberal_loosers" target="uncensorednews" weight="1" />
+      <edge id="22" source="sore_liberal_loosers" target="altright" weight="1" />
+      <edge id="23" source="altright" target="blackpeoplehate" weight="1" />
+      <edge id="24" source="altright" target="DebateAltRight" weight="5" />
+      <edge id="25" source="altright" target="awd" weight="1" />
+      <edge id="26" source="altright" target="NationalSocialism" weight="1" />
+      <edge id="27" source="altright" target="all_wheel_drive" weight="1" />
+      <edge id="28" source="altright" target="winterdriving" weight="1" />
+      <edge id="29" source="altright" target="OpinionsUncensored" weight="1" />
+      <edge id="30" source="altright" target="polfacts" weight="1" />
+      <edge id="31" source="altright" target="uncensorednews" weight="1" />
+      <edge id="32" source="altright" target="FeministHate" weight="1" />
+      <edge id="33" source="altright" target="BetterBitcoin" weight="1" />
+      <edge id="34" source="blackpeoplehate" target="DebateAltRight" weight="1" />
+      <edge id="35" source="blackpeoplehate" target="NationalSocialism" weight="1" />
+      <edge id="36" source="blackpeoplehate" target="polfacts" weight="1" />
+      <edge id="37" source="blackpeoplehate" target="FeministHate" weight="1" />
+      <edge id="38" source="DebateAltRight" target="NationalSocialism" weight="1" />
+      <edge id="39" source="DebateAltRight" target="BetterBitcoin" weight="1" />
+      <edge id="40" source="DebateAltRight" target="polfacts" weight="1" />
+      <edge id="41" source="DebateAltRight" target="FeministHate" weight="1" />
+      <edge id="42" source="awd" target="all_wheel_drive" weight="1" />
+      <edge id="43" source="awd" target="winterdriving" weight="1" />
+      <edge id="44" source="NationalSocialism" target="polfacts" weight="1" />
+      <edge id="45" source="NationalSocialism" target="FeministHate" weight="1" />
+      <edge id="46" source="all_wheel_drive" target="winterdriving" weight="1" />
+      <edge id="47" source="polfacts" target="FeministHate" weight="1" />
+    </edges>
+  </graph>
+</gexf>

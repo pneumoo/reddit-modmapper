@@ -1,0 +1,476 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="subscribers" type="long" />
+    </attributes>
+    <nodes>
+      <node id="winterdrivingporn" label="winterdrivingporn">
+        <attvalues>
+          <attvalue for="0" value="282" />
+        </attvalues>
+      </node>
+      <node id="media" label="media">
+        <attvalues>
+          <attvalue for="0" value="4556" />
+        </attvalues>
+      </node>
+      <node id="winterdriving" label="winterdriving">
+        <attvalues>
+          <attvalue for="0" value="203" />
+        </attvalues>
+      </node>
+      <node id="AntiPOZi" label="AntiPOZi">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="NationalSocialism" label="NationalSocialism">
+        <attvalues>
+          <attvalue for="0" value="2676" />
+        </attvalues>
+      </node>
+      <node id="Race_Realism" label="Race_Realism">
+        <attvalues>
+          <attvalue for="0" value="768" />
+        </attvalues>
+      </node>
+      <node id="GoldenDawn" label="GoldenDawn">
+        <attvalues>
+          <attvalue for="0" value="85" />
+        </attvalues>
+      </node>
+      <node id="WhiteNationalism" label="WhiteNationalism">
+        <attvalues>
+          <attvalue for="0" value="1017" />
+        </attvalues>
+      </node>
+      <node id="OpinionsUncensored" label="OpinionsUncensored">
+        <attvalues>
+          <attvalue for="0" value="102" />
+        </attvalues>
+      </node>
+      <node id="WhiteRights" label="WhiteRights">
+        <attvalues>
+          <attvalue for="0" value="10206" />
+        </attvalues>
+      </node>
+      <node id="whitebeauty" label="whitebeauty">
+        <attvalues>
+          <attvalue for="0" value="2932" />
+        </attvalues>
+      </node>
+      <node id="FeministHate" label="FeministHate">
+        <attvalues>
+          <attvalue for="0" value="329" />
+        </attvalues>
+      </node>
+      <node id="DrawMohammedDay" label="DrawMohammedDay">
+        <attvalues>
+          <attvalue for="0" value="110" />
+        </attvalues>
+      </node>
+      <node id="BestOfTheCampus" label="BestOfTheCampus">
+        <attvalues>
+          <attvalue for="0" value="116" />
+        </attvalues>
+      </node>
+      <node id="hardright" label="hardright">
+        <attvalues>
+          <attvalue for="0" value="108" />
+        </attvalues>
+      </node>
+      <node id="WhiteRights2" label="WhiteRights2">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="BlackCrime" label="BlackCrime">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="911truth" label="911truth">
+        <attvalues>
+          <attvalue for="0" value="10453" />
+        </attvalues>
+      </node>
+      <node id="uncensorednews" label="uncensorednews">
+        <attvalues>
+          <attvalue for="0" value="99136" />
+        </attvalues>
+      </node>
+      <node id="Lugenpresse" label="Lugenpresse">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="sore_liberal_loosers" label="sore_liberal_loosers">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="Holodomor" label="Holodomor">
+        <attvalues>
+          <attvalue for="0" value="41" />
+        </attvalues>
+      </node>
+      <node id="polacks" label="polacks">
+        <attvalues>
+          <attvalue for="0" value="416" />
+        </attvalues>
+      </node>
+      <node id="ZOG" label="ZOG">
+        <attvalues>
+          <attvalue for="0" value="570" />
+        </attvalues>
+      </node>
+      <node id="blackpeoplehate" label="blackpeoplehate">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="DebateAltRight" label="DebateAltRight">
+        <attvalues>
+          <attvalue for="0" value="720" />
+        </attvalues>
+      </node>
+      <node id="GlobalNews" label="GlobalNews">
+        <attvalues>
+          <attvalue for="0" value="115" />
+        </attvalues>
+      </node>
+      <node id="BanThisBreed" label="BanThisBreed">
+        <attvalues>
+          <attvalue for="0" value="5" />
+        </attvalues>
+      </node>
+      <node id="White_Pride" label="White_Pride">
+        <attvalues>
+          <attvalue for="0" value="1114" />
+        </attvalues>
+      </node>
+      <node id="altright" label="altright">
+        <attvalues>
+          <attvalue for="0" value="11260" />
+        </attvalues>
+      </node>
+      <node id="ChrysiAvgi" label="ChrysiAvgi">
+        <attvalues>
+          <attvalue for="0" value="18" />
+        </attvalues>
+      </node>
+      <node id="polfacts" label="polfacts">
+        <attvalues>
+          <attvalue for="0" value="621" />
+        </attvalues>
+      </node>
+      <node id="retch" label="retch">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </node>
+      <node id="Donald_For_President" label="Donald_For_President">
+        <attvalues>
+          <attvalue for="0" value="166" />
+        </attvalues>
+      </node>
+      <node id="RedPillReality" label="RedPillReality">
+        <attvalues>
+          <attvalue for="0" value="232" />
+        </attvalues>
+      </node>
+      <node id="holocaust" label="holocaust">
+        <attvalues>
+          <attvalue for="0" value="2065" />
+        </attvalues>
+      </node>
+      <node id="AdolfHitler" label="AdolfHitler">
+        <attvalues>
+          <attvalue for="0" value="136" />
+        </attvalues>
+      </node>
+      <node id="awd" label="awd">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="LiberalDegeneracy" label="LiberalDegeneracy">
+        <attvalues>
+          <attvalue for="0" value="1102" />
+        </attvalues>
+      </node>
+      <node id="AmericanJewishPower" label="AmericanJewishPower">
+        <attvalues>
+          <attvalue for="0" value="611" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="whitebeauty" target="polfacts" weight="1.0" />
+      <edge id="128" source="whitebeauty" target="media" weight="1.0" />
+      <edge id="39" source="whitebeauty" target="hardright" weight="1.0" />
+      <edge id="122" source="whitebeauty" target="BlackCrime" weight="1.0" />
+      <edge id="129" source="whitebeauty" target="AdolfHitler" weight="2.0" />
+      <edge id="131" source="whitebeauty" target="DrawMohammedDay" weight="1.0" />
+      <edge id="126" source="whitebeauty" target="retch" weight="1.0" />
+      <edge id="130" source="whitebeauty" target="GoldenDawn" weight="1.0" />
+      <edge id="80" source="whitebeauty" target="ZOG" weight="2.0" />
+      <edge id="71" source="whitebeauty" target="Lugenpresse" weight="1.0" />
+      <edge id="54" source="whitebeauty" target="AntiPOZi" weight="1.0" />
+      <edge id="2" source="whitebeauty" target="blackpeoplehate" weight="1.0" />
+      <edge id="3" source="whitebeauty" target="DebateAltRight" weight="1.0" />
+      <edge id="4" source="whitebeauty" target="NationalSocialism" weight="1.0" />
+      <edge id="132" source="whitebeauty" target="Holodomor" weight="2.0" />
+      <edge id="5" source="whitebeauty" target="altright" weight="1.0" />
+      <edge id="6" source="whitebeauty" target="holocaust" weight="2.0" />
+      <edge id="125" source="whitebeauty" target="polacks" weight="1.0" />
+      <edge id="124" source="whitebeauty" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="1" source="whitebeauty" target="FeministHate" weight="1.0" />
+      <edge id="103" source="whitebeauty" target="WhiteRights" weight="3.0" />
+      <edge id="205" source="polfacts" target="media" weight="1.0" />
+      <edge id="28" source="polfacts" target="hardright" weight="1.0" />
+      <edge id="165" source="polfacts" target="BlackCrime" weight="1.0" />
+      <edge id="204" source="polfacts" target="AdolfHitler" weight="1.0" />
+      <edge id="206" source="polfacts" target="DrawMohammedDay" weight="1.0" />
+      <edge id="183" source="polfacts" target="retch" weight="1.0" />
+      <edge id="189" source="polfacts" target="GoldenDawn" weight="1.0" />
+      <edge id="89" source="polfacts" target="ZOG" weight="1.0" />
+      <edge id="61" source="polfacts" target="Lugenpresse" weight="1.0" />
+      <edge id="47" source="polfacts" target="AntiPOZi" weight="1.0" />
+      <edge id="7" source="polfacts" target="blackpeoplehate" weight="1.0" />
+      <edge id="8" source="polfacts" target="DebateAltRight" weight="1.0" />
+      <edge id="9" source="polfacts" target="NationalSocialism" weight="1.0" />
+      <edge id="207" source="polfacts" target="Holodomor" weight="1.0" />
+      <edge id="10" source="polfacts" target="altright" weight="1.0" />
+      <edge id="17" source="polfacts" target="holocaust" weight="1.0" />
+      <edge id="176" source="polfacts" target="polacks" weight="1.0" />
+      <edge id="201" source="polfacts" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="6" source="polfacts" target="FeministHate" weight="1.0" />
+      <edge id="113" source="polfacts" target="WhiteRights" weight="1.0" />
+      <edge id="164" source="BlackCrime" target="polacks" weight="1.0" />
+      <edge id="163" source="BlackCrime" target="AdolfHitler" weight="2.0" />
+      <edge id="169" source="BlackCrime" target="media" weight="1.0" />
+      <edge id="167" source="BlackCrime" target="retch" weight="1.0" />
+      <edge id="166" source="BlackCrime" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="173" source="BlackCrime" target="GoldenDawn" weight="2.0" />
+      <edge id="85" source="BlackCrime" target="ZOG" weight="2.0" />
+      <edge id="58" source="BlackCrime" target="Lugenpresse" weight="2.0" />
+      <edge id="44" source="BlackCrime" target="AntiPOZi" weight="1.0" />
+      <edge id="170" source="BlackCrime" target="White_Pride" weight="1.0" />
+      <edge id="168" source="BlackCrime" target="NationalSocialism" weight="1.0" />
+      <edge id="134" source="BlackCrime" target="WhiteNationalism" weight="1.0" />
+      <edge id="171" source="BlackCrime" target="Holodomor" weight="2.0" />
+      <edge id="172" source="BlackCrime" target="DrawMohammedDay" weight="1.0" />
+      <edge id="11" source="BlackCrime" target="holocaust" weight="2.0" />
+      <edge id="108" source="BlackCrime" target="WhiteRights" weight="2.0" />
+      <edge id="152" source="BlackCrime" target="ChrysiAvgi" weight="1.0" />
+      <edge id="144" source="BlackCrime" target="AmericanJewishPower" weight="1.0" />
+      <edge id="24" source="BlackCrime" target="hardright" weight="2.0" />
+      <edge id="213" source="Holodomor" target="media" weight="2.0" />
+      <edge id="188" source="Holodomor" target="retch" weight="1.0" />
+      <edge id="95" source="Holodomor" target="ZOG" weight="5.0" />
+      <edge id="57" source="Holodomor" target="AntiPOZi" weight="1.0" />
+      <edge id="210" source="Holodomor" target="NationalSocialism" weight="3.0" />
+      <edge id="219" source="Holodomor" target="DrawMohammedDay" weight="1.0" />
+      <edge id="23" source="Holodomor" target="holocaust" weight="5.0" />
+      <edge id="36" source="Holodomor" target="hardright" weight="2.0" />
+      <edge id="121" source="Holodomor" target="WhiteRights2" weight="1.0" />
+      <edge id="217" source="Holodomor" target="AdolfHitler" weight="3.0" />
+      <edge id="203" source="Holodomor" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="197" source="Holodomor" target="GoldenDawn" weight="4.0" />
+      <edge id="75" source="Holodomor" target="Lugenpresse" weight="2.0" />
+      <edge id="216" source="Holodomor" target="White_Pride" weight="3.0" />
+      <edge id="143" source="Holodomor" target="WhiteNationalism" weight="3.0" />
+      <edge id="181" source="Holodomor" target="polacks" weight="1.0" />
+      <edge id="159" source="Holodomor" target="ChrysiAvgi" weight="3.0" />
+      <edge id="148" source="Holodomor" target="AmericanJewishPower" weight="2.0" />
+      <edge id="119" source="Holodomor" target="WhiteRights" weight="6.0" />
+      <edge id="14" source="FeministHate" target="blackpeoplehate" weight="1.0" />
+      <edge id="15" source="FeministHate" target="DebateAltRight" weight="1.0" />
+      <edge id="16" source="FeministHate" target="NationalSocialism" weight="1.0" />
+      <edge id="17" source="FeministHate" target="altright" weight="1.0" />
+      <edge id="32" source="retch" target="hardright" weight="1.0" />
+      <edge id="182" source="retch" target="AdolfHitler" weight="1.0" />
+      <edge id="185" source="retch" target="media" weight="1.0" />
+      <edge id="186" source="retch" target="GoldenDawn" weight="1.0" />
+      <edge id="77" source="retch" target="ZOG" weight="1.0" />
+      <edge id="60" source="retch" target="Lugenpresse" weight="1.0" />
+      <edge id="46" source="retch" target="AntiPOZi" weight="1.0" />
+      <edge id="187" source="retch" target="DrawMohammedDay" weight="1.0" />
+      <edge id="13" source="retch" target="holocaust" weight="1.0" />
+      <edge id="175" source="retch" target="polacks" weight="1.0" />
+      <edge id="184" source="retch" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="109" source="retch" target="WhiteRights" weight="1.0" />
+      <edge id="91" source="ZOG" target="media" weight="2.0" />
+      <edge id="51" source="ZOG" target="AntiPOZi" weight="1.0" />
+      <edge id="93" source="ZOG" target="AdolfHitler" weight="5.0" />
+      <edge id="90" source="ZOG" target="NationalSocialism" weight="3.0" />
+      <edge id="3" source="ZOG" target="holocaust" weight="9.0" />
+      <edge id="79" source="ZOG" target="GlobalNews" weight="1.0" />
+      <edge id="84" source="ZOG" target="Race_Realism" weight="1.0" />
+      <edge id="27" source="ZOG" target="hardright" weight="2.0" />
+      <edge id="94" source="ZOG" target="DrawMohammedDay" weight="1.0" />
+      <edge id="87" source="ZOG" target="911truth" weight="1.0" />
+      <edge id="83" source="ZOG" target="ChrysiAvgi" weight="7.0" />
+      <edge id="86" source="ZOG" target="GoldenDawn" weight="7.0" />
+      <edge id="64" source="ZOG" target="Lugenpresse" weight="3.0" />
+      <edge id="92" source="ZOG" target="White_Pride" weight="8.0" />
+      <edge id="81" source="ZOG" target="WhiteNationalism" weight="8.0" />
+      <edge id="76" source="ZOG" target="polacks" weight="1.0" />
+      <edge id="88" source="ZOG" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="82" source="ZOG" target="AmericanJewishPower" weight="1.0" />
+      <edge id="78" source="ZOG" target="WhiteRights" weight="11.0" />
+      <edge id="30" source="winterdriving" target="winterdrivingporn" weight="1.0" />
+      <edge id="20" source="winterdriving" target="awd" weight="1.0" />
+      <edge id="31" source="winterdriving" target="altright" weight="1.0" />
+      <edge id="50" source="AntiPOZi" target="polacks" weight="1.0" />
+      <edge id="45" source="AntiPOZi" target="AdolfHitler" weight="1.0" />
+      <edge id="52" source="AntiPOZi" target="media" weight="1.0" />
+      <edge id="55" source="AntiPOZi" target="GoldenDawn" weight="1.0" />
+      <edge id="48" source="AntiPOZi" target="Lugenpresse" weight="1.0" />
+      <edge id="56" source="AntiPOZi" target="DrawMohammedDay" weight="1.0" />
+      <edge id="1" source="AntiPOZi" target="holocaust" weight="1.0" />
+      <edge id="53" source="AntiPOZi" target="WhiteRights" weight="1.0" />
+      <edge id="49" source="AntiPOZi" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="29" source="AntiPOZi" target="hardright" weight="1.0" />
+      <edge id="174" source="AdolfHitler" target="polacks" weight="1.0" />
+      <edge id="211" source="AdolfHitler" target="media" weight="1.0" />
+      <edge id="199" source="AdolfHitler" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="195" source="AdolfHitler" target="GoldenDawn" weight="3.0" />
+      <edge id="59" source="AdolfHitler" target="Lugenpresse" weight="2.0" />
+      <edge id="215" source="AdolfHitler" target="White_Pride" weight="3.0" />
+      <edge id="208" source="AdolfHitler" target="NationalSocialism" weight="2.0" />
+      <edge id="141" source="AdolfHitler" target="WhiteNationalism" weight="3.0" />
+      <edge id="218" source="AdolfHitler" target="DrawMohammedDay" weight="1.0" />
+      <edge id="21" source="AdolfHitler" target="holocaust" weight="5.0" />
+      <edge id="117" source="AdolfHitler" target="WhiteRights" weight="5.0" />
+      <edge id="158" source="AdolfHitler" target="ChrysiAvgi" weight="3.0" />
+      <edge id="149" source="AdolfHitler" target="AmericanJewishPower" weight="1.0" />
+      <edge id="25" source="AdolfHitler" target="hardright" weight="2.0" />
+      <edge id="34" source="blackpeoplehate" target="DebateAltRight" weight="1.0" />
+      <edge id="35" source="blackpeoplehate" target="NationalSocialism" weight="1.0" />
+      <edge id="36" source="blackpeoplehate" target="altright" weight="1.0" />
+      <edge id="29" source="DebateAltRight" target="BanThisBreed" weight="1.0" />
+      <edge id="37" source="DebateAltRight" target="NationalSocialism" weight="1.0" />
+      <edge id="38" source="DebateAltRight" target="RedPillReality" weight="1.0" />
+      <edge id="39" source="DebateAltRight" target="altright" weight="5.0" />
+      <edge id="192" source="NationalSocialism" target="GoldenDawn" weight="2.0" />
+      <edge id="65" source="NationalSocialism" target="Lugenpresse" weight="1.0" />
+      <edge id="209" source="NationalSocialism" target="White_Pride" weight="2.0" />
+      <edge id="137" source="NationalSocialism" target="WhiteNationalism" weight="2.0" />
+      <edge id="40" source="NationalSocialism" target="altright" weight="1.0" />
+      <edge id="18" source="NationalSocialism" target="holocaust" weight="3.0" />
+      <edge id="33" source="NationalSocialism" target="hardright" weight="1.0" />
+      <edge id="155" source="NationalSocialism" target="ChrysiAvgi" weight="2.0" />
+      <edge id="146" source="NationalSocialism" target="AmericanJewishPower" weight="1.0" />
+      <edge id="114" source="NationalSocialism" target="WhiteRights" weight="3.0" />
+      <edge id="5" source="WhiteRights2" target="holocaust" weight="1.0" />
+      <edge id="120" source="WhiteRights2" target="AmericanJewishPower" weight="1.0" />
+      <edge id="102" source="WhiteRights2" target="WhiteRights" weight="1.0" />
+      <edge id="42" source="RedPillReality" target="altright" weight="2.0" />
+      <edge id="33" source="RedPillReality" target="BestOfTheCampus" weight="1.0" />
+      <edge id="27" source="RedPillReality" target="sore_liberal_loosers" weight="1.0" />
+      <edge id="24" source="RedPillReality" target="uncensorednews" weight="1.0" />
+      <edge id="96" source="GlobalNews" target="White_Pride" weight="1.0" />
+      <edge id="99" source="GlobalNews" target="WhiteNationalism" weight="1.0" />
+      <edge id="98" source="GlobalNews" target="GoldenDawn" weight="1.0" />
+      <edge id="100" source="GlobalNews" target="ChrysiAvgi" weight="1.0" />
+      <edge id="97" source="GlobalNews" target="WhiteRights" weight="1.0" />
+      <edge id="19" source="holocaust" target="media" weight="1.0" />
+      <edge id="10" source="holocaust" target="Race_Realism" weight="1.0" />
+      <edge id="12" source="holocaust" target="hardright" weight="2.0" />
+      <edge id="22" source="holocaust" target="DrawMohammedDay" weight="1.0" />
+      <edge id="15" source="holocaust" target="911truth" weight="1.0" />
+      <edge id="9" source="holocaust" target="ChrysiAvgi" weight="5.0" />
+      <edge id="14" source="holocaust" target="GoldenDawn" weight="5.0" />
+      <edge id="2" source="holocaust" target="Lugenpresse" weight="3.0" />
+      <edge id="20" source="holocaust" target="White_Pride" weight="6.0" />
+      <edge id="7" source="holocaust" target="WhiteNationalism" weight="6.0" />
+      <edge id="0" source="holocaust" target="polacks" weight="1.0" />
+      <edge id="16" source="holocaust" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="8" source="holocaust" target="AmericanJewishPower" weight="2.0" />
+      <edge id="4" source="holocaust" target="WhiteRights" weight="10.0" />
+      <edge id="160" source="Race_Realism" target="White_Pride" weight="3.0" />
+      <edge id="133" source="Race_Realism" target="WhiteNationalism" weight="3.0" />
+      <edge id="161" source="Race_Realism" target="911truth" weight="1.0" />
+      <edge id="151" source="Race_Realism" target="ChrysiAvgi" weight="1.0" />
+      <edge id="162" source="Race_Realism" target="GoldenDawn" weight="1.0" />
+      <edge id="107" source="Race_Realism" target="WhiteRights" weight="3.0" />
+      <edge id="34" source="hardright" target="media" weight="1.0" />
+      <edge id="13" source="hardright" target="Donald_For_President" weight="1.0" />
+      <edge id="38" source="hardright" target="DrawMohammedDay" weight="1.0" />
+      <edge id="31" source="hardright" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="40" source="hardright" target="GoldenDawn" weight="2.0" />
+      <edge id="30" source="hardright" target="Lugenpresse" weight="2.0" />
+      <edge id="35" source="hardright" target="White_Pride" weight="1.0" />
+      <edge id="41" source="hardright" target="WhiteNationalism" weight="1.0" />
+      <edge id="44" source="hardright" target="altright" weight="1.0" />
+      <edge id="45" source="hardright" target="OpinionsUncensored" weight="1.0" />
+      <edge id="26" source="hardright" target="polacks" weight="1.0" />
+      <edge id="43" source="hardright" target="ChrysiAvgi" weight="1.0" />
+      <edge id="42" source="hardright" target="AmericanJewishPower" weight="1.0" />
+      <edge id="37" source="hardright" target="WhiteRights" weight="2.0" />
+      <edge id="32" source="BestOfTheCampus" target="altright" weight="1.0" />
+      <edge id="26" source="BestOfTheCampus" target="sore_liberal_loosers" weight="1.0" />
+      <edge id="23" source="BestOfTheCampus" target="uncensorednews" weight="1.0" />
+      <edge id="180" source="DrawMohammedDay" target="polacks" weight="1.0" />
+      <edge id="214" source="DrawMohammedDay" target="media" weight="1.0" />
+      <edge id="196" source="DrawMohammedDay" target="GoldenDawn" weight="1.0" />
+      <edge id="69" source="DrawMohammedDay" target="Lugenpresse" weight="1.0" />
+      <edge id="118" source="DrawMohammedDay" target="WhiteRights" weight="1.0" />
+      <edge id="202" source="DrawMohammedDay" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="11" source="Donald_For_President" target="altright" weight="1.0" />
+      <edge id="12" source="Donald_For_President" target="OpinionsUncensored" weight="1.0" />
+      <edge id="198" source="911truth" target="White_Pride" weight="1.0" />
+      <edge id="136" source="911truth" target="WhiteNationalism" weight="1.0" />
+      <edge id="154" source="911truth" target="ChrysiAvgi" weight="1.0" />
+      <edge id="190" source="911truth" target="GoldenDawn" weight="1.0" />
+      <edge id="111" source="911truth" target="WhiteRights" weight="1.0" />
+      <edge id="21" source="uncensorednews" target="altright" weight="1.0" />
+      <edge id="22" source="uncensorednews" target="sore_liberal_loosers" weight="1.0" />
+      <edge id="18" source="awd" target="winterdrivingporn" weight="1.0" />
+      <edge id="19" source="awd" target="altright" weight="1.0" />
+      <edge id="156" source="ChrysiAvgi" target="media" weight="1.0" />
+      <edge id="153" source="ChrysiAvgi" target="GoldenDawn" weight="6.0" />
+      <edge id="70" source="ChrysiAvgi" target="Lugenpresse" weight="1.0" />
+      <edge id="150" source="ChrysiAvgi" target="AmericanJewishPower" weight="1.0" />
+      <edge id="157" source="ChrysiAvgi" target="White_Pride" weight="7.0" />
+      <edge id="140" source="ChrysiAvgi" target="WhiteNationalism" weight="7.0" />
+      <edge id="106" source="ChrysiAvgi" target="WhiteRights" weight="7.0" />
+      <edge id="193" source="GoldenDawn" target="media" weight="2.0" />
+      <edge id="72" source="GoldenDawn" target="Lugenpresse" weight="2.0" />
+      <edge id="194" source="GoldenDawn" target="White_Pride" weight="6.0" />
+      <edge id="135" source="GoldenDawn" target="WhiteNationalism" weight="6.0" />
+      <edge id="179" source="GoldenDawn" target="polacks" weight="1.0" />
+      <edge id="191" source="GoldenDawn" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="145" source="GoldenDawn" target="AmericanJewishPower" weight="1.0" />
+      <edge id="110" source="GoldenDawn" target="WhiteRights" weight="7.0" />
+      <edge id="66" source="media" target="Lugenpresse" weight="1.0" />
+      <edge id="212" source="media" target="White_Pride" weight="1.0" />
+      <edge id="138" source="media" target="WhiteNationalism" weight="1.0" />
+      <edge id="178" source="media" target="polacks" weight="1.0" />
+      <edge id="200" source="media" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="115" source="media" target="WhiteRights" weight="2.0" />
+      <edge id="67" source="Lugenpresse" target="White_Pride" weight="1.0" />
+      <edge id="73" source="Lugenpresse" target="WhiteNationalism" weight="1.0" />
+      <edge id="63" source="Lugenpresse" target="polacks" weight="1.0" />
+      <edge id="62" source="Lugenpresse" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="74" source="Lugenpresse" target="AmericanJewishPower" weight="1.0" />
+      <edge id="68" source="Lugenpresse" target="WhiteRights" weight="3.0" />
+      <edge id="147" source="AmericanJewishPower" target="White_Pride" weight="1.0" />
+      <edge id="142" source="AmericanJewishPower" target="WhiteNationalism" weight="1.0" />
+      <edge id="105" source="AmericanJewishPower" target="WhiteRights" weight="2.0" />
+      <edge id="28" source="BanThisBreed" target="altright" weight="1.0" />
+      <edge id="25" source="sore_liberal_loosers" target="altright" weight="1.0" />
+      <edge id="139" source="WhiteNationalism" target="White_Pride" weight="13.0" />
+      <edge id="104" source="WhiteNationalism" target="WhiteRights" weight="13.0" />
+      <edge id="41" source="winterdrivingporn" target="altright" weight="1.0" />
+      <edge id="43" source="altright" target="OpinionsUncensored" weight="1.0" />
+      <edge id="101" source="polacks" target="WhiteRights" weight="2.0" />
+      <edge id="177" source="polacks" target="LiberalDegeneracy" weight="1.0" />
+      <edge id="112" source="LiberalDegeneracy" target="WhiteRights" weight="1.0" />
+      <edge id="116" source="White_Pride" target="WhiteRights" weight="13.0" />
+    </edges>
+  </graph>
+</gexf>
